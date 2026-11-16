@@ -1,0 +1,192 @@
+[
+  {
+    "id": "tryout-skd-1",
+    "judul": "Paket 1: Simulasi Try Out SKD Utuh (110 Soal)",
+    "kategori": "tryout_utuh",
+    "subtes_label": "SKD Utuh (TWK + TIU + TKP)",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 100,
+    "jumlah_soal": 110,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 80,
+      "TKP": 166,
+      "total_maks": 550
+    },
+    "rincian": "30 TWK • 35 TIU • 45 TKP",
+    "deskripsi": "Simulasi CAT BKN utuh mengacu KepmenPANRB No. 321/2024 & pola FR 2023–2026 lengkap dengan cara cepat dan rincian skor 1–5.",
+    "file_json": "data/paket-tryout-1.json"
+  },
+  {
+    "id": "latihan-twk-1",
+    "judul": "Latihan Bab TWK - Paket 1 (30 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TWK (Tes Wawasan Kebangsaan)",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 30,
+    "jumlah_soal": 30,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 0,
+      "TKP": 0,
+      "total_maks": 150
+    },
+    "rincian": "30 Soal TWK Penalaran & Bahasa Indonesia",
+    "deskripsi": "Fokus pendalaman Nasionalisme, Integritas, Bela Negara, Pilar Negara, dan Bahasa Indonesia berbasis penalaran studi kasus.",
+    "file_json": "data/latihan-twk-1.json"
+  },
+  {
+    "id": "latihan-tiu-1",
+    "judul": "Latihan Bab TIU - Paket 1 (35 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TIU (Tes Intelegensia Umum)",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 35,
+    "jumlah_soal": 35,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 80,
+      "TKP": 0,
+      "total_maks": 175
+    },
+    "rincian": "35 Soal Verbal, Numerik P-Q, & Figural SVG",
+    "deskripsi": "Fokus penguasaan Analogi Kalimat, Silogisme 3 Premis, Analitis Meja/Antrean, Pecahan Istimewa, Tabel P-Q, dan Figural.",
+    "file_json": "data/latihan-tiu-1.json"
+  },
+  {
+    "id": "latihan-tkp-1",
+    "judul": "Latihan Bab TKP - Paket 1 (45 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TKP (Tes Karakteristik Pribadi)",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 40,
+    "jumlah_soal": 45,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 0,
+      "TKP": 166,
+      "total_maks": 225
+    },
+    "rincian": "45 Soal 6 Aspek TKP + Skor 1–5",
+    "deskripsi": "Fokus latihan Pelayanan Publik, Jejaring Kerja, Sosial Budaya, TIK, Profesionalisme, dan Anti Radikalisme.",
+    "file_json": "data/latihan-tkp-1.json"
+  },
+  {
+    "id": "latihan-twk-2",
+    "judul": "Latihan Bab TWK - Paket 2 (30 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TWK (Paket 2 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 30,
+    "jumlah_soal": 30,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 0,
+      "TKP": 0,
+      "total_maks": 150
+    },
+    "rincian": "30 Soal TWK Penalaran & Studi Kasus",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus penguatan penalaran konstitusi, integritas, dan wacana.",
+    "file_json": "data/latihan-twk-2.json"
+  },
+  {
+    "id": "latihan-twk-3",
+    "judul": "Latihan Bab TWK - Paket 3 (30 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TWK (Paket 3 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 30,
+    "jumlah_soal": 30,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 0,
+      "TKP": 0,
+      "total_maks": 150
+    },
+    "rincian": "30 Soal TWK Penalaran & Studi Kasus",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus pemantapan bela negara, pilar kebangsaan, dan EYD V.",
+    "file_json": "data/latihan-twk-3.json"
+  },
+  {
+    "id": "latihan-tiu-2",
+    "judul": "Latihan Bab TIU - Paket 2 (35 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TIU (Paket 2 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 35,
+    "jumlah_soal": 35,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 80,
+      "TKP": 0,
+      "total_maks": 175
+    },
+    "rincian": "35 Soal Verbal, Numerik, & Figural",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus kecepatan hitung kuantitatif dan penalaran analitis.",
+    "file_json": "data/latihan-tiu-2.json"
+  },
+  {
+    "id": "latihan-tiu-3",
+    "judul": "Latihan Bab TIU - Paket 3 (35 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TIU (Paket 3 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 35,
+    "jumlah_soal": 35,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 80,
+      "TKP": 0,
+      "total_maks": 175
+    },
+    "rincian": "35 Soal Verbal, Numerik, & Figural",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus variasi deret, tabel perbandingan P-Q, dan rotasi figural.",
+    "file_json": "data/latihan-tiu-3.json"
+  },
+  {
+    "id": "latihan-tkp-2",
+    "judul": "Latihan Bab TKP - Paket 2 (45 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TKP (Paket 2 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 40,
+    "jumlah_soal": 45,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 0,
+      "TKP": 166,
+      "total_maks": 225
+    },
+    "rincian": "45 Soal Studi Kasus 6 Aspek TKP",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus ketajaman memilih opsi poin 5 pada kasus dilematis.",
+    "file_json": "data/latihan-tkp-2.json"
+  },
+  {
+    "id": "latihan-tkp-3",
+    "judul": "Latihan Bab TKP - Paket 3 (45 Soal)",
+    "kategori": "latihan_bab",
+    "subtes_label": "TKP (Paket 3 dari 3)",
+    "minggu_rilis": "Segera Hadir",
+    "status": "upcoming",
+    "durasi_menit": 40,
+    "jumlah_soal": 45,
+    "ambang_batas": {
+      "TWK": 0,
+      "TIU": 0,
+      "TKP": 166,
+      "total_maks": 225
+    },
+    "rincian": "45 Soal Studi Kasus 6 Aspek TKP",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus pemantapan pelayanan publik, TIK, dan anti radikalisme.",
+    "file_json": "data/latihan-tkp-3.json"
+  }
+]
