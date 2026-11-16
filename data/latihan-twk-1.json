@@ -1,0 +1,516 @@
+{
+  "id": "latihan-twk-1",
+  "judul": "Latihan Bab TWK - Paket 1 (30 Soal)",
+  "soal": [
+    {
+      "no": 1,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Sejarah Pergerakan Nasional",
+      "soal": "Pada awal abad ke-20, pendirian Budi Utomo pada 20 Mei 1908 menandai babak baru perjuangan bangsa Indonesia. Berbeda dengan perlawanan di era Pangeran Diponegoro atau Tuanku Imam Bonjol yang bertumpu pada kharisma tokoh lokal dan kekuatan senjata di daerah masing-masing, strategi perjuangan yang mulai dibangun sejak 1908 menitikberatkan pada perubahan mendasar, yaitu...",
+      "opsi": {
+        "A": "Menggalang bantuan militer dari negara-negara Asia Timur untuk mengusir pemerintah kolonial secara serentak",
+        "B": "Mengubah pola perjuangan dari fisik-kedaerahan menjadi diplomasi terorganisasi melalui organisasi modern dan pendidikan",
+        "C": "Menolak seluruh bentuk sistem pendidikan Barat dan menggantinya dengan sistem pendidikan tradisional keraton",
+        "D": "Memindahkan pusat komando perlawanan bersenjata dari pedalaman pulau Jawa ke kota-kota pelabuhan dagang",
+        "E": "Menuntut kemerdekaan penuh secara langsung melalui petisi di parlemen Belanda pada tahun berdirinya organisasi"
+      },
+      "kunci": "B",
+      "inti_soal": "Perbedaan esensial perjuangan sebelum 1908 dan sesudah 1908 (Kebangkitan Nasional).",
+      "trik_cepat": "Ingat kata kunci Kebangkitan Nasional 1908: dari 'kedaerahan & senjata fisik' beralih ke 'organisasi modern, pendidikan, dan kesadaran nasional'.",
+      "pembahasan": "Opsi B tepat karena tonggak 1908 mengubah strategi perjuangan dari perlawanan fisik yang bersifat lokal/kedaerahan (mudah dipecah belah dengan politik devide et impera) menjadi perjuangan berbasis organisasi modern, diplomasi, dan peningkatan martabat melalui pendidikan. Opsi A dan D salah karena bukan fokus militer. Opsi C salah karena Budi Utomo justru memanfaatkan akses pendidikan modern. Opsi E salah karena Budi Utomo pada awal berdiri masih fokus pada pendidikan dan kebudayaan, belum menuntut kemerdekaan politik secara langsung."
+    },
+    {
+      "no": 2,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Ekonomi Kerakyatan",
+      "soal": "H.O.S. Tjokroaminoto bersama Sarekat Islam pada masa pergerakan nasional mampu menarik jutaan anggota lintas lapisan masyarakat dalam waktu singkat. Jika nilai perjuangan Sarekat Islam tersebut dikontekstualisasikan oleh seorang ASN di kementerian yang membidangi koperasi dan UMKM saat ini, tindakan yang paling mencerminkan semangat historis tersebut adalah...",
+      "opsi": {
+        "A": "Membatasi izin usaha bagi seluruh perusahaan multinasional agar pasar domestik dikuasai penuh oleh satu kelompok pedagang",
+        "B": "Memperkuat kemandirian pelaku usaha lokal melalui akses pembiayaan adil, digitalisasi rantai pasok, dan pelindungan dari praktik monopoli",
+        "C": "Memberikan bantuan uang tunai secara cuma-cuma kepada pedagang kecil tanpa disertai pendampingan manajemen usaha",
+        "D": "Mewajibkan seluruh pegawai pemerintah membeli produk UMKM tertentu meskipun kualitasnya belum memenuhi standar keselamatan",
+        "E": "Menyerahkan mekanisme persaingan antara pedagang tradisional dan korporasi besar sepenuhnya pada hukum pasar bebas"
+      },
+      "kunci": "B",
+      "inti_soal": "Implementasi semangat perjuangan ekonomi Sarekat Islam dalam kebijakan pemberdayaan UMKM masa kini.",
+      "trik_cepat": "Sarekat Islam (awalnya Sarekat Dagang Islam) lahir untuk memberdayakan ekonomi pribumi menghadapi dominasi dan ketidakadilan dagang. Cari opsi yang 'memberdayakan kemandirian ekonomi secara sistemik dan adil'.",
+      "pembahasan": "Opsi B paling tepat karena esensi perjuangan Sarekat Islam adalah kemandirian dan keadilan ekonomi bagi rakyat kecil melalui penguatan kapasitas dan pelindungan dari monopoli. Opsi A terlalu ekstrem/diskriminatif, Opsi C tidak mendidik kemandirian, Opsi D mengabaikan standar mutu publik, dan Opsi E bertentangan dengan semangat ekonomi konstitusi Pasal 33 UUD 1945."
+    },
+    {
+      "no": 3,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Identitas Nasional di Era Global",
+      "soal": "Arus budaya populer asing yang masuk melalui algoritma media sosial membuat sebagian generasi muda lebih mengenal tren luar negeri dibandingkan kekayaan budaya lokal. Sebagai ASN yang bertugas merancang kampanye kebudayaan di ruang digital, langkah paling konstruktif yang mencerminkan nasionalisme terbuka (inklusif) adalah...",
+      "opsi": {
+        "A": "Mengusulkan pemblokiran seluruh platform media sosial asing agar masyarakat hanya mengakses portal berita milik pemerintah",
+        "B": "Mengemas nilai, cerita rakyat, dan kearifan lokal ke dalam format visual kreatif yang relevan dengan tren digital global tanpa kehilangan jati diri",
+        "C": "Menerbitkan aturan denda bagi kreator konten lokal yang menggunakan bahasa asing atau musik luar negeri dalam karyanya",
+        "D": "Membuat seminar tatap muka konvensional tentang sejarah budaya yang wajib dihadiri pelajar setiap akhir pekan",
+        "E": "Mengabaikan fenomena tersebut karena perubahan selera budaya generasi muda merupakan hal alami yang tidak perlu diintervensi"
+      },
+      "kunci": "B",
+      "inti_soal": "Sikap nasionalisme terbuka (bukan chauvinisme/isolasionisme) dalam menghadapi budaya global di media sosial.",
+      "trik_cepat": "Nasionalisme Indonesia bersifat inklusif dan adaptif: bukan memblokir/anti-asing (A/C) dan bukan pasrah (E), melainkan mengadaptasi medium modern untuk mengangkat identitas nasional (B).",
+      "pembahasan": "Opsi B mencerminkan nasionalisme positif dan adaptif sesuai Pasal 32 ayat (1) UUD 1945: memajukan kebudayaan nasional di tengah peradaban dunia dengan memanfaatkan teknologi modern. Opsi A dan C bersifat tertutup/represif, Opsi D kurang efektif menjangkau ruang digital, dan Opsi E menunjukkan sikap apatis."
+    },
+    {
+      "no": 4,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Politik Luar Negeri Bebas Aktif",
+      "soal": "Ketika terjadi ketegangan geopolitik antara dua blok kekuatan ekonomi dunia yang berdampak pada terganggunya jalur distribusi pangan global, posisi Pemerintah Indonesia yang paling selaras dengan amanat Pembukaan UUD NRI Tahun 1945 alinea keempat dan prinsip politik luar negeri bebas aktif adalah...",
+      "opsi": {
+        "A": "Bergabung secara resmi dengan blok ekonomi yang menawarkan pinjaman dana terbesar demi mengamankan stok pangan nasional",
+        "B": "Menutup seluruh hubungan diplomatik dan perdagangan internasional agar Indonesia tidak terseret ke dalam pusaran konflik",
+        "C": "Mengambil posisi netral-pasif dengan menolak hadir dalam seluruh forum perundingan internasional yang membahas krisis tersebut",
+        "D": "Tidak memihak pakta militer mana pun sambil aktif menginisiasi dialog perdamaian dan kerja sama ketahanan pangan di forum multilateral",
+        "E": "Mengirimkan pasukan tempur secara sepihak tanpa mandat PBB untuk mengamankan jalur pelayaran dagang internasional"
+      },
+      "kunci": "D",
+      "inti_soal": "Penerapan prinsip politik luar negeri 'Bebas Aktif' dalam krisis geopolitik global.",
+      "trik_cepat": "Bebas = tidak memihak blok kekuatan/militer (eliminasi A). Aktif = turut serta mewujudkan perdamaian dunia & keadilan sosial, bukan pasif/isolasi (eliminasi B & C).",
+      "pembahasan": "Opsi D tepat karena menggabungkan aspek 'Bebas' (tidak terikat pakta militer/blok) dan 'Aktif' (mengupayakan perdamaian dan solusi kemanusiaan/pangan dunia sesuai tujuan negara 'ikut melaksanakan ketertiban dunia'). Opsi A melanggar prinsip bebas, Opsi B dan C melanggar prinsip aktif, sedangkan Opsi E melanggar hukum internasional."
+    },
+    {
+      "no": 5,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Sumpah Pemuda & Persatuan",
+      "soal": "Dalam Kongres Pemuda II tanggal 28 Oktober 1928, para pemuda dari berbagai organisasi kedaerahan seperti Jong Java, Jong Sumatranen Bond, dan Jong Ambon sepakat meleburkan ego sektoral mereka. Apabila semangat Sumpah Pemuda tersebut diterapkan dalam birokrasi kementerian yang memiliki pegawai dari berbagai latar belakang daerah, wujud perilaku yang paling tepat adalah...",
+      "opsi": {
+        "A": "Menempatkan pegawai pada tim kerja berdasarkan kesamaan suku dan daerah asal agar komunikasi internal berjalan tanpa hambatan",
+        "B": "Mengutamakan objektivitas kompetensi dan kolaborasi lintas daerah demi mencapai target pelayanan nasional tanpa favoritisme kedaerahan",
+        "C": "Mewajibkan seluruh pegawai melupakan bahasa daerah masing-masing baik di kantor maupun di lingkungan keluarga",
+        "D": "Memberikan kuota promosi jabatan secara bergiliran berdasarkan urutan abjad provinsi asal pegawai tanpa tes kompetensi",
+        "E": "Menghindari penugasan pegawai ke daerah luar pulau asalnya untuk mencegah potensi gesekan budaya dengan masyarakat setempat"
+      },
+      "kunci": "B",
+      "inti_soal": "Implementasi nilai Sumpah Pemuda dalam manajemen ASN lintas daerah (sistem merit & perekat bangsa).",
+      "trik_cepat": "ASN adalah perekat dan pemersatu bangsa: tolak primordialisme/sukuisme (A, E) dan tolak pemaksaan yang menghapus budaya daerah (C). Pilih kolaborasi berbasis merit/kompetensi (B).",
+      "pembahasan": "Opsi B tepat karena memadukan semangat persatuan lintas daerah dengan profesionalisme birokrasi (sistem merit). Opsi A dan E memperkuat sekat kedaerahan (primordialisme), Opsi C melanggar Pasal 32 ayat (2) UUD 1945 yang menghormati bahasa daerah, dan Opsi D mengabaikan kualifikasi/kompetensi jabatan."
+    },
+    {
+      "no": 6,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Kedaulatan Ekonomi & Produk Dalam Negeri",
+      "soal": "Pemerintah gencar mendorong kebijakan Peningkatan Penggunaan Produk Dalam Negeri (P3DN) dalam pengadaan barang dan jasa di instansi pemerintah. Dari sudut pandang nasionalisme ekonomi, tujuan strategis jangka panjang dari kebijakan tersebut adalah...",
+      "opsi": {
+        "A": "Menghabiskan pagu anggaran kementerian secepat mungkin sebelum akhir tahun anggaran berakhir",
+        "B": "Menciptakan efek berganda (multiplier effect) bagi industri nasional, menyerap tenaga kerja lokal, dan mengurangi ketergantungan impor",
+        "C": "Menghentikan seluruh aktivitas perdagangan ekspor-impor Indonesia dengan negara mitra di kawasan ASEAN",
+        "D": "Memberikan keuntungan eksklusif kepada badan usaha milik negara tanpa membuka peluang bagi pelaku usaha swasta nasional",
+        "E": "Menurunkan standar spesifikasi teknis barang pemerintah agar seluruh produk rumahan dapat dibeli tanpa uji mutu"
+      },
+      "kunci": "B",
+      "inti_soal": "Esensi kebijakan penggunaan produk dalam negeri (P3DN) sebagai wujud nasionalisme ekonomi.",
+      "trik_cepat": "Fokus pada dampak makroekonomi nasional: menggerakkan industri lokal, membuka lapangan kerja, dan kemandirian bangsa.",
+      "pembahasan": "Opsi B tepat karena belanja pemerintah yang diarahkan pada produk lokal ber-TKDN (Tingkat Komponen Dalam Negeri) tinggi akan memutar roda industri nasional, menjaga devisa, dan memperluas lapangan kerja. Opsi A bersifat administratif sempit, Opsi C mengisolasi perdagangan, Opsi D memonopoli pasar, dan Opsi E mengorbankan kualitas layanan publik."
+    },
+    {
+      "no": 7,
+      "subtes": "TWK",
+      "topik": "Integritas - Gratifikasi & Benturan Kepentingan",
+      "soal": "Raka adalah seorang pejabat pengadaan di sebuah instansi pusat. Dua hari setelah proses lelang selesai dan pemenang diumumkan secara sah sesuai prosedur, direktur perusahaan pemenang mengirimkan bingkisan parsel berisi perangkat elektronik ke alamat rumah Raka sebagai 'ucapan terima kasih dan tali silaturahmi'. Tindakan Raka yang paling mencerminkan integritas tinggi sesuai regulasi pemberantasan tindak pidana korupsi adalah...",
+      "opsi": {
+        "A": "Menerima bingkisan tersebut karena proses lelang sudah selesai dan tidak ada kesepakatan curang sebelumnya",
+        "B": "Menolak secara sopan pemberian tersebut atau melaporkannya kepada KPK/Unit Pengendali Gratifikasi (UPG) instansi paling lambat 30 hari kerja",
+        "C": "Menerima perangkat elektronik tersebut lalu menjualnya untuk disumbangkan ke panti asuhan atas nama pribadi",
+        "D": "Menyimpan barang tersebut di gudang kantor tanpa membuat laporan resmi agar tidak menyinggung perasaan rekanan",
+        "E": "Meminta perusahaan mengganti barang elektronik tersebut dengan jamuan makan malam bersama seluruh staf pengadaan"
+      },
+      "kunci": "B",
+      "inti_soal": "Penanganan gratifikasi yang berhubungan dengan jabatan (Pasal 12B & 12C UU Tipikor).",
+      "trik_cepat": "Setiap pemberian dari rekanan/vendor yang berkaitan dengan jabatan adalah gratifikasi (meski lelang sudah selesai dan berlabel 'terima kasih'). Solusi wajib: Tolak seketika atau lapor ke UPG/KPK maksimal 30 hari kerja.",
+      "pembahasan": "Opsi B tepat sesuai UU No. 20 Tahun 2001 tentang Perubahan atas UU No. 31 Tahun 1999: penerimaan hadiah yang berhubungan dengan jabatan wajib ditolak, atau jika tidak dapat ditolak saat itu (misal dikirim ke rumah), wajib dilaporkan ke KPK/UPG maksimal 30 hari kerja. Opsi A, C, D, dan E tetap melanggar aturan gratifikasi dan kode etik ASN."
+    },
+    {
+      "no": 8,
+      "subtes": "TWK",
+      "topik": "Integritas - Keteladanan Tokoh Bangsa",
+      "soal": "Jaksa Agung R. Soeprapto, Marsekal Muda TNI Abdulrahman Saleh, dan Ketua Mahkamah Agung Wirjono Prodjodikoro maupun Baharuddin Lopa dikenal sebagai tokoh penegak hukum berintegritas tinggi. Salah satu kisah terkenal Baharuddin Lopa adalah ketika ia memerintahkan pengembalian mobil dinas yang sempat dipakai keluarganya untuk keperluan pribadi dan menolak fasilitas menginap gratis dari kepala daerah saat kunjungan kerja. Nilai inti integritas yang ditunjukkan dari tindakan tersebut adalah...",
+      "opsi": {
+        "A": "Kemandirian dan kejujuran dalam memisahkan secara tegas antara hak milik pribadi dengan fasilitas jabatan negara",
+        "B": "Sikap kaku yang menghambat kelancaran koordinasi protokoler antara pejabat pusat dan pemerintah daerah",
+        "C": "Upaya membangun citra populer di hadapan media massa agar mendapatkan promosi jabatan politik yang lebih tinggi",
+        "D": "Ketidakpercayaan terhadap seluruh staf daerah sehingga memilih mengurus seluruh kebutuhan perjalanan secara tertutup",
+        "E": "Penghematan anggaran negara dengan cara membatalkan seluruh agenda pengawasan lapangan di daerah"
+      },
+      "kunci": "A",
+      "inti_soal": "Nilai keteladanan integritas Baharuddin Lopa terkait fasilitas dinas dan pencegahan konflik kepentingan.",
+      "trik_cepat": "Kata kunci keteladanan tokoh antikorupsi (Hatta, Hoegeng, Baharuddin Lopa): pemisahan tegas urusan/harta pribadi dengan fasilitas negara agar tetap independen.",
+      "pembahasan": "Opsi A tepat karena memisahkan secara ketat fasilitas negara dari kepentingan keluarga serta menolak jamuan/fasilitas daerah menjaga kemandirian (independensi) pejabat pengawas dari potensi utang budi atau benturan kepentingan. Opsi B, C, D, dan E merupakan penafsiran negatif yang keliru."
+    },
+    {
+      "no": 9,
+      "subtes": "TWK",
+      "topik": "Integritas - Whistleblowing System & Keberanian Moral",
+      "soal": "Dina, seorang auditor internal muda, menemukan bukti valid adanya penggelembungan anggaran perjalanan dinas fiktif yang melibatkan kepala bagiannya sendiri. Kepala bagian tersebut membujuk Dina agar menghapus temuan itu dengan janji akan mempercepat pengusulan beasiswa studi lanjut Dina. Sikap Dina yang menunjukkan dimensi keberanian dan konsistensi integritas adalah...",
+      "opsi": {
+        "A": "Menyepakati tawaran tersebut sementara waktu sembari mengumpulkan bukti tambahan untuk disebarkan secara anonim di media sosial",
+        "B": "Tetap mencantumkan temuan secara objektif dalam laporan audit resmi dan melaporkannya melalui kanal Whistleblowing System (WBS) instansi",
+        "C": "Mengajukan permohonan mutasi ke unit kerja lain agar tidak terlibat dalam masalah tersebut maupun kehilangan peluang beasiswa",
+        "D": "Menghapus temuan tersebut dari laporan resmi namun meminta kepala bagian mengembalikan sebagian uang ke kas bendahara secara diam-diam",
+        "E": "Mendiamkan temuan tersebut karena merasa posisinya sebagai pegawai junior belum memiliki wewenang menegur atasan"
+      },
+      "kunci": "B",
+      "inti_soal": "Sikap integritas ASN saat menghadapi tekanan/iming-iming dari atasan terkait kecurangan anggaran.",
+      "trik_cepat": "Integritas menuntut keberanian moral + jalur prosedural resmi (WBS/Inspektorat). Hindari kompromi (D), lari dari tanggung jawab (C/E), atau main hakim sendiri di medsos (A).",
+      "pembahasan": "Opsi B tepat karena mencerminkan nilai kejujuran, keberanian, dan tanggung jawab profesional dengan mempertahankan objektivitas laporan audit serta menggunakan saluran resmi pelaporan pelanggaran (WBS). Opsi A melanggar etika kerahasiaan pemeriksaan, Opsi C dan E pasif/permisif, sedangkan Opsi D merupakan kompromi terhadap tindak pidana korupsi."
+    },
+    {
+      "no": 10,
+      "subtes": "TWK",
+      "topik": "Integritas - Konflik Kepentingan dalam Rekrutmen",
+      "soal": "Sebuah kementerian sedang melaksanakan seleksi pengadaan tenaga ahli kontrak. Pak Aris yang ditunjuk sebagai ketua tim pewawancara mendapati bahwa salah satu peserta yang lolos ke tahap wawancara adalah keponakan kandungnya sendiri. Agar prinsip akuntabilitas dan bebas dari benturan kepentingan (conflict of interest) tetap terjaga, tindakan yang wajib diambil Pak Aris adalah...",
+      "opsi": {
+        "A": "Tetap mewawancarai keponakannya namun memberikan nilai paling rendah agar tidak dituduh melakukan nepotisme",
+        "B": "Melaporkan adanya hubungan keluarga kepada pimpinan dan mengundurkan diri dari tugas mewawancarai peserta tersebut untuk digantikan penguji lain",
+        "C": "Memberikan kisi-kisi pertanyaan wawancara kepada seluruh peserta termasuk keponakannya agar persaingan tampak adil",
+        "D": "Merahasiakan hubungan kekerabatan tersebut dari anggota tim lain selama keponakannya memang memiliki kualifikasi yang baik",
+        "E": "Membatalkan kelulusan administrasi keponakannya secara sepihak tanpa melalui prosedur verifikasi panitia"
+      },
+      "kunci": "B",
+      "inti_soal": "Prosedur penanganan benturan kepentingan (conflict of interest) ketika keluarga mengikuti seleksi di unit kerja.",
+      "trik_cepat": "Standar deklarasi Conflict of Interest: (1) Deklarasikan/laporkan hubungan kekerabatan ke atasan, (2) Tarik diri (recusal) dari proses penilaian kandidat tersebut.",
+      "pembahasan": "Opsi B tepat karena dalam tata kelola pemerintahan yang baik (Good Governance), pejabat yang memiliki hubungan afiliasi/keluarga dengan peserta wajib mendeklarasikan potensi benturan kepentingan dan mengalihkan penilaian peserta tersebut kepada penguji independen. Opsi A dan E justru tidak adil bagi peserta, Opsi C membocorkan rahasia soal, dan Opsi D melanggar transparansi."
+    },
+    {
+      "no": 11,
+      "subtes": "TWK",
+      "topik": "Integritas - Disiplin Waktu & Tanggung Jawab Publik",
+      "soal": "Seorang pegawai memanfaatkan jam kerja kantor selama dua jam setiap hari untuk mengelola toko daring pribadinya menggunakan komputer dan jaringan internet kantor, dengan alasan seluruh target pekerjaan hariannya selalu selesai lebih cepat. Apabila ditinjau dari konsep integritas ASN, tindakan pegawai tersebut...",
+      "opsi": {
+        "A": "Dapat dibenarkan selama indeks kinerja utama (IKU) pegawai tersebut tetap mencapai kategori sangat baik",
+        "B": "Merupakan bentuk inovasi kewirausahaan yang patut didukung karena meningkatkan kesejahteraan pegawai tanpa korupsi uang tunai",
+        "C": "Melanggar integritas karena menyalahgunakan waktu kerja yang dibayar negara serta fasilitas kantor untuk keuntungan komersial pribadi",
+        "D": "Hanya melanggar aturan apabila toko daring yang dikelolanya menjual barang yang bersaing dengan layanan instansi",
+        "E": "Wajar dilakukan asalkan pegawai tersebut bersedia berbagi sebagian keuntungan tokonya untuk kas konsumsi ruangan"
+      },
+      "kunci": "C",
+      "inti_soal": "Penyalahgunaan jam kerja dan fasilitas negara untuk bisnis pribadi (korupsi waktu dan aset).",
+      "trik_cepat": "Selesai tugas lebih cepat bukan alasan memakai jam kerja + fasilitas kantor untuk bisnis pribadi. Jika tugas selesai, ASN dapat mengembangkan kompetensi atau membantu tugas organisasi.",
+      "pembahasan": "Opsi C tepat karena integritas tidak hanya soal tidak mencuri uang anggaran, tetapi juga kejujuran dalam penggunaan waktu kerja dan fasilitas barang milik negara (BMN). Menggunakan jam dinas dan aset kantor untuk bisnis pribadi termasuk pelanggaran disiplin ASN (PP No. 94 Tahun 2021). Opsi A, B, D, dan E merupakan rasionalisasi yang keliru."
+    },
+    {
+      "no": 12,
+      "subtes": "TWK",
+      "topik": "Integritas - Transparansi Pelayanan Publik",
+      "soal": "Di sebuah kantor pelayanan perizinan, masih ditemukan warga yang menitipkan uang tambahan di dalam map berkas permohonan agar dokumennya diproses lebih dulu dari antrean normal. Sebagai kepala unit pelayanan yang baru dilantik, langkah sistemik paling efektif untuk menutup celah pungutan liar tersebut adalah...",
+      "opsi": {
+        "A": "Memasang spanduk imbauan moral di halaman kantor tanpa mengubah alur tatap muka antara pemohon dan petugas",
+        "B": "Menerapkan sistem antrean dan pelacakan berkas digital transparan (cashless & tanpa tatap muka langsung) disertai sanksi tegas bagi pelanggar",
+        "C": "Mengganti seluruh staf pelayanan lama dengan pegawai baru setiap bulan meskipun belum memahami prosedur teknis",
+        "D": "Melegalkan biaya percepatan layanan tersebut ke dalam kas koperasi pegawai agar tercatat secara rapi",
+        "E": "Menyerahkan pengawasan sepenuhnya kepada kesadaran pribadi masing-masing petugas loket tanpa audit berkala"
+      },
+      "kunci": "B",
+      "inti_soal": "Pencegahan korupsi secara sistemik pada loket pelayanan publik.",
+      "trik_cepat": "Pencegahan pungli paling ampuh bukan sekadar spanduk (A) atau melegalkan pungli (D), melainkan 'perbaikan sistem (digitalisasi, transparansi antrean, cashless) + penegakan sanksi'.",
+      "pembahasan": "Opsi B tepat karena menutup peluang korupsi dari hulunya melalui digitalisasi proses (meminimalkan transaksi tatap muka dan uang tunai), transparansi status berkas secara real-time, serta penegakan aturan yang konsisten. Opsi A dan E terlalu lemah, Opsi C mengganggu layanan, dan Opsi D justru melegitimasi pungutan liar di luar PNBP resmi."
+    },
+    {
+      "no": 13,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Landasan Konstitusional UUD 1945",
+      "soal": "UUD NRI Tahun 1945 mengatur ketentuan mengenai bela negara dan pertahanan-keamanan negara dalam dua pasal yang sering dibandingkan, yaitu Pasal 27 ayat (3) dan Pasal 30 ayat (1). Perbedaan fokus penekanan antara kedua pasal tersebut yang paling tepat adalah...",
+      "opsi": {
+        "A": "Pasal 27 ayat (3) hanya berlaku bagi prajurit TNI, sedangkan Pasal 30 ayat (1) hanya berlaku bagi anggota Polri",
+        "B": "Pasal 27 ayat (3) menekankan upaya pembelaan negara secara luas di segala bidang kehidupan, sedangkan Pasal 30 ayat (1) berfokus pada usaha pertahanan dan keamanan negara",
+        "C": "Pasal 27 ayat (3) mengatur hak warga negara untuk menolak wajib militer, sedangkan Pasal 30 ayat (1) mewajibkan dinas militer bagi seluruh warga",
+        "D": "Pasal 27 ayat (3) hanya berlaku pada saat negara dalam keadaan darurat perang, sedangkan Pasal 30 ayat (1) berlaku pada masa damai",
+        "E": "Pasal 27 ayat (3) mengatur pembiayaan pertahanan negara, sedangkan Pasal 30 ayat (1) mengatur struktur komando angkatan perang"
+      },
+      "kunci": "B",
+      "inti_soal": "Perbedaan substansi Pasal 27 ayat (3) dan Pasal 30 ayat (1) UUD NRI Tahun 1945.",
+      "trik_cepat": "Ingat rumusnya: Pasal 27 ayat (3) = 'upaya pembelaan negara' (Bab X Warga Negara, cakupan luas ideologi/ekonomi/sosbud/profesi). Pasal 30 ayat (1) = 'usaha pertahanan dan keamanan negara' (Bab XII Hankam).",
+      "pembahasan": "Opsi B tepat. Pasal 27 ayat (3) berbunyi 'Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara' (cakupan bela negara luas: fisik maupun nonfisik melalui profesi). Sementara Pasal 30 ayat (1) berbunyi 'Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara' (spesifik pada sektor hankam dengan sistem Sishankamrata, TNI-Polri sebagai kekuatan utama dan rakyat sebagai kekuatan pendukung)."
+    },
+    {
+      "no": 14,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Ancaman Nonmiliter & Ketahanan Siber",
+      "soal": "Dalam beberapa tahun terakhir, serangan siber berupa pencurian data pribadi warga dan peretasan situs layanan publik menjadi ancaman nyata bagi kedaulatan negara. Sebagai seorang ASN yang mengelola pangkalan data kependudukan di instansi pemerintah, wujud nyata bela negara nonfisik dalam menghadapi ancaman tersebut adalah...",
+      "opsi": {
+        "A": "Mematikan seluruh server layanan publik secara permanen dan kembali menggunakan pencatatan buku manual",
+        "B": "Mematuhi protokol keamanan informasi, memperbarui sistem enkripsi secara berkala, dan tidak membagikan kredensial akses kepada pihak tidak berwenang",
+        "C": "Melakukan serangan balasan (retaliasi siber) secara pribadi ke server negara asing yang dicurigai sebagai sumber peretasan",
+        "D": "Membagikan salinan data masyarakat ke perangkat penyimpanan pribadi di rumah agar mudah dikerjakan saat lembur",
+        "E": "Menyerahkan tanggung jawab pengamanan akun sepenuhnya kepada Badan Siber dan Sandi Negara (BSSN) tanpa menjaga kerahasiaan kata sandi sendiri"
+      },
+      "kunci": "B",
+      "inti_soal": "Wujud bela negara sesuai profesi ASN dalam menghadapi ancaman nonmiliter di ruang siber.",
+      "trik_cepat": "Bela negara menurut UU No. 23 Tahun 2019 (Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara) dilakukan salah satunya melalui 'pengabdian sesuai profesi'. Pilih tindakan disiplin keamanan siber sesuai SOP.",
+      "pembahasan": "Opsi B tepat karena menjaga kedaulatan data negara melalui kepatuhan protokol keamanan siber dan pelindungan data pribadi (UU PDP) adalah bentuk pengabdian bela negara sesuai profesi ASN. Opsi A menghambat layanan publik, Opsi C ilegal, Opsi D justru membuka celah kebocoran data, dan Opsi E lepas tanggung jawab."
+    },
+    {
+      "no": 15,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Nilai Dasar Bela Negara",
+      "soal": "Seorang dokter ASN bersedia ditempatkan di pulau terluar Indonesia yang memiliki keterbatasan akses listrik dan transportasi demi menekan angka stunting dan kematian ibu-anak di wilayah perbatasan. Meskipun mendapat tawaran gaji tiga kali lipat dari rumah sakit swasta di ibu kota, ia memilih menyelesaikan masa tugas pengabdiannya di perbatasan. Sikap dokter tersebut paling menonjolkan indikator nilai dasar bela negara, yaitu...",
+      "opsi": {
+        "A": "Kemampuan awal bela negara secara fisik untuk bertempur di garis depan perbatasan militer",
+        "B": "Rela berkorban untuk bangsa dan negara dengan mendahulukan kepentingan masyarakat di atas kenyamanan pribadi",
+        "C": "Kepatuhan terpaksa semata-mata karena takut dijatuhi hukuman pemberhentian tidak dengan hormat",
+        "D": "Upaya mencari pengalaman kerja minimal sebagai syarat wajib sebelum pindah ke luar negeri",
+        "E": "Keinginan menguasai pengelolaan anggaran kesehatan daerah tanpa pengawasan dari kantor pusat"
+      },
+      "kunci": "B",
+      "inti_soal": "Identifikasi 5 nilai dasar bela negara (Cinta Tanah Air, Sadar Berbangsa & Bernegara, Setia pada Pancasila, Rela Berkorban, Kemampuan Awal Bela Negara).",
+      "trik_cepat": "Ada kata kunci 'menolak tawaran gaji besar / kenyamanan pribadi demi mengabdi di daerah 3T' -> langsung mengarah pada nilai 'Rela berkorban untuk bangsa dan negara'.",
+      "pembahasan": "Opsi B tepat karena kesediaan menempatkan kepentingan kesehatan masyarakat perbatasan di atas keuntungan finansial dan kenyamanan pribadi merupakan indikator utama nilai dasar 'Rela berkorban untuk bangsa dan negara'. Opsi A kurang tepat karena fokusnya pelayanan medis (bukan tempur militer), sedangkan C, D, dan E bernada negatif."
+    },
+    {
+      "no": 16,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Sejarah Mempertahankan Kemerdekaan (PDRI)",
+      "soal": "Ketika Belanda melancarkan Agresi Militer II pada 19 Desember 1948 dan menduduki ibu kota Yogyakarta serta menawan Presiden Soekarno dan Wakil Presiden Moh. Hatta, Sjafruddin Prawiranegara segera membentuk Pemerintahan Darurat Republik Indonesia (PDRI) di Bukittinggi, Sumatera Barat. Makna strategis terpenting dari pembentukan PDRI bagi eksistensi Negara Kesatuan Republik Indonesia adalah...",
+      "opsi": {
+        "A": "Memindahkan ibu kota Republik Indonesia secara permanen dari Pulau Jawa ke Pulau Sumatera",
+        "B": "Membuktikan kepada dunia internasional dan PBB bahwa pemerintahan Republik Indonesia masih tetap berdiri dan berdaulat",
+        "C": "Menggantikan sistem pemerintahan presidensial menjadi sistem pemerintahan militer secara permanen",
+        "D": "Membatalkan seluruh hasil perundingan diplomasi yang pernah dilakukan Indonesia sejak tahun 1945",
+        "E": "Mengambil alih kekuasaan presiden secara paksa karena pimpinan pusat dianggap gagal mempertahankan ibu kota"
+      },
+      "kunci": "B",
+      "inti_soal": "Arti penting pembentukan PDRI (Pemerintahan Darurat Republik Indonesia) tahun 1948–1949.",
+      "trik_cepat": "Belanda mengklaim RI sudah bubar setelah Yogyakarta jatuh. PDRI membuktikan di mata dunia/PBB bahwa syarat negara (adanya pemerintahan yang berdaulat) tetap ada.",
+      "pembahasan": "Opsi B tepat. Belanda menyiarkan propaganda ke dunia internasional bahwa RI sudah tidak ada lagi karena ibu kota dan pemimpinnya telah ditawan. Keberadaan PDRI di Sumatera Barat yang terus berkomunikasi lewat radio ke luar negeri (termasuk ke India dan PBB) mematahkan klaim Belanda dan menjaga kesinambungan kedaulatan RI hingga perundingan Roem-Roijen. Tanggal 19 Desember pun ditetapkan sebagai Hari Bela Negara."
+    },
+    {
+      "no": 17,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Ketahanan Pangan & Lingkungan",
+      "soal": "Perubahan iklim ekstrem dan alih fungsi lahan pertanian produktif mengancam ketahanan pangan nasional di masa depan. Sebagai warga negara sekaligus ASN di pemerintah daerah, kontribusi nyata dalam bela negara menghadapi ancaman krisis pangan dan ekologis tersebut adalah...",
+      "opsi": {
+        "A": "Mendorong impor beras dan bahan pokok sebesar-besarnya agar petani lokal tidak perlu lagi bekerja di sawah",
+        "B": "Mengawal penegakan tata ruang Lahan Pertanian Pangan Berkelanjutan (LP2B) serta mengampanyekan diversifikasi pangan lokal dan pengurangan sampah makanan",
+        "C": "Mengizinkan pengembang properti mengubah lahan irigasi teknis menjadi kawasan mal demi meningkatkan pajak daerah jangka pendek",
+        "D": "Mewajibkan seluruh warga kota membuka hutan lindung baru untuk dijadikan ladang pertanian berpindah",
+        "E": "Menyimpan stok bahan pokok dalam jumlah sangat besar di rumah pribadi untuk mengantisipasi kenaikan harga"
+      },
+      "kunci": "B",
+      "inti_soal": "Bela negara dalam menghadapi ancaman nonmiliter di bidang ketahanan pangan dan lingkungan hidup.",
+      "trik_cepat": "Pilih solusi berkelanjutan: proteksi lahan pertanian (LP2B), diversifikasi pangan lokal (umbi-umbian, jagung, sagu), dan kurangi food waste.",
+      "pembahasan": "Opsi B tepat karena ketahanan pangan merupakan bagian dari ketahanan nasional (ancaman nonmiliter). Melindungi lahan pertanian berkelanjutan, mengangkat pangan lokal, dan menekan pemborosan pangan (food waste) menjaga kemandirian bangsa. Opsi A memperlemah kemandirian, Opsi C dan D merusak ekosistem, dan Opsi E merupakan tindakan panic buying/penimbunan."
+    },
+    {
+      "no": 18,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Penangkal Disinformasi & Polarisasi",
+      "soal": "Menjelang pelaksanaan pemilihan kepala daerah, beredar video hasil rekayasa kecerdasan buatan (deepfake) yang menampilkan seolah-olah tokoh masyarakat melontarkan ujaran kebencian antarsuku. Tindakan warga negara yang mencerminkan kesadaran bela negara dalam menjaga keutuhan bangsa di ruang publik adalah...",
+      "opsi": {
+        "A": "Segera meneruskan video tersebut ke seluruh grup keluarga dengan tambahan kalimat tanya 'Apakah ini benar?'",
+        "B": "Menahan diri untuk tidak menyebarkan, melakukan verifikasi fakta melalui kanal resmi/cek fakta, dan melaporkan konten provokatif tersebut ke platform",
+        "C": "Membuat video balasan yang menyerang kelompok suku lain yang diduga sebagai pembuat video rekayasa tersebut",
+        "D": "Keluar dari seluruh grup percakapan warga dan membiarkan anggota grup lain berdebat tanpa memberikan klarifikasi fakta",
+        "E": "Mengajak massa melakukan demonstrasi di kantor kepala daerah sebelum kebenaran video tersebut diverifikasi"
+      },
+      "kunci": "B",
+      "inti_soal": "Literasi digital sebagai benteng bela negara menghadapi perang informasi/adu domba (proxy war).",
+      "trik_cepat": "Ingat rumus saring sebelum sharing: Stop sebar (jangan forward meski pakai kalimat tanya), cek fakta/verifikasi, dan laporkan konten adu domba.",
+      "pembahasan": "Opsi B tepat karena perang modern (hybrid/proxy war) menyerang kohesi sosial melalui disinformasi. Sikap menahan diri, memverifikasi fakta, dan melaporkan konten adu domba mencegah perpecahan bangsa. Opsi A tetap memperluas penyebaran hoaks, Opsi C dan E memperkeruh konflik, dan Opsi D bersikap pasif."
+    },
+    {
+      "no": 19,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Pengamalan Pancasila Sila ke-2 vs Sila ke-5",
+      "soal": "Pemerintah meluncurkan program pembangunan infrastruktur jalan tol yang terintegrasi dengan pelabuhan logistik di luar Pulau Jawa, disertai pemberian subsidi tarif angkutan barang pokok agar disparitas harga antara wilayah barat dan timur Indonesia dapat ditekan. Kebijakan pemerataan akses ekonomi dan pembangunan untuk kesejahteraan seluruh masyarakat tersebut paling tepat merupakan perwujudan Pancasila, khususnya...",
+      "opsi": {
+        "A": "Sila Pertama, karena pembangunan jalan merupakan bentuk syukur atas karunia alam Indonesia",
+        "B": "Sila Kedua, karena fokus utamanya adalah membela hak asasi individu yang menjadi korban perundungan",
+        "C": "Sila Ketiga, karena pembangunan jalan tol bertujuan menyeragamkan seluruh adat istiadat daerah",
+        "D": "Sila Keempat, karena penentuan tarif tol dilakukan melalui pemungutan suara seluruh pengguna jalan",
+        "E": "Sila Kelima, karena mewujudkan pemerataan pembangunan dan keadilan distribusi ekonomi bagi seluruh rakyat Indonesia"
+      },
+      "kunci": "E",
+      "inti_soal": "Membedakan pengamalan Sila ke-5 (Keadilan Sosial & Pemerataan Kesejahteraan Publik) dengan sila lainnya.",
+      "trik_cepat": "Kata kunci Sila ke-5: 'pemerataan pembangunan', 'menekan kesenjangan/disparitas ekonomi antardaerah', 'kesejahteraan umum', dan 'fasilitas publik'. Jika fokus pada harkat martabat manusia/empati kemanusiaan personal -> Sila ke-2.",
+      "pembahasan": "Opsi E tepat karena kebijakan mengurangi disparitas harga dan memeratakan pembangunan infrastruktur ekonomi antardaerah merupakan inti dari Sila Kelima (Keadilan sosial bagi seluruh rakyat Indonesia). Opsi A, B, C, dan D tidak sesuai dengan fokus distribusi keadilan ekonomi publik pada soal."
+    },
+    {
+      "no": 20,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Pancasila sebagai Ideologi Terbuka",
+      "soal": "Sebagai sebuah ideologi terbuka, Pancasila mampu bertahan menghadapi dinamika zaman mulai dari era revolusi industri hingga era kecerdasan buatan saat ini tanpa kehilangan jati dirinya. Hal ini dimungkinkan karena Pancasila memiliki tiga dimensi struktural, di mana nilai-nilai dasarnya dijabarkan ke dalam peraturan perundang-undangan dan kebijakan yang dapat disesuaikan dengan perkembangan masyarakat. Dimensi penjabaran operasional yang bersifat dinamis tersebut dinamakan...",
+      "opsi": {
+        "A": "Dimensi idealisme yang bersifat mutlak dan tidak boleh diubah sedikit pun",
+        "B": "Dimensi instrumental yang memungkinkan penyesuaian kebijakan dan regulasi tanpa menyimpang dari nilai dasar",
+        "C": "Dimensi kultural yang membebaskan setiap daerah mengganti sila-sila Pancasila sesuai adat setempat",
+        "D": "Dimensi liberalisme yang menyerahkan tafsir ideologi negara sepenuhnya pada mekanisme pasar",
+        "E": "Dimensi dogmatis yang menutup ruang diskusi ilmiah terhadap pelaksanaan pembangunan nasional"
+      },
+      "kunci": "B",
+      "inti_soal": "Memahami 3 dimensi Pancasila sebagai ideologi terbuka (Idealisme, Normatif/Instrumental, Realitas).",
+      "trik_cepat": "Ingat 3 nilai/dimensi ideologi terbuka: (1) Nilai Dasar / Dimensi Idealisme = cita-cita tetap, (2) Nilai Instrumental / Dimensi Instrumental = penjabaran ke UU/kebijakan yang dinamis, (3) Nilai Praksis / Dimensi Realitas = penerapan nyata sehari-hari.",
+      "pembahasan": "Opsi B tepat karena dimensi/nilai instrumental adalah penjabaran nilai dasar Pancasila ke dalam arahan, strategi, dan peraturan perundang-undangan (seperti UUD, UU, PP) yang dapat disesuaikan secara kreatif dan dinamis mengikuti tuntutan zaman selama tidak bertentangan dengan nilai dasarnya."
+    },
+    {
+      "no": 21,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Mekanisme Konstitusional UUD 1945 (Checks and Balances)",
+      "soal": "Apabila sekelompok warga negara merasa hak konstitusionalnya dirugikan oleh berlakunya sebuah pasal dalam Undang-Undang yang baru disahkan oleh DPR bersama Presiden, sementara pada saat yang sama muncul sengketa kewenangan antarlembaga negara yang kewenangannya diberikan oleh UUD NRI Tahun 1945, maka lembaga negara yang berwenang mengadili kedua perkara tersebut pada tingkat pertama dan terakhir yang putusannya bersifat final adalah...",
+      "opsi": {
+        "A": "Mahkamah Agung (MA) melalui mekanisme kasasi dan hak uji materiil peraturan di bawah undang-undang",
+        "B": "Mahkamah Konstitusi (MK) sesuai kewenangan yang diatur dalam Pasal 24C ayat (1) UUD NRI Tahun 1945",
+        "C": "Komisi Yudisial (KY) bersama Majelis Permusyawaratan Rakyat (MPR) melalui sidang istimewa",
+        "D": "Pengadilan Tata Usaha Negara (PTUN) melalui gugatan pembatalan keputusan pejabat negara",
+        "E": "Dewan Perwakilan Daerah (DPD) melalui fungsi pengawasan pelaksanaan undang-undang di daerah"
+      },
+      "kunci": "B",
+      "inti_soal": "Kewenangan konstitusional Mahkamah Konstitusi (MK) berdasarkan Pasal 24C ayat (1) UUD 1945.",
+      "trik_cepat": "Uji Undang-Undang terhadap UUD 1945 + Sengketa kewenangan lembaga negara = Mahkamah Konstitusi (MK). Kalau uji peraturan di bawah UU terhadap UU = Mahkamah Agung (MA).",
+      "pembahasan": "Opsi B tepat. Berdasarkan Pasal 24C ayat (1) UUD NRI Tahun 1945, Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk: (1) menguji UU terhadap UUD, (2) memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD, (3) memutus pembubaran partai politik, dan (4) memutus perselisihan tentang hasil pemilihan umum."
+    },
+    {
+      "no": 22,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Hak Konstitusional & Jaminan Sosial (Pasal 34 UUD 1945)",
+      "soal": "Pemerintah memperluas cakupan kepesertaan Penerima Bantuan Iuran (PBI) Jaminan Kesehatan Nasional bagi masyarakat kurang mampu serta meningkatkan fasilitas pelayanan rumah sakit di daerah terpencil. Kebijakan negara dalam mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah tersebut merupakan pelaksanaan langsung dari amanat UUD NRI Tahun 1945, yaitu...",
+      "opsi": {
+        "A": "Pasal 28E ayat (3) tentang kebebasan berserikat, berkumpul, dan mengeluarkan pendapat",
+        "B": "Pasal 30 ayat (2) tentang sistem pertahanan dan keamanan rakyat semesta",
+        "C": "Pasal 31 ayat (4) tentang kewajiban memprioritaskan anggaran pendidikan sekurang-kurangnya 20 persen",
+        "D": "Pasal 34 ayat (2) dan ayat (3) tentang pengembangan sistem jaminan sosial dan penyediaan fasilitas pelayanan kesehatan yang layak",
+        "E": "Pasal 36A tentang lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika"
+      },
+      "kunci": "D",
+      "inti_soal": "Landasan konstitusional sistem jaminan sosial dan fasilitas pelayanan kesehatan dalam UUD 1945.",
+      "trik_cepat": "Ingat Pasal 34 UUD 1945 (Kesejahteraan Sosial): Ayat (1) Fakir miskin & anak terlantar, Ayat (2) Sistem jaminan sosial bagi seluruh rakyat, Ayat (3) Penyediaan fasilitas pelayanan kesehatan & fasilitas layanan umum yang layak.",
+      "pembahasan": "Opsi D tepat karena Pasal 34 ayat (2) mengamanatkan negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu, serta Pasal 34 ayat (3) menyatakan negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak."
+    },
+    {
+      "no": 23,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - NKRI & Otonomi Daerah",
+      "soal": "Dalam kerangka Negara Kesatuan Republik Indonesia (NKRI), pemerintah pusat menyerahkan sebagian urusan pemerintahan kepada pemerintah daerah melalui asas desentralisasi untuk mengatur dan mengurus rumah tangganya sendiri. Namun, terdapat enam urusan pemerintahan absolut yang sepenuhnya tetap menjadi kewenangan pemerintah pusat dan tidak boleh diserahkan kepada daerah, yaitu...",
+      "opsi": {
+        "A": "Pendidikan, kesehatan, pekerjaan umum, perumahan rakyat, sosial, dan tenaga kerja",
+        "B": "Politik luar negeri, pertahanan, keamanan, yustisi, moneter dan fiskal nasional, serta agama",
+        "C": "Pertanian, kelautan dan perikanan, pariwisata, perdagangan, perindustrian, dan transmigrasi",
+        "D": "Perhubungan, komunikasi dan informatika, koperasi, penanaman modal, kepemudaan, dan kebudayaan",
+        "E": "Kependudukan dan catatan sipil, penataan ruang, pertanahan, lingkungan hidup, dan pemberdayaan desa"
+      },
+      "kunci": "B",
+      "inti_soal": "Enam urusan pemerintahan absolut pemerintah pusat dalam sistem otonomi daerah NKRI (UU No. 23 Tahun 2014).",
+      "trik_cepat": "Hafalkan jembatan keledai 6 Urusan Absolut Pusat: 'POL-HAN-KAM-YUS-MON-AG' (Politik luar negeri, Pertahanan, Keamanan, Yustisi, Moneter & fiskal nasional, Agama).",
+      "pembahasan": "Opsi B tepat. Berdasarkan Pasal 10 UU No. 23 Tahun 2014 tentang Pemerintahan Daerah, urusan pemerintahan absolut yang sepenuhnya menjadi kewenangan Pemerintah Pusat meliputi 6 bidang: politik luar negeri, pertahanan, keamanan, yustisi, moneter dan fiskal nasional, serta agama. Opsi A merupakan urusan wajib pelayanan dasar daerah."
+    },
+    {
+      "no": 24,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Bhinneka Tunggal Ika & Harmoni Keberagaman",
+      "soal": "Di sebuah kecamatan yang penduduknya majemuk, jadwal perayaan hari besar keagamaan salah satu umat bertepatan dengan jadwal kegiatan kerja bakti dan pasar rakyat tahunan desa. Agar semboyan Bhinneka Tunggal Ika terwujud secara nyata dalam kehidupan bermasyarakat, langkah paling bijaksana yang sebaiknya diambil oleh camat dan tokoh masyarakat setempat adalah...",
+      "opsi": {
+        "A": "Membatalkan perayaan ibadah keagamaan tersebut karena jadwal pasar rakyat sudah ditetapkan sejak awal tahun",
+        "B": "Memfasilitasi musyawarah lintas tokoh untuk menyesuaikan jam/rute kegiatan pasar rakyat serta bersama-sama menjaga ketertiban dan kekhusyukan ibadah",
+        "C": "Melarang seluruh kegiatan pasar rakyat selama satu bulan penuh agar tidak menimbulkan potensi keramaian",
+        "D": "Memisahkan pemukiman warga berdasarkan agama masing-masing agar jadwal kegiatan warga tidak pernah berbenturan lagi",
+        "E": "Membiarkan kedua kegiatan berjalan berhimpitan di lokasi yang sama tanpa pengaturan lalu lintas maupun koordinasi keamanan"
+      },
+      "kunci": "B",
+      "inti_soal": "Resolusi harmonis dalam masyarakat multikultural sesuai prinsip Bhinneka Tunggal Ika dan toleransi.",
+      "trik_cepat": "Bhinneka Tunggal Ika mengedepankan musyawarah inklusif, saling menghormati hak beribadah, dan gotong royong lintas kelompok—bukan melarang sepihak (A/C) atau segregasi pemukiman (D).",
+      "pembahasan": "Opsi B tepat karena memadukan penghormatan terhadap kebebasan beribadah (Sila ke-1 & Pasal 29 ayat 2 UUD 1945) dengan musyawarah dan gotong royong warga (Sila ke-3 & ke-4) sehingga kedua kegiatan berjalan tertib dan mempererat kerukunan."
+    },
+    {
+      "no": 25,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Ide Pokok Paragraf",
+      "soal": "Bacalah paragraf berikut dengan saksama!\n\nTransformasi layanan pemerintahan berbasis digital belum sepenuhnya diikuti oleh kesiapan literasi keamanan siber di tingkat pengguna akhir. Banyak aparatur maupun warga yang sudah terbiasa menggunakan aplikasi layanan publik daring, namun masih sering mengabaikan pengamanan autentikasi dua faktor dan mudah terjebak tautan rekayasa sosial (phishing). Akibatnya, celah kebocoran data sering kali bukan berasal dari lemahnya infrastruktur server utama, melainkan dari kelalaian perilaku pengguna. Oleh sebab itu, penguatan budaya keamanan informasi menjadi fondasi mutlak dalam setiap akselerasi pemerintahan digital.\n\nIde pokok paragraf tersebut adalah...",
+      "opsi": {
+        "A": "Keunggulan infrastruktur server utama pemerintah dalam menahan serangan peretas",
+        "B": "Ketimpangan antara digitalisasi layanan pemerintahan dengan kesiapan literasi keamanan siber pengguna",
+        "C": "Cara mengaktifkan fitur autentikasi dua faktor pada aplikasi layanan publik daring",
+        "D": "Penghapusan seluruh aplikasi layanan daring untuk mencegah rekayasa sosial (phishing)",
+        "E": "Sejarah perkembangan transformasi pemerintahan berbasis digital di Indonesia"
+      },
+      "kunci": "B",
+      "inti_soal": "Menentukan ide pokok (gagasan utama) dari paragraf deduktif-induktif.",
+      "trik_cepat": "Cek kalimat pertama dan kalimat terakhir: Kalimat 1 menyebut 'Transformasi digital belum diikuti kesiapan literasi keamanan siber pengguna', kalimat terakhir menegaskan pentingnya budaya keamanan informasi pengguna. Intinya ada pada Opsi B.",
+      "pembahasan": "Opsi B tepat karena kalimat utama di awal paragraf menyatakan bahwa transformasi layanan digital belum diimbangi kesiapan literasi keamanan siber pengguna, yang kemudian dijelaskan sebab-akibatnya pada kalimat penjelas dan ditegaskan kembali di akhir paragraf."
+    },
+    {
+      "no": 26,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Penulisan Gelar Akademik (EYD Edisi V)",
+      "soal": "Panitia seminar nasional sedang menyusun daftar nama narasumber pada piagam penghargaan resmi. Manakah penulisan nama beserta gelar akademik di bawah ini yang sepenuhnya tepat sesuai kaidah Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V?",
+      "opsi": {
+        "A": "Prof. Dr. Hendra Wijaya, S.S, M.Hum.",
+        "B": "Prof. Dr. Hendra Wijaya, S.S., M.Hum.",
+        "C": "Prof. DR. Hendra Wijaya, S.S., M.Hum.",
+        "D": "Prof. Dr. Hendra Wijaya S.S., M.Hum.",
+        "E": "Prof, Dr, Hendra Wijaya, S.S., M.Hum."
+      },
+      "kunci": "B",
+      "inti_soal": "Kaidah tanda titik dan tanda koma pada penulisan gelar akademik (EYD V).",
+      "trik_cepat": "Cek 4 aturan gelar: (1) Doktor ditulis 'Dr.' bukan 'DR.', (2) Antara nama orang dan gelar belakang dipisah koma (Wijaya, S.S.), (3) Tiap unsur singkatan gelar diberi titik (S.S.), (4) Antargelar belakang dipisah koma dan spasi (S.S., M.Hum.).",
+      "pembahasan": "Opsi B tepat. Analisis kesalahan opsi lain: Opsi A kurang titik setelah huruf S kedua pada 'S.S' (seharusnya 'S.S.,'); Opsi C salah karena Doktor ditulis kapital semua 'DR.'; Opsi D kurang tanda koma setelah nama 'Wijaya'; Opsi E salah karena menggunakan koma setelah Prof dan Dr."
+    },
+    {
+      "no": 27,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Kalimat Efektif",
+      "soal": "Perhatikan kalimat dalam draf surat dinas berikut:\n\"Bagi seluruh para peserta seleksi yang telah dinyatakan lulus verifikasi berkas administrasi diharapkan agar supaya segera mencetak kartu ujian masing-masing.\"\n\nPerbaikan kalimat tersebut agar menjadi kalimat efektif yang hemat, jelas subjek-predikatnya, dan sesuai kaidah bahasa Indonesia baku adalah...",
+      "opsi": {
+        "A": "Bagi para peserta seleksi yang dinyatakan lulus verifikasi berkas diharapkan segera mencetak kartu ujian.",
+        "B": "Seluruh peserta seleksi yang dinyatakan lulus verifikasi administrasi diharapkan segera mencetak kartu ujian.",
+        "C": "Kepada seluruh peserta seleksi yang telah lulus verifikasi administrasi agar supaya mencetak kartu ujiannya.",
+        "D": "Para peserta-peserta seleksi yang dinyatakan lulus verifikasi administrasi diharapkan segera mencetak kartu ujian.",
+        "E": "Bagi seluruh peserta seleksi yang lulus verifikasi administrasi diharapkan agar segera mencetak kartu ujian."
+      },
+      "kunci": "B",
+      "inti_soal": "Memperbaiki kalimat tidak efektif (pleonasme/pemborosan kata dan hilangnya subjek akibat preposisi di awal kalimat).",
+      "trik_cepat": "Dua penyakit kalimat tidak efektif di soal CPNS: (1) Jangan pakai kata depan 'Bagi / Kepada' di depan Subjek jika predikatnya pasif ('diharapkan'), (2) Hapus kata ganda semakna ('seluruh para', 'agar supaya').",
+      "pembahasan": "Opsi B tepat karena memiliki Subjek yang jelas ('Seluruh peserta seleksi yang dinyatakan lulus verifikasi administrasi') dan Predikat ('diharapkan segera mencetak...'), serta bebas dari pleonasme. Opsi A, C, dan E masih memakai preposisi 'Bagi/Kepada' di awal kalimat sehingga kalimat kehilangan subjek. Opsi D mengandung pemborosan 'para peserta-peserta'."
+    },
+    {
+      "no": 28,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Kata Baku (KBBI)",
+      "soal": "Dalam penyusunan laporan pertanggungjawaban kegiatan instansi, seluruh kosakata wajib ditulis menggunakan bentuk baku sesuai Kamus Besar Bahasa Indonesia (KBBI). Manakah kalimat di bawah ini yang seluruh katanya telah ditulis secara baku?",
+      "opsi": {
+        "A": "Apotik daerah tetap melayani penebusan resep obat berdasarkan kwitansi resmi rumah sakit.",
+        "B": "Pimpinan melakukan analisis mendalam terhadap efektivitas dan produktivitas kerja pegawai pada jadwal yang telah ditetapkan.",
+        "C": "Tim ahli sedang merancang sistim informasi manajemen untuk meminimalisir resiko keterlambatan laporan.",
+        "D": "Atlit nasional tersebut menunjukkan karisma dan aktifitas latihan yang sangat disiplin menjelang kejuaraan.",
+        "E": "Sekertaris jenderal menandatangani surat izin praktek dokter spesialis pada hari Jum'at."
+      },
+      "kunci": "B",
+      "inti_soal": "Identifikasi penulisan kata baku sesuai KBBI VI.",
+      "trik_cepat": "Ingat pasangan Baku vs Tidak Baku: analisis (bukan analisa), efektivitas (bukan efektifitas), produktivitas (bukan produktifitas), jadwal (bukan jadual), apotek (bukan apotik), kuitansi (bukan kwitansi), sistem (bukan sistim), risiko (bukan resiko), atlet (bukan atlit), praktik (bukan praktek), sekretaris (bukan sekertaris), Jumat (bukan Jum'at).",
+      "pembahasan": "Opsi B seluruh katanya baku: 'analisis', 'efektivitas', 'produktivitas', dan 'jadwal'. Opsi A salah pada 'Apotik' (apotek) dan 'kwitansi' (kuitansi). Opsi C salah pada 'sistim' (sistem) dan 'resiko' (risiko). Opsi D salah pada 'Atlit' (atlet) dan 'aktifitas' (aktivitas). Opsi E salah pada 'Sekertaris' (sekretaris), 'praktek' (praktik), dan 'Jum'at' (Jumat)."
+    },
+    {
+      "no": 29,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Simpulan Paragraf",
+      "soal": "Cermati kutipan laporan berikut!\n\nSelama triwulan ketiga tahun 2026, penerapan sistem perizinan berusaha terintegrasi secara elektronik di Kabupaten X berhasil memangkas rata-rata waktu penerbitan izin usaha mikro dari 7 hari kerja menjadi 1 hari kerja. Kemudahan ini mendorong peningkatan jumlah pendaftaran usaha mikro baru sebesar 42 persen dibandingkan triwulan sebelumnya. Selain itu, tingkat kepuasan masyarakat terhadap transparansi layanan mencapai angka 91 persen karena seluruh proses tidak lagi memerlukan biaya tambahan di luar ketentuan resmi.\n\nSimpulan yang paling tepat berdasarkan isi paragraf tersebut adalah...",
+      "opsi": {
+        "A": "Seluruh pelaku usaha mikro di Kabupaten X kini memperoleh modal usaha gratis dari pemerintah daerah",
+        "B": "Penerapan perizinan elektronik di Kabupaten X meningkatkan efisiensi waktu, pertumbuhan usaha mikro terdaftar, dan kepuasan masyarakat",
+        "C": "Waktu penerbitan izin usaha besar di seluruh provinsi Indonesia kini membutuhkan waktu tepat 7 hari kerja",
+        "D": "Sebanyak 9 persen masyarakat Kabupaten X menolak menggunakan sistem perizinan elektronik karena kendala jaringan internet",
+        "E": "Peningkatan jumlah usaha mikro di Kabupaten X semata-mata disebabkan oleh penurunan tarif pajak daerah"
+      },
+      "kunci": "B",
+      "inti_soal": "Menarik simpulan yang merangkum fakta-fakta kausal di dalam teks tanpa menambah asumsi di luar teks.",
+      "trik_cepat": "Simpulan valid harus mencakup benang merah seluruh kalimat (perizinan elektronik -> waktu lebih cepat -> pendaftar naik 42% -> kepuasan 91%) dan tidak boleh menyimpulkan hal yang tidak disebut teks (seperti modal gratis atau pajak).",
+      "pembahasan": "Opsi B merangkum secara utuh dan akurat dampak penerapan sistem perizinan elektronik di Kabupaten X sebagaimana dipaparkan dalam teks. Opsi A, C, D, dan E memuat klaim yang tidak terdapat di dalam bacaan."
+    },
+    {
+      "no": 30,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Penulisan Kata Depan & Imbuhan",
+      "soal": "Cermati kalimat-kalimat berikut!\n(1) Berkas permohonan itu telah dikirimkan ke luar negeri melalui pos tercatat.\n(2) Seluruh pegawai di minta hadir tepat waktu di ruang rapat utama.\n(3) Pemerintah daerah bekerja sama dengan perguruan tinggi untuk menindaklanjuti hasil riset.\n(4) Setiap pengaduan masyarakat wajib di tindak lanjuti secara transparan.\n\nKalimat yang menggunakan kaidah penulisan kata depan (preposisi) dan gabungan kata berimbuhan secara tepat ditunjukkan oleh nomor...",
+      "opsi": {
+        "A": "(1) dan (2)",
+        "B": "(1) dan (3)",
+        "C": "(2) dan (3)",
+        "D": "(2) dan (4)",
+        "E": "(3) dan (4)"
+      },
+      "kunci": "B",
+      "inti_soal": "Membedakan kata depan 'di/ke' (dipisah) dengan awalan 'di-' (dirangkai), serta gabungan kata berimbuhan.",
+      "trik_cepat": "Cek aturan EYD: (1) 'ke luar negeri' menunjukkan arah/tempat -> dipisah (Benar). (2) 'diminta' adalah kata kerja pasif -> harus serangkai, bukan 'di minta' (Salah). (3) 'bekerja sama' (hanya awalan -> dipisah) dan 'menindaklanjuti' (awalan + akhiran -> serangkai) (Benar). (4) 'ditindaklanjuti' mendapat awalan di- dan akhiran -i -> harus serangkai (Salah).",
+      "pembahasan": "Opsi B ((1) dan (3)) tepat. Pada kalimat (1), 'ke luar negeri' tepat ditulis terpisah karena 'ke' adalah kata depan penunjuk arah. Pada kalimat (3), 'bekerja sama' (gabungan kata yang hanya mendapat awalan 'ber-' ditulis terpisah) dan 'menindaklanjuti' (gabungan kata 'tindak lanjut' yang mendapat awalan 'meN-' sekaligus akhiran '-i' ditulis serangkai) sudah tepat. Kalimat (2) salah pada 'di minta' (seharusnya 'diminta') dan kalimat (4) salah pada 'di tindak lanjuti' (seharusnya 'ditindaklanjuti')."
+    }
+  ]
+}
