@@ -1,10 +1,10 @@
 [
   {
     "id": "tryout-skd-1",
-    "judul": "Paket 1: Simulasi Try Out SKD Utuh (110 Soal)",
+    "judul": "Try Out 1: Simulasi SKD Utuh (110 Soal)",
     "kategori": "tryout_utuh",
-    "subtes_label": "SKD Utuh (TWK + TIU + TKP)",
-    "minggu_rilis": "Minggu 1 (Aktif)",
+    "subtes_label": "Simulasi Try Out",
+    "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 100,
     "jumlah_soal": 110,
@@ -15,15 +15,34 @@
       "total_maks": 550
     },
     "rincian": "30 TWK • 35 TIU • 45 TKP",
-    "deskripsi": "Simulasi CAT BKN utuh mengacu KepmenPANRB No. 321/2024 & pola FR 2023–2026 lengkap dengan cara cepat dan rincian skor 1–5.",
+    "deskripsi": "Simulasi CAT BKN utuh edisi ke-1 mengacu KepmenPANRB No. 321/2024 & pola FR 2023–2026 lengkap dengan cara cepat dan rincian skor 1–5.",
     "file_json": "data/paket-tryout-1.json"
+  },
+  {
+    "id": "tryout-skd-2",
+    "judul": "Try Out 2: Simulasi SKD Utuh Terbaru (110 Soal)",
+    "kategori": "tryout_utuh",
+    "subtes_label": "Simulasi Try Out",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 100,
+    "jumlah_soal": 110,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 80,
+      "TKP": 166,
+      "total_maks": 550
+    },
+    "rincian": "30 TWK • 35 TIU • 45 TKP",
+    "deskripsi": "Simulasi CAT BKN utuh edisi ke-2 hasil kompilasi dan verifikasi ulang soal FR CPNS terkini serta latihan terpadu (TWK, TIU SVG, dan TKP).",
+    "file_json": "data/paket-tryout-2.json"
   },
   {
     "id": "latihan-twk-1",
     "judul": "Latihan Bab TWK - Paket 1 (30 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TWK (Tes Wawasan Kebangsaan)",
-    "minggu_rilis": "Paket Bab 1/3 (Aktif)",
+    "subtes_label": "TWK (Wawasan Kebangsaan)",
+    "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 30,
     "jumlah_soal": 30,
@@ -41,8 +60,8 @@
     "id": "latihan-tiu-1",
     "judul": "Latihan Bab TIU - Paket 1 (35 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TIU (Tes Intelegensia Umum)",
-    "minggu_rilis": "Paket Bab 1/3 (Aktif)",
+    "subtes_label": "TIU (Intelegensia Umum)",
+    "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 35,
     "jumlah_soal": 35,
@@ -60,8 +79,8 @@
     "id": "latihan-tkp-1",
     "judul": "Latihan Bab TKP - Paket 1 (45 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TKP (Tes Karakteristik Pribadi)",
-    "minggu_rilis": "Paket Bab 1/3 (Aktif)",
+    "subtes_label": "TKP (Karakteristik Pribadi)",
+    "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 40,
     "jumlah_soal": 45,
@@ -80,7 +99,7 @@
     "judul": "Latihan Bab TWK - Paket 2 (30 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TWK (Paket 2 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 30,
     "jumlah_soal": 30,
@@ -90,8 +109,8 @@
       "TKP": 0,
       "total_maks": 150
     },
-    "rincian": "Slot Siap Upload JSON (30 TWK)",
-    "deskripsi": "Slot paket latihan TWK ke-2 (program 30×3 soal TWK). Tinggal unggah file latihan-twk-2.json saat jadwal rilis mingguan.",
+    "rincian": "30 Soal TWK Penalaran & Studi Kasus",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus penguatan penalaran konstitusi, integritas, dan wacana.",
     "file_json": "data/latihan-twk-2.json"
   },
   {
@@ -99,7 +118,7 @@
     "judul": "Latihan Bab TWK - Paket 3 (30 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TWK (Paket 3 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 30,
     "jumlah_soal": 30,
@@ -109,8 +128,8 @@
       "TKP": 0,
       "total_maks": 150
     },
-    "rincian": "Slot Siap Upload JSON (30 TWK)",
-    "deskripsi": "Slot paket latihan TWK ke-3 (program 30×3 soal TWK). Tinggal unggah file latihan-twk-3.json saat jadwal rilis mingguan.",
+    "rincian": "30 Soal TWK Penalaran & Studi Kasus",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus pemantapan bela negara, pilar kebangsaan, dan EYD V.",
     "file_json": "data/latihan-twk-3.json"
   },
   {
@@ -118,7 +137,7 @@
     "judul": "Latihan Bab TIU - Paket 2 (35 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TIU (Paket 2 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 35,
     "jumlah_soal": 35,
@@ -128,8 +147,8 @@
       "TKP": 0,
       "total_maks": 175
     },
-    "rincian": "Slot Siap Upload JSON (35 TIU)",
-    "deskripsi": "Slot paket latihan TIU ke-2 (program 35×3 soal TIU). Tinggal unggah file latihan-tiu-2.json saat jadwal rilis mingguan.",
+    "rincian": "35 Soal Verbal, Numerik, & Figural",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus kecepatan hitung kuantitatif dan penalaran analitis.",
     "file_json": "data/latihan-tiu-2.json"
   },
   {
@@ -137,7 +156,7 @@
     "judul": "Latihan Bab TIU - Paket 3 (35 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TIU (Paket 3 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 35,
     "jumlah_soal": 35,
@@ -147,8 +166,8 @@
       "TKP": 0,
       "total_maks": 175
     },
-    "rincian": "Slot Siap Upload JSON (35 TIU)",
-    "deskripsi": "Slot paket latihan TIU ke-3 (program 35×3 soal TIU). Tinggal unggah file latihan-tiu-3.json saat jadwal rilis mingguan.",
+    "rincian": "35 Soal Verbal, Numerik, & Figural",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus variasi deret, tabel perbandingan P-Q, dan rotasi figural.",
     "file_json": "data/latihan-tiu-3.json"
   },
   {
@@ -156,7 +175,7 @@
     "judul": "Latihan Bab TKP - Paket 2 (45 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TKP (Paket 2 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 40,
     "jumlah_soal": 45,
@@ -166,8 +185,8 @@
       "TKP": 166,
       "total_maks": 225
     },
-    "rincian": "Slot Siap Upload JSON (45 TKP)",
-    "deskripsi": "Slot paket latihan TKP ke-2 (program 45×3 soal TKP). Tinggal unggah file latihan-tkp-2.json saat jadwal rilis mingguan.",
+    "rincian": "45 Soal Studi Kasus 6 Aspek TKP",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus ketajaman memilih opsi poin 5 pada kasus dilematis.",
     "file_json": "data/latihan-tkp-2.json"
   },
   {
@@ -175,7 +194,7 @@
     "judul": "Latihan Bab TKP - Paket 3 (45 Soal)",
     "kategori": "latihan_bab",
     "subtes_label": "TKP (Paket 3 dari 3)",
-    "minggu_rilis": "Update Mingguan Berikutnya",
+    "minggu_rilis": "Segera Hadir",
     "status": "upcoming",
     "durasi_menit": 40,
     "jumlah_soal": 45,
@@ -185,8 +204,8 @@
       "TKP": 166,
       "total_maks": 225
     },
-    "rincian": "Slot Siap Upload JSON (45 TKP)",
-    "deskripsi": "Slot paket latihan TKP ke-3 (program 45×3 soal TKP). Tinggal unggah file latihan-tkp-3.json saat jadwal rilis mingguan.",
+    "rincian": "45 Soal Studi Kasus 6 Aspek TKP",
+    "deskripsi": "Soal dapat dilihat dan dikerjakan secara berkala sesuai jadwal rilis mingguan. Fokus pemantapan pelayanan publik, TIK, dan anti radikalisme.",
     "file_json": "data/latihan-tkp-3.json"
   }
 ]

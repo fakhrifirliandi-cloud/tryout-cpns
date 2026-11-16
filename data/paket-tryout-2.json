@@ -1,0 +1,2212 @@
+{
+  "id": "tryout-skd-2",
+  "judul": "Paket 2: Simulasi Try Out SKD Utuh (110 Soal)",
+  "kategori": "tryout_utuh",
+  "deskripsi": "Simulasi CAT BKN utuh edisi ke-2 hasil kompilasi dan verifikasi ulang soal FR CPNS 2023–2026 serta latihan terpadu (30 TWK, 35 TIU, 45 TKP).",
+  "durasi_menit": 100,
+  "ambang_batas": {
+    "TWK": 65,
+    "TIU": 80,
+    "TKP": 166,
+    "total_maks": 550
+  },
+  "jumlah_soal": 110,
+  "rincian_subtes": {
+    "TWK": 30,
+    "TIU": 35,
+    "TKP": 45
+  },
+  "soal": [
+    {
+      "no": 1,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Aktualisasi ASN (FR 2024)",
+      "soal": "Nasionalisme bagi seorang ASN tidak cukup dipahami sebatas wawasan konseptual, melainkan harus diaktualisasikan dalam pelaksanaan tugas pelayanan publik sehari-hari. Tujuan utama penanaman nasionalisme dalam diri ASN tersebut adalah...",
+      "opsi": {
+        "A": "Menciptakan pegawai yang hanya patuh pada perintah lisan atasan tanpa melihat aturan perundang-undangan",
+        "B": "Membentuk pola pikir dan perilaku ASN yang selalu berorientasi pada kepentingan publik, keutuhan bangsa, dan negara di atas kepentingan golongan",
+        "C": "Menumbuhkan rasa bangga berlebihan terhadap daerah asal sehingga memprioritaskan pelayanan bagi warga sedaerah",
+        "D": "Mendorong ASN menutup diri dari perkembangan teknologi global demi mempertahankan cara kerja tradisional",
+        "E": "Menjadikan ASN sebagai kelompok eksklusif yang terpisah dari dinamika sosial masyarakat umum"
+      },
+      "kunci": "B",
+      "inti_soal": "Tujuan aktualisasi nasionalisme bagi ASN dalam menjalankan fungsi pelayanan publik.",
+      "trik_cepat": "Nasionalisme ASN = orientasi kepentingan publik, bangsa, dan negara di atas kepentingan pribadi/golongan (B). Tolak chauvinisme/kedaerahan (C) dan eksklusivisme (D, E).",
+      "pembahasan": "Opsi B tepat karena hakikat nasionalisme ASN sesuai UU ASN adalah menempatkan kepentingan publik, bangsa, dan negara sebagai orientasi utama, bukan kepentingan pribadi, suku, atau golongan."
+    },
+    {
+      "no": 2,
+      "subtes": "TWK",
+      "topik": "Integritas - Keteladanan Jenderal Soedirman & Oerip Soemohardjo",
+      "soal": "Pada konferensi TKR tanggal 12 November 1945, Jenderal Soedirman terpilih sebagai Panglima Angkatan Perang mengungguli seniornya, Letjen Oerip Soemohardjo. Sebagai bentuk hormat, Soedirman sempat menyerahkan jabatan itu kepada Oerip, namun Oerip menolak demi menghormati hasil musyawarah dan menjaga keharmonisan tubuh tentara. Nilai integritas dan kenegarawanan yang menonjol dari peristiwa tersebut adalah...",
+      "opsi": {
+        "A": "Mengedepankan kepentingan bangsa dan keutuhan internal perangkat negara di atas ambisi jabatan pribadi",
+        "B": "Menolak amanah organisasi secara sepihak karena merasa belum cukup senior secara kepangkatan",
+        "C": "Mengutamakan senioritas usia di atas hasil pemilihan demokratis forum resmi",
+        "D": "Menghindari tanggung jawab komando militer pada masa kritis mempertahankan kemerdekaan",
+        "E": "Membentuk dua komando terpisah agar kedua tokoh sama-sama memegang jabatan panglima"
+      },
+      "kunci": "A",
+      "inti_soal": "Makna integritas dan kenegarawanan dalam peristiwa pemilihan Panglima TKR 1945.",
+      "trik_cepat": "Kata kunci: 'keharmonisan internal lebih utama daripada jabatan yang diemban' -> Mengedepankan kepentingan bangsa di atas ambisi pribadi (A).",
+      "pembahasan": "Opsi A tepat karena baik Soedirman maupun Oerip Soemohardjo menunjukkan kerendahan hati, penghormatan terhadap hasil musyawarah, dan pengutamaan persatuan internal kekuatan pertahanan negara di atas ego jabatan."
+    },
+    {
+      "no": 3,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Pancasila sebagai Filter Budaya",
+      "soal": "Di tengah derasnya arus globalisasi, Pancasila berfungsi sebagai filter atau penyaring terhadap masuknya budaya asing. Makna tepat dari peran Pancasila sebagai filter budaya adalah...",
+      "opsi": {
+        "A": "Menolak seluruh unsur modernisasi dan ilmu pengetahuan yang berasal dari luar negeri",
+        "B": "Menyaring dan menerima unsur budaya asing yang positif selama selaras dengan kepribadian serta nilai-nilai luhur bangsa Indonesia",
+        "C": "Mencampuradukkan seluruh budaya asing tanpa seleksi agar Indonesia cepat setara dengan negara maju",
+        "D": "Mewajibkan negara asing mengadopsi budaya lokal Indonesia sebelum menjalin kerja sama ekonomi",
+        "E": "Menghentikan seluruh akses pertukaran pelajar dan kebudayaan antarbangsa"
+      },
+      "kunci": "B",
+      "inti_soal": "Fungsi Pancasila sebagai filter budaya di era globalisasi.",
+      "trik_cepat": "Filter bukan berarti menutup pintu total (A/E) dan bukan menerima mentah-mentah (C), melainkan menyeleksi yang sesuai dengan nilai Pancasila (B).",
+      "pembahasan": "Opsi B tepat karena Pancasila bersifat terbuka dan selektif: mengambil hal-hal konstruktif dari budaya global (seperti etos kerja dan teknologi) sambil menolak nilai yang bertentangan dengan moral Pancasila."
+    },
+    {
+      "no": 4,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Indische Partij (Tiga Serangkai)",
+      "soal": "Indische Partij yang didirikan pada 25 Desember 1912 oleh Tiga Serangkai (Douwes Dekker, Tjipto Mangoenkoesoemo, dan Ki Hajar Dewantara) dikenal sebagai partai politik pertama yang secara tegas menanamkan cita-cita nasionalisme Hindia untuk mencapai kemerdekaan. Dari pernyataan berikut, manakah yang BUKAN merupakan program atau gagasan perjuangan Indische Partij?",
+      "opsi": {
+        "A": "Memperjuangkan kesetaraan hak bagi seluruh golongan penduduk di Hindia Belanda",
+        "B": "Menanamkan cita-cita persatuan nasional Hindia menuju kemerdekaan dari kolonialisme",
+        "C": "Menyebarkan paham chauvinisme yang menganggap suku Jawa lebih unggul daripada suku bangsa lain di Nusantara",
+        "D": "Memperkuat pengaruh kaum pro-Hindia dalam sistem pemerintahan kolonial",
+        "E": "Memajukan pengajaran dan pendidikan yang berorientasi pada kepentingan rakyat Hindia"
+      },
+      "kunci": "C",
+      "inti_soal": "Mengidentifikasi hal yang bukan program Indische Partij (anti-chauvinisme).",
+      "trik_cepat": "Indische Partij bersifat inklusif (semua golongan di Hindia). Chauvinisme (merasa bangsa/suku sendiri paling unggul & merendahkan yang lain) bertentangan dengan nasionalisme Indische Partij (C).",
+      "pembahasan": "Opsi C tepat karena justru merupakan pernyataan yang salah/bukan program Indische Partij. Indische Partij justru menentang diskriminasi ras/suku dan memperjuangkan kesetaraan (Indische Nationalisme), bukan chauvinisme."
+    },
+    {
+      "no": 5,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Ketahanan Nasional & Cyber War",
+      "soal": "Menjelang tahun politik, perdebatan di kolom komentar media sosial sering berubah menjadi saling serang, penyebaran fitnah, dan polarisasi tajam antarwarga. Jika ditinjau dari perspektif bela negara dan ketahanan nasional, bahaya utama dari kondisi tersebut adalah...",
+      "opsi": {
+        "A": "Meningkatnya jumlah pengguna paket data internet di wilayah perkotaan",
+        "B": "Melemahnya persatuan dan kohesi sosial yang dapat dimanfaatkan pihak tertentu untuk memecah belah keutuhan NKRI",
+        "C": "Berkurangnya minat masyarakat untuk mengikuti pelatihan olahraga bela diri",
+        "D": "Terhambatnya proses pengadaan perangkat komputer di kantor pemerintahan",
+        "E": "Menurunnya pendapatan iklan media massa cetak konvensional"
+      },
+      "kunci": "B",
+      "inti_soal": "Dampak polarisasi media sosial (cyber conflict) terhadap persatuan dan bela negara.",
+      "trik_cepat": "Konflik horizontal di ruang digital melemahkan ketahanan sosial dan membuka celah adu domba terhadap keutuhan NKRI (B).",
+      "pembahasan": "Opsi B tepat karena perang informasi dan polarisasi tajam di ruang digital menggerus persatuan nasional (ancaman nonmiliter) dan berpotensi memicu konflik sosial yang mengancam keutuhan NKRI."
+    },
+    {
+      "no": 6,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Hubungan Kausal Organis Pembukaan & Batang Tubuh UUD 1945",
+      "soal": "Pembukaan UUD NRI Tahun 1945 dan pasal-pasal dalam Batang Tubuh merupakan satu kesatuan yang memiliki hubungan kausal dan organis. Makna hubungan 'organis' antara Pembukaan dan Batang Tubuh UUD 1945 adalah...",
+      "opsi": {
+        "A": "Pembukaan dan pasal-pasal UUD 1945 merupakan dokumen terpisah yang tidak saling mengikat secara hukum",
+        "B": "Pembukaan UUD 1945 dapat diubah sewaktu-waktu oleh DPR mengikuti perubahan pasal-pasal di Batang Tubuh",
+        "C": "Pokok-pokok pikiran dalam Pembukaan UUD 1945 menjadi jiwa dan sumber cita hukum yang dijabarkan secara konkret ke dalam pasal-pasal UUD 1945",
+        "D": "Pasal-pasal UUD 1945 memiliki kedudukan hukum lebih tinggi daripada alinea keempat Pembukaan UUD 1945",
+        "E": "Pembukaan UUD 1945 hanya berlaku sebagai pengantar sejarah tanpa kekuatan normatif dalam ketatanegaraan"
+      },
+      "kunci": "C",
+      "inti_soal": "Membedakan makna hubungan kausal-organis antara Pembukaan UUD 1945 dan pasal-pasalnya.",
+      "trik_cepat": "Kausal = Pembukaan menjadi sebab/dasar adanya Batang Tubuh. Organis = Pembukaan & Batang Tubuh satu kesatuan hidup yang tidak terpisahkan, di mana Pembukaan menjiwai pasal-pasal (C).",
+      "pembahasan": "Opsi C tepat karena hubungan organis berarti Pembukaan dan pasal-pasal UUD 1945 merupakan satu kesatuan sistem hukum yang saling terkait, dengan Pembukaan (4 Pokok Pikiran) menjiwai seluruh pasal-pasal."
+    },
+    {
+      "no": 7,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Sidang BPUPKI I (29 Mei – 1 Juni 1945)",
+      "soal": "Dalam sejarah perumusan dasar negara pada sidang pertama BPUPKI tanggal 29 Mei sampai 1 Juni 1945, terdapat tiga tokoh utama yang menyampaikan gagasan rumusan dasar negara secara berurutan, yaitu...",
+      "opsi": {
+        "A": "Moh. Hatta, Sutan Sjahrir, dan Achmad Soebardjo",
+        "B": "Moh. Yamin, Soepomo, dan Ir. Soekarno",
+        "C": "Ir. Soekarno, Ki Bagus Hadikusumo, dan Agus Salim",
+        "D": "Soepomo, Moh. Hatta, dan Sayuti Melik",
+        "E": "Moh. Yamin, Tan Malaka, dan Otto Iskandardinata"
+      },
+      "kunci": "B",
+      "inti_soal": "Tiga tokoh perumus dasar negara pada Sidang BPUPKI I (29 Mei - 1 Juni 1945).",
+      "trik_cepat": "Ingat urutan tanggal: 29 Mei = Moh. Yamin, 31 Mei = Prof. Dr. Soepomo, 1 Juni = Ir. Soekarno (B).",
+      "pembahasan": "Opsi B tepat. Pada sidang pertama BPUPKI: 29 Mei 1945 disampaikan oleh Moh. Yamin, 31 Mei 1945 oleh Soepomo, dan 1 Juni 1945 oleh Ir. Soekarno (yang memperkenalkan istilah Pancasila)."
+    },
+    {
+      "no": 8,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Sistem Pemerintahan Presidensial (UUD 1945)",
+      "soal": "Salah satu prinsip utama sistem pemerintahan negara Republik Indonesia menurut UUD NRI Tahun 1945 pascaamandemen adalah sistem presidensial yang demokratis. Manakah pernyataan di bawah ini yang BUKAN merupakan ciri sistem pemerintahan Indonesia saat ini?",
+      "opsi": {
+        "A": "Presiden dan Wakil Presiden dipilih secara langsung oleh rakyat melalui pemilihan umum",
+        "B": "Presiden bertanggung jawab kepada DPR dan dapat dijatuhkan sewaktu-waktu melalui mosi tidak percaya",
+        "C": "Kekuasaan eksekutif dijalankan oleh Presiden sebagai kepala negara sekaligus kepala pemerintahan",
+        "D": "Indonesia adalah negara hukum (rechtsstaat) yang menjunjung tinggi kedaulatan rakyat",
+        "E": "Masa jabatan Presiden dibatasi secara konstitusional maksimal dua periode masa jabatan"
+      },
+      "kunci": "B",
+      "inti_soal": "Membedakan sistem presidensial (UUD 1945) dengan sistem parlementer.",
+      "trik_cepat": "Ciri sistem PARLEMENTER adalah 'Kepala pemerintahan bertanggung jawab kepada parlemen/DPR dan bisa dijatuhkan lewat mosi tidak percaya'. Di Indonesia (Presidensial), Presiden TIDAK bertanggung jawab kepada DPR (B).",
+      "pembahasan": "Opsi B tepat karena pernyataan tersebut adalah ciri sistem parlementer, bukan sistem presidensial. Dalam UUD 1945, Presiden memiliki masa jabatan tetap (fixed term) dan tidak dapat dijatuhkan oleh DPR melalui mosi tidak percaya."
+    },
+    {
+      "no": 9,
+      "subtes": "TWK",
+      "topik": "Integritas - Sembilan Nilai Antikorupsi KPK",
+      "soal": "Komisi Pemberantasan Korupsi (KPK) merumuskan sembilan nilai integritas antikorupsi yang dikenal dengan akronim 'JUMAT BERSEPEDA KK' dan dikelompokkan ke dalam tiga aspek utama. Ketiga aspek pengelompokan sembilan nilai integritas tersebut adalah...",
+      "opsi": {
+        "A": "Aspek Inti (Jujur, Disiplin, Tanggung Jawab), Aspek Etos Kerja (Kerja Keras, Sederhana, Mandiri), dan Aspek Sikap (Adil, Berani, Peduli)",
+        "B": "Aspek Hukum, Aspek Politik, dan Aspek Ekonomi Kreatif",
+        "C": "Aspek Kepribadian, Aspek Agama, dan Aspek Kepatuhan Administrasi",
+        "D": "Aspek Perencanaan, Aspek Pelaksanaan, dan Aspek Pelaporan Keuangan",
+        "E": "Aspek Formal, Aspek Material, dan Aspek Struktural"
+      },
+      "kunci": "A",
+      "inti_soal": "Pengelompokan 9 nilai integritas KPK menjadi 3 aspek.",
+      "trik_cepat": "Ingat 3 aspek nilai integritas KPK: Inti (Ju-Di-Ta: Jujur, Disiplin, Tanggung jawab), Etos Kerja (Ke-Se-Ma: Kerja keras, Sederhana, Mandiri), dan Sikap (A-Be-Pe: Adil, Berani, Peduli) -> Opsi A.",
+      "pembahasan": "Opsi A tepat sesuai modul edukasi integritas KPK: 9 nilai integritas terbagi atas aspek Inti (jujur, disiplin, tanggung jawab), Etos Kerja (kerja keras, sederhana, mandiri), dan Sikap (adil, berani, peduli)."
+    },
+    {
+      "no": 10,
+      "subtes": "TWK",
+      "topik": "Integritas - Pelanggaran Kode Etik di Lingkungan Kerja",
+      "soal": "Pelanggaran terhadap nilai integritas seorang aparatur negara tidak hanya berupa penerimaan suap uang tunai, tetapi juga pelanggaran kode etik pelayanan dan penyalahgunaan wewenang. Dari situasi berikut, manakah yang menunjukkan tindakan pelanggaran integritas paling nyata di lingkungan kerja?",
+      "opsi": {
+        "A": "Pimpinan menunda pembelian furnitur mewah ruang rapat demi efisiensi anggaran perjalanan dinas",
+        "B": "Petugas pemeriksaan lapangan mendatangi kantor wajib pajak untuk menagih pembayaran secara tunai tanpa disertai surat tugas resmi",
+        "C": "Staf layanan publik meminta pemohon melengkapi dokumen persyaratan resmi sebelum berkas diproses",
+        "D": "Bendahara menyetor sisa anggaran kegiatan yang tidak terpakai kembali ke kas negara tepat waktu",
+        "E": "Auditor internal menolak menerima jamuan makan malam yang dibayarkan oleh pihak yang sedang diperiksa"
+      },
+      "kunci": "B",
+      "inti_soal": "Mengidentifikasi penyalahgunaan wewenang dan pelanggaran prosedur resmi (penagihan tanpa surat tugas).",
+      "trik_cepat": "Cek mana tindakan yang menyalahi kewenangan dan berpotensi pungli/penipuan: menagih pajak tanpa surat tugas resmi (B).",
+      "pembahasan": "Opsi B tepat karena mendatangi wajib pajak dan melakukan penagihan tanpa surat tugas resmi melanggar prosedur hukum administrasi serta berindikasi penyalahgunaan wewenang/pungutan liar. Opsi A, C, D, dan E justru merupakan perilaku akuntabel."
+    },
+    {
+      "no": 11,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Undang-Undang Pertahanan Negara",
+      "soal": "Usaha pertahanan negara serta hak dan kewajiban warga negara dalam upaya pembelaan negara yang diamanatkan oleh UUD NRI Tahun 1945 diatur secara khusus dalam undang-undang pokok pertahanan negara, yaitu...",
+      "opsi": {
+        "A": "UU Nomor 2 Tahun 2002 tentang Kepolisian Negara Republik Indonesia",
+        "B": "UU Nomor 3 Tahun 2002 tentang Pertahanan Negara",
+        "C": "UU Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi",
+        "D": "UU Nomor 32 Tahun 2002 tentang Penyiaran",
+        "E": "UU Nomor 23 Tahun 2014 tentang Pemerintahan Daerah"
+      },
+      "kunci": "B",
+      "inti_soal": "Regulasi pokok tentang Pertahanan Negara (UU No. 3 Tahun 2002).",
+      "trik_cepat": "Ingat pasangan UU tahun 2002: UU 2/2002 = Polri, UU 3/2002 = Pertahanan Negara (B), UU 30/2002 = KPK.",
+      "pembahasan": "Opsi B tepat karena UU No. 3 Tahun 2002 tentang Pertahanan Negara merupakan landasan hukum operasional penyelenggaraan pertahanan negara dan keikutsertaan warga negara dalam upaya bela negara (diperkuat dengan UU No. 23 Tahun 2019 tentang PSDN)."
+    },
+    {
+      "no": 12,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Peristiwa Rengasdengklok & Penyusunan Teks Proklamasi",
+      "soal": "Pada malam menjelang 17 Agustus 1945 di rumah Laksamana Maeda, teks Proklamasi Kemerdekaan Indonesia dirumuskan secara ringkas dan penuh makna sebelum akhirnya diketik oleh Sayuti Melik. Tiga tokoh utama yang berperan langsung dalam perumusan konsep naskah proklamasi tersebut adalah...",
+      "opsi": {
+        "A": "Ir. Soekarno, Drs. Moh. Hatta, dan Sutan Sjahrir",
+        "B": "Ir. Soekarno, Drs. Moh. Hatta, dan Mr. Achmad Soebardjo",
+        "C": "Ir. Soekarno, Sukarni, dan Wikana",
+        "D": "Drs. Moh. Hatta, Prof. Soepomo, dan Moh. Yamin",
+        "E": "Ir. Soekarno, B.M. Diah, dan Latief Hendraningrat"
+      },
+      "kunci": "B",
+      "inti_soal": "Tiga tokoh perumus naskah Proklamasi 17 Agustus 1945.",
+      "trik_cepat": "Perumus teks Proklamasi = Soekarno, Moh. Hatta, Achmad Soebardjo (B). Pengetik = Sayuti Melik. Pengusul tanda tangan 'atas nama bangsa Indonesia' = Sukarni.",
+      "pembahasan": "Opsi B tepat. Kalimat pertama dirumuskan oleh Achmad Soebardjo bersama Soekarno, kalimat kedua disempurnakan oleh Moh. Hatta, lalu ditulis tangan oleh Soekarno dan diketik ulang oleh Sayuti Melik."
+    },
+    {
+      "no": 13,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Diplomasi Mempertahankan Kemerdekaan (Linggarjati)",
+      "soal": "Pasca-Agresi Militer Belanda I pada tahun 1947, Dewan Keamanan PBB membentuk Komisi Tiga Negara (KTN) untuk menengahi konflik Indonesia–Belanda. Sebelum agresi tersebut terjadi, perundingan diplomatik pertama antara Indonesia dan Belanda yang mengakui kedaulatan de facto RI atas Jawa, Madura, dan Sumatra adalah...",
+      "opsi": {
+        "A": "Perjanjian Renville",
+        "B": "Perjanjian Linggarjati",
+        "C": "Perjanjian Roem-Roijen",
+        "D": "Konferensi Meja Bundar",
+        "E": "Kapitulasi Kalijati"
+      },
+      "kunci": "B",
+      "inti_soal": "Mengidentifikasi isi Perjanjian Linggarjati (pengakuan de facto Jawa, Madura, Sumatra).",
+      "trik_cepat": "Urutan diplomasi: Linggarjati (1946/1947, akui de facto Jawa-Madura-Sumatra) -> Agresi I -> Renville (1948, garis Van Mook) -> Agresi II -> Roem-Roijen -> KMB (1949).",
+      "pembahasan": "Opsi B (Perjanjian Linggarjati) tepat. Linggarjati menghasilkan pengakuan Belanda secara de facto atas wilayah RI meliputi Jawa, Madura, dan Sumatra sebelum Belanda melancarkan Agresi Militer I pada Juli 1947."
+    },
+    {
+      "no": 14,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Hakikat Aktualisasi Objektif Pancasila",
+      "soal": "Pancasila sebagai norma dasar negara diaktualisasikan melalui dua cara, yakni aktualisasi subjektif dan aktualisasi objektif. Yang dimaksud dengan aktualisasi objektif Pancasila adalah...",
+      "opsi": {
+        "A": "Penghayatan nilai-nilai Pancasila dalam sikap moral pribadi setiap warga negara",
+        "B": "Penjabaran dan pelaksanaan nilai-nilai Pancasila ke dalam seluruh bidang penyelenggaraan negara, peraturan perundang-undangan, serta kebijakan publik",
+        "C": "Penafsiran bebas masing-masing individu terhadap bunyi sila-sila Pancasila di media sosial",
+        "D": "Pemasangan lambang Garuda Pancasila di ruang kelas sekolah dasar tanpa penerapan aturan",
+        "E": "Penggunaan istilah Pancasila hanya dalam pidato seremonial kenegaraan"
+      },
+      "kunci": "B",
+      "inti_soal": "Membedakan aktualisasi objektif (kenegaraan/hukum) dengan aktualisasi subjektif (sikap individu).",
+      "trik_cepat": "Objektif = menyangkut objek sistem negara (hukum, UUD, UU, kebijakan pemerintah). Subjektif = menyangkut subjek/pelaku perorangan (sikap warga negara sehari-hari).",
+      "pembahasan": "Opsi B tepat karena aktualisasi objektif adalah realisasi nilai Pancasila dalam berbagai bidang kehidupan kenegaraan meliputi legislatif, eksekutif, yudikatif, dan seluruh produk hukum."
+    },
+    {
+      "no": 15,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Nilai Keutuhan Bangsa & Keteladanan TNI",
+      "soal": "Dalam operasi pengamanan wilayah perbatasan dan daerah rawan konflik bersenjata, prajurit TNI maupun aparatur sipil negara yang bertugas di garda terdepan rela meninggalkan kenyamanan keluarga demi menjamin keamanan warga setempat. Sikap tersebut paling kuat mencerminkan perpaduan nilai...",
+      "opsi": {
+        "A": "Cinta tanah air dan rela berkorban untuk menjaga keselamatan serta keutuhan negara",
+        "B": "Keinginan memperoleh kenaikan pangkat luar biasa sebagai tujuan utama tugas",
+        "C": "Sikap pasrah terhadap keadaan tanpa upaya menjaga kedaulatan wilayah",
+        "D": "Eksklusivisme profesi yang memisahkan aparat dengan masyarakat sipil",
+        "E": "Kepatuhan administratif semata demi memenuhi jam kerja bulanan"
+      },
+      "kunci": "A",
+      "inti_soal": "Nilai bela negara cinta tanah air dan rela berkorban.",
+      "trik_cepat": "Meninggalkan kenyamanan keluarga untuk menjaga keamanan warga dan keutuhan wilayah = Cinta tanah air + Rela berkorban (A).",
+      "pembahasan": "Opsi A tepat karena mengutamakan keselamatan bangsa dan keutuhan wilayah negara di atas kepentingan pribadi merupakan inti dari nilai cinta tanah air dan rela berkorban."
+    },
+    {
+      "no": 16,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Kebebasan Beragama (Pasal 29 Ayat 2 UUD 1945)",
+      "soal": "Pasal 29 ayat (2) UUD NRI Tahun 1945 menyatakan bahwa negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu. Implementasi paling tepat dari pasal tersebut dalam kehidupan bermasyarakat adalah...",
+      "opsi": {
+        "A": "Setiap warga bebas menciptakan ajaran baru secara sepihak dan memaksakannya kepada tetangga sekitar",
+        "B": "Negara menjamin hak setiap penduduk untuk beribadah dengan aman dan tenang sesuai keyakinannya tanpa paksaan maupun diskriminasi",
+        "C": "Masyarakat diperbolehkan melarang pendirian tempat ibadah umat lain di wilayah mayoritas tertentu tanpa alasan hukum",
+        "D": "Warga negara bebas memilih tidak menghormati hari besar keagamaan kelompok lain di ruang publik",
+        "E": "Aparatur negara hanya melayani kebutuhan administrasi penduduk yang seagama dengannya"
+      },
+      "kunci": "B",
+      "inti_soal": "Makna jaminan kemerdekaan beragama dalam Pasal 29 ayat (2) UUD 1945.",
+      "trik_cepat": "Pasal 29(2) = negara menjamin kebebasan beribadah tanpa paksaan dan tanpa diskriminasi (B).",
+      "pembahasan": "Opsi B tepat karena konstitusi menjamin kemerdekaan beragama sebagai hak asasi sekaligus menjaga ketertiban toleransi antarumat beragama."
+    },
+    {
+      "no": 17,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Pancasila sebagai Kepribadian & Jiwa Bangsa",
+      "soal": "Meskipun istilah Pancasila baru disampaikan oleh Ir. Soekarno pada 1 Juni 1945, nilai-nilai luhurnya seperti ketuhanan, gotong royong (seperti sistem irigasi Subak di Bali), dan musyawarah telah hidup berabad-abad sejak masa kerajaan Nusantara. Hal ini menegaskan kedudukan Pancasila sebagai...",
+      "opsi": {
+        "A": "Ideologi impor yang diadopsi dari sistem ketatanegaraan Eropa Barat",
+        "B": "Jiwa dan kepribadian bangsa Indonesia yang digali dari nilai budaya asli Nusantara",
+        "C": "Aturan teknis sementara yang hanya berlaku pada masa kerajaan tradisional",
+        "D": "Dokumen perjanjian dagang antarbangsa di kawasan Asia Tenggara",
+        "E": "Konsep filsafat tertutup yang tidak dapat diterapkan di era modern"
+      },
+      "kunci": "B",
+      "inti_soal": "Pancasila sebagai jiwa dan kepribadian bangsa (digali dari kearifan lokal Nusantara).",
+      "trik_cepat": "Pancasila tidak dibuat dari nol, melainkan digali (kausa materialis) dari adat, budaya, dan religiusitas bangsa Indonesia sendiri -> Jiwa & Kepribadian Bangsa (B).",
+      "pembahasan": "Opsi B tepat. Soekarno menyebut dirinya sebagai 'penggali Pancasila' karena nilai-nilainya telah berakar dalam kepribadian bangsa Indonesia sejak zaman dahulu."
+    },
+    {
+      "no": 18,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Keseimbangan Hak dan Kewajiban Warga Negara",
+      "soal": "Dalam UUD NRI Tahun 1945, pengaturan mengenai hak asasi dan hak warga negara selalu diiringi dengan kewajiban untuk menghormati hak asasi orang lain serta tunduk pada pembatasan yang ditetapkan undang-undang (Pasal 28J). Tujuan utama keseimbangan hak dan kewajiban tersebut adalah...",
+      "opsi": {
+        "A": "Membatasi kebebasan warga negara agar pemerintah dapat bertindak sewenang-wenang",
+        "B": "Menjamin terlaksananya keadilan, ketertiban, dan keharmonisan demokrasi tanpa melanggar hak sesama warga",
+        "C": "Menghapuskan hak kelompok minoritas apabila bertentangan dengan selera kelompok mayoritas",
+        "D": "Memastikan warga negara hanya menuntut hak setelah bekerja selama sepuluh tahun",
+        "E": "Mengalihkan seluruh tanggung jawab sosial masyarakat sepenuhnya kepada lembaga swasta"
+      },
+      "kunci": "B",
+      "inti_soal": "Fungsi keseimbangan hak dan kewajiban menurut Pasal 28J UUD 1945.",
+      "trik_cepat": "Hak seseorang dibatasi oleh hak orang lain -> tujuannya menciptakan keadilan, ketertiban, dan demokrasi yang harmonis (B).",
+      "pembahasan": "Opsi B tepat sesuai Pasal 28J ayat (1) dan (2) UUD 1945, di mana pelaksanaan hak warga harus diimbangi kewajiban menghormati hak pihak lain demi ketertiban umum dan nilai-nilai demokrasi."
+    },
+    {
+      "no": 19,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Prinsip Demokrasi Pancasila dalam Musyawarah",
+      "soal": "Dalam sebuah rapat penyusunan program kerja desa, terjadi perbedaan pendapat yang cukup tajam antara kelompok pemuda dan tokoh senior. Sikap yang paling mencerminkan prinsip Demokrasi Pancasila dalam situasi tersebut adalah...",
+      "opsi": {
+        "A": "Mengikuti pendapat pihak yang suaranya paling keras agar rapat cepat selesai sebelum sore",
+        "B": "Menyampaikan argumen secara rasional dan santun sembari mendengarkan serta menghargai pandangan pihak yang berbeda demi mencapai mufakat terbaik",
+        "C": "Membubarkan rapat secara sepihak apabila usulan kelompok sendiri tidak langsung disetujui",
+        "D": "Meminta kepala desa menentukan keputusan secara tertutup tanpa melibatkan peserta rapat",
+        "E": "Mengabaikan usulan kelompok pemuda karena dianggap belum berpengalaman"
+      },
+      "kunci": "B",
+      "inti_soal": "Penerapan prinsip demokrasi Pancasila (Sila ke-4) dalam forum rapat.",
+      "trik_cepat": "Demokrasi Pancasila = kebebasan berpendapat yang santun + menghargai perbedaan + orientasi mufakat/kepentingan bersama (B).",
+      "pembahasan": "Opsi B tepat karena mencerminkan sikap demokratis yang beradab, menghormati kesetaraan peserta rapat, dan mengutamakan hikmat kebijaksanaan dalam permusyawaratan."
+    },
+    {
+      "no": 20,
+      "subtes": "TWK",
+      "topik": "Integritas - Penanganan Laporan Masyarakat & Kolaborasi Akuntabel",
+      "soal": "Untuk menjamin akuntabilitas dan efektivitas kebijakan pemerintah agar tepat sasaran dan bebas dari praktik korupsi, pengawasan penyelenggaraan pelayanan publik memerlukan tata kelola kolaboratif yang melibatkan unsur...",
+      "opsi": {
+        "A": "Hanya aparat penegak hukum internal tanpa melibatkan partisipasi masyarakat",
+        "B": "Pemerintah, masyarakat sipil, akademisi, dan pemangku kepentingan terkait secara transparan",
+        "C": "Kelompok pengusaha besar saja sebagai penentu arah kebijakan daerah",
+        "D": "Pegawai senior di kementerian pusat secara tertutup",
+        "E": "Pihak luar negeri sebagai pengelola penuh anggaran belanja daerah"
+      },
+      "kunci": "B",
+      "inti_soal": "Unsur kolaborasi pengawasan akuntabilitas pemerintahan (Good Governance).",
+      "trik_cepat": "Tata kelola pemerintahan modern (Good Governance) menuntut sinergi pemerintah + masyarakat/LSM + akademisi + swasta secara transparan (B).",
+      "pembahasan": "Opsi B tepat karena pengawasan partisipatif yang melibatkan pemerintah, masyarakat sipil, dan akademisi menutup celah penyimpangan sekaligus meningkatkan efektivitas kebijakan publik."
+    },
+    {
+      "no": 21,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Menjaga Kedaulatan & Hukum Wilayah NKRI",
+      "soal": "Secara yurisdiksi, Negara Kesatuan Republik Indonesia memiliki kedaulatan penuh atas seluruh wilayah darat, laut, dan udara beserta sumber daya di dalamnya. Konsekuensi hukum dari kedaulatan penuh tersebut adalah...",
+      "opsi": {
+        "A": "Negara berwenang penuh mengatur, mengelola sumber daya, dan menegakkan hukum atas wilayah serta penduduk di dalamnya tanpa campur tangan asing",
+        "B": "Negara asing bebas mengeksploitasi wilayah perairan perbatasan Indonesia tanpa izin pemerintah",
+        "C": "Pemerintah daerah berhak memisahkan diri dari NKRI apabila merasa tidak puas dengan anggaran pusat",
+        "D": "Hukum nasional hanya berlaku bagi warga negara asli dan tidak mengikat warga asing yang berkunjung",
+        "E": "Pemerintah tidak perlu menjaga wilayah pulau terluar yang tidak berpenghuni"
+      },
+      "kunci": "A",
+      "inti_soal": "Konsekuensi kedaulatan teritorial dan yurisdiksi negara (Pasal 25A & 33 UUD 1945).",
+      "trik_cepat": "Kedaulatan yurisdiksi penuh = hak eksklusif negara menegakkan hukum dan mengelola seluruh wilayah/SDA di dalamnya (A).",
+      "pembahasan": "Opsi A tepat karena kedaulatan teritorial memberi kewenangan penuh dan eksklusif kepada negara untuk menerapkan hukum nasional dan mengelola sumber daya alam bagi kemakmuran rakyat."
+    },
+    {
+      "no": 22,
+      "subtes": "TWK",
+      "topik": "Bela Negara - Sikap Menghadapi Ancaman Disintegrasi & Separatisme",
+      "soal": "Salah satu ancaman nyata terhadap nasionalisme politik dan keutuhan NKRI adalah munculnya gerakan separatisme, makar, serta politisasi identitas suku dan agama. Upaya pencegahan jangka panjang paling mendasar yang dapat dilakukan pemerintah dan masyarakat adalah...",
+      "opsi": {
+        "A": "Memeratakan pembangunan ekonomi, membuka dialog berkeadilan, serta memperkuat integrasi nasional dan wawasan kebangsaan",
+        "B": "Membatasi akses pendidikan tinggi di daerah-daerah terpencil",
+        "C": "Menyeragamkan seluruh tradisi dan bahasa daerah menjadi satu budaya tunggal",
+        "D": "Memutuskan seluruh akses informasi antara pemerintah pusat dan daerah",
+        "E": "Membiarkan kesenjangan infrastruktur antarwilayah berlangsung tanpa intervensi"
+      },
+      "kunci": "A",
+      "inti_soal": "Strategi merawat integrasi nasional untuk mencegah separatisme dan disintegrasi.",
+      "trik_cepat": "Akar disintegrasi sering dipicu rasa ketidakadilan pembangunan + minimnya dialog. Solusinya: pemerataan kesejahteraan + keadilan + penguatan wawasan kebangsaan (A).",
+      "pembahasan": "Opsi A tepat karena keadilan sosial dan pemerataan pembangunan disertai penguatan wawasan kebangsaan merupakan fondasi terkuat menjaga persatuan dalam NKRI."
+    },
+    {
+      "no": 23,
+      "subtes": "TWK",
+      "topik": "Nasionalisme - Sikap Nasionalisme di Era Persaingan Global (Bung Karno)",
+      "soal": "Menurut pandangan para pendiri bangsa, untuk menjadi bangsa yang besar, kuat, dan bermartabat di kancah internasional, bangsa Indonesia tidak boleh bersikap tertutup, melainkan harus...",
+      "opsi": {
+        "A": "Meniru seluruh gaya hidup negara Barat secara mentah-mentah dan melupakan sejarah perjuangan",
+        "B": "Belajar dari kemajuan ilmu pengetahuan dan kesuksesan negara lain tanpa mengabaikan jati diri serta nilai nasional",
+        "C": "Mengisolasi diri dari kerja sama internasional karena khawatir terpengaruh budaya luar",
+        "D": "Menggantungkan seluruh kebutuhan ekonomi dan pertahanan pada bantuan negara adidaya",
+        "E": "Menganggap bangsa sendiri paling sempurna sehingga tidak perlu belajar dari negara lain"
+      },
+      "kunci": "B",
+      "inti_soal": "Semangat Trisakti dan nasionalisme terbuka yang adaptif terhadap kemajuan global.",
+      "trik_cepat": "Belajar kemajuan ilmu pengetahuan dari luar + tetap berakar pada jati diri dan kepribadian bangsa sendiri (B).",
+      "pembahasan": "Opsi B tepat karena memadukan keterbukaan terhadap kemajuan iptek global dengan keteguhan memegang nilai-nilai luhur Pancasila dan kemandirian nasional."
+    },
+    {
+      "no": 24,
+      "subtes": "TWK",
+      "topik": "Pilar Negara - Fungsi Kewenangan Kepolisian (Polri) vs Kejaksaan",
+      "soal": "Dalam sistem peradilan pidana terpadu di Indonesia, Pasal 30 ayat (4) UUD NRI Tahun 1945 dan UU No. 2 Tahun 2002 menetapkan peran spesifik Kepolisian Negara Republik Indonesia (Polri) sebagai alat negara yang menjaga keamanan dan ketertiban masyarakat, yang tugas utamanya dalam proses perkara pidana adalah...",
+      "opsi": {
+        "A": "Melakukan penuntutan perkara pidana di muka sidang pengadilan",
+        "B": "Melaksanakan penyelidikan dan penyidikan tindak pidana serta melindungi, mengayomi, dan melayani masyarakat",
+        "C": "Menjatuhkan vonis hukuman penjara kepada terdakwa",
+        "D": "Menguji kesesuaian undang-undang terhadap UUD 1945",
+        "E": "Membina narapidana di dalam lembaga pemasyarakatan"
+      },
+      "kunci": "B",
+      "inti_soal": "Membedakan fungsi Polri (penyelidikan/penyidikan), Kejaksaan (penuntutan), dan Hakim (vonis).",
+      "trik_cepat": "Ingat alur Catur Wangsa Penegak Hukum: Polri = Penyelidikan & Penyidikan (B), Jaksa = Penuntutan, Hakim = Memutus/Mengadili, Lapas = Pembinaan.",
+      "pembahasan": "Opsi B tepat. Berdasarkan Pasal 30 ayat (4) UUD 1945 dan UU No. 2 Tahun 2002, Polri bertugas menjaga kamtibmas, menegakkan hukum melalui penyelidikan dan penyidikan, serta melindungi, mengayomi, dan melayani masyarakat."
+    },
+    {
+      "no": 25,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Penulisan Gelar Akademik (EYD V)",
+      "soal": "Pada daftar hadir resmi rapat koordinasi kementerian, manakah penulisan nama dan gelar yang sepenuhnya tepat sesuai kaidah EYD Edisi V?",
+      "opsi": {
+        "A": "Drs. Rahmat S.H.",
+        "B": "Aisyah Putri, S.Pd.",
+        "C": "Dr. Arif Budiman.",
+        "D": "Ir. Budi Santoso M.T.",
+        "E": "Hj. Dewi Saraswati, S.E, M.M."
+      },
+      "kunci": "B",
+      "inti_soal": "Ketepatan tanda koma dan titik pada penulisan nama dan gelar.",
+      "trik_cepat": "Cek satu per satu:\n- A salah: kurang koma antara Rahmat dan S.H.\n- B BENAR: Aisyah Putri, S.Pd.\n- C salah: di akhir nama orang tanpa gelar belakang tidak diberi tanda titik.\n- D salah: kurang koma sebelum M.T.\n- E salah: kurang titik setelah huruf E pada S.E.",
+      "pembahasan": "Opsi B (Aisyah Putri, S.Pd.) tepat karena menggunakan tanda koma pemisah antara nama dan gelar di belakang serta tanda titik yang benar pada singkatan Sarjana Pendidikan."
+    },
+    {
+      "no": 26,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Makna Kosakata Kontekstual (KBBI)",
+      "soal": "Bacalah kutipan teks sosiologi berikut!\n\"Disintegrasi merupakan proses perubahan yang dapat mengurai ikatan sosial dalam masyarakat. Kondisi disintegrasi dalam kehidupan bermasyarakat sepatutnya diimbangi dengan reintegrasi agar norma dan nilai bersama kembali melembaga demi keutuhan masyarakat.\"\n\nMakna kata 'disintegrasi' yang paling tepat sesuai konteks paragraf di atas adalah...",
+      "opsi": {
+        "A": "Pertikaian bersenjata antardesa",
+        "B": "Keadaan terpecah belah atau hilangnya keutuhan dan persatuan",
+        "C": "Perpindahan penduduk dari desa ke kota",
+        "D": "Penolakan terhadap teknologi informasi modern",
+        "E": "Persaingan sehat dalam kegiatan ekonomi pasar"
+      },
+      "kunci": "B",
+      "inti_soal": "Menentukan makna kata 'disintegrasi' sesuai KBBI dan konteks teks.",
+      "trik_cepat": "Dis- (tidak/terurai) + Integrasi (penyatuan/keutuhan) = keadaan tidak bersatu padu / perpecahan (B).",
+      "pembahasan": "Opsi B tepat. Menurut KBBI, disintegrasi berarti keadaan tidak bersatu padu atau keadaan terpecah belah sehingga hilangnya keutuhan dan persatuan, yang dalam teks dikontraskan dengan reintegrasi."
+    },
+    {
+      "no": 27,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Menemukan Informasi Tersurat & Hambatan dalam Paragraf",
+      "soal": "Perhatikan paragraf berikut!\n\"Paket Kebijakan Ekonomi I hingga XIII yang diluncurkan pemerintah belum seluruhnya terlaksana sesuai harapan. Padahal, paket kebijakan tersebut dirancang untuk menggerakkan perekonomian nasional guna mengejar target pertumbuhan. Kurangnya koordinasi antarinstansi dipandang sebagai salah satu penyebab utama lambatnya pelaksanaan paket tersebut, seperti halnya penyesuaian harga gas industri yang belum kunjung tuntas.\"\n\nBerdasarkan teks di atas, faktor penghambat utama terlaksananya Paket Kebijakan Ekonomi tersebut adalah...",
+      "opsi": {
+        "A": "Terlalu cepatnya target pertumbuhan ekonomi yang ditetapkan oleh pemerintah",
+        "B": "Kurangnya koordinasi antarinstansi dalam mengimplementasikan kebijakan tersebut",
+        "C": "Penolakan seluruh pelaku industri terhadap penurunan harga gas nasional",
+        "D": "Jumlah paket kebijakan yang hanya berjumlah satu dokumen saja",
+        "E": "Tingginya keberhasilan pelaksanaan seluruh isi ke-13 paket kebijakan"
+      },
+      "kunci": "B",
+      "inti_soal": "Menemukan fakta sebab-akibat tersurat di dalam bacaan.",
+      "trik_cepat": "Baca kalimat ketiga secara harfiah: 'Kurangnya koordinasi antarinstansi dipandang sebagai salah satu penyebab utama lambatnya pelaksanaan paket tersebut' -> Opsi B.",
+      "pembahasan": "Opsi B tepat karena disebutkan secara eksplisit dalam kalimat ketiga bacaan sebagai penyebab lambatnya pelaksanaan paket kebijakan."
+    },
+    {
+      "no": 28,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Koherensi & Kalimat Rumpang",
+      "soal": "Cermati kutipan cerpen berikut!\n\"Saat bus berhenti, seketika puluhan pedagang asongan menyerbu masuk. Beberapa di antara mereka sudah melompat naik saat bus masih berada di mulut terminal. [ ... ]. Celakanya, mesin bus tidak dimatikan dan sopir melompat turun begitu saja. Para pedagang menawarkan dagangan dengan suara melengking agar bisa mengatasi derum mesin.\"\n\nKalimat yang paling tepat untuk melengkapi bagian rumpang [...] agar paragraf menjadi padu dan logis adalah...",
+      "opsi": {
+        "A": "Para penumpang transit segera meninggalkan terminal menuju stasiun kereta api.",
+        "B": "Suasana di dalam bus pun seketika berubah menjadi seperti pasar yang sangat hiruk pikuk.",
+        "C": "Bus tersebut langsung melanjutkan perjalanan keluar kota tanpa mengangkut penumpang.",
+        "D": "Sopir bus tertidur pulas di kursi kemudi setelah mematikan mesin kendaraan.",
+        "E": "Terminal bus tampak lengang dan sepi dari aktivitas jual beli."
+      },
+      "kunci": "B",
+      "inti_soal": "Melengkapi kalimat rumpang dengan menjaga kepaduan suasana dan logika alur cerita.",
+      "trik_cepat": "Cek kalimat sebelum (puluhan pedagang menyerbu masuk) dan sesudah (mesin tidak dimatikan, suara melengking mengatasi derum mesin). Suasana yang pas adalah hiruk pikuk seperti pasar (B).",
+      "pembahasan": "Opsi B tepat karena menjaga koherensi deskripsi suasana ramai di dalam bus akibat serbuan puluhan pedagang asongan dan derum mesin bus yang belum dimatikan."
+    },
+    {
+      "no": 29,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Ketidaktepatan Diksi & Keefektifan Kalimat",
+      "soal": "Perhatikan kalimat berikut:\n\"Sasaran program pengentasan kemiskinan tidak hanya membatasi pada daerah pedesaan, melainkan mencakup juga daerah perkotaan.\"\n\nAgar kalimat tersebut menjadi efektif dan logis secara struktur aktif-pasif, perbaikan yang paling tepat pada kata yang bercetak salah adalah...",
+      "opsi": {
+        "A": "Mengubah kata 'sasaran' menjadi 'ditujukan'",
+        "B": "Mengubah kata 'membatasi' menjadi 'terbatas' (dan 'melainkan' tetap atau 'tetapi' sesuai pasangan 'tidak hanya... tetapi juga')",
+        "C": "Menghapus kata 'daerah' di seluruh bagian kalimat",
+        "D": "Mengubah kata 'mencakup' menjadi 'dicakupkan'",
+        "E": "Menambahkan kata 'untuk' di depan kata 'sasaran'"
+      },
+      "kunci": "B",
+      "inti_soal": "Memperbaiki kesalahan bentuk verba aktif 'membatasi' menjadi adjektiva/pasif 'terbatas' serta pasangan konjungsi korelatif.",
+      "trik_cepat": "'Sasaran program' adalah benda mati (subjek pasif), sehingga tidak logis jika 'membatasi' (aktif). Seharusnya 'tidak hanya terbatas pada..., tetapi juga mencakup...' (B).",
+      "pembahasan": "Opsi B tepat karena kata 'membatasi' (aktif transitif) tidak memiliki objek dan tidak padan dengan subjek 'Sasaran program'. Bentuk yang tepat adalah 'terbatas' serta menggunakan pasangan konjungsi korelatif baku 'tidak hanya..., tetapi juga...'."
+    },
+    {
+      "no": 30,
+      "subtes": "TWK",
+      "topik": "Bahasa Indonesia - Penulisan Kata Serapan & Baku (EYD V / KBBI)",
+      "soal": "Manakah kalimat di bawah ini yang menggunakan seluruh kata serapan dan kata baku secara tepat sesuai kaidah KBBI?",
+      "opsi": {
+        "A": "Kualitas pelayanan publik harus ditingkatkan melalui standarisasi prosedur dan jadwal kerja yang jelas.",
+        "B": "Kualitas pelayanan publik harus ditingkatkan melalui standardisasi prosedur dan jadwal kerja yang konkret.",
+        "C": "Kwalitas pelayanan publik harus ditingkatkan melalui standarisasi prosedur dan jadual kerja yang kongkrit.",
+        "D": "Kualitas pelayanan publik harus ditingkatkan melalui standardisasi prosedur dan jadual kerja yang kongkret.",
+        "E": "Kwalitas pelayanan publik harus ditingkatkan melalui standardisasi prosedur dan jadwal kerja yang konkret."
+      },
+      "kunci": "B",
+      "inti_soal": "Membedakan kata baku: kualitas, standardisasi, jadwal, konkret.",
+      "trik_cepat": "Hafalkan bentuk baku KBBI:\n- kualitas (bukan kwalitas)\n- standardisasi (bukan standarisasi, karena dari kata 'standard' + -isasi -> standardisasi!)\n- jadwal (bukan jadual)\n- konkret (bukan kongkrit/kongkret).\nYang benar semua hanya Opsi B!",
+      "pembahasan": "Opsi B tepat karena seluruh kata bakunya sesuai KBBI: 'kualitas', 'standardisasi', 'jadwal', dan 'konkret'. Kata 'standarisasi', 'jadual', 'kwalitas', dan 'kongkrit' adalah bentuk tidak baku."
+    },
+    {
+      "no": 31,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Tiga Kata",
+      "soal": "BUKU : ILMU : PINTAR = OBAT : ... : ...",
+      "opsi": {
+        "A": "APOTEK : DOKTER",
+        "B": "ZAT AKTIF : SEMBUH",
+        "C": "KAPSUL : PAHIT",
+        "D": "RESEP : RUMAH SAKIT",
+        "E": "PENYAKIT : SEHAT"
+      },
+      "kunci": "B",
+      "inti_soal": "Relasi tiga kata berurutan: 'MEDIA : KANDUNGAN MANFAAT : HASIL AKHIR'.",
+      "trik_cepat": "Buku mengandung Ilmu -> hasilnya Pintar. Obat mengandung Zat Aktif -> hasilnya Sembuh (B).",
+      "pembahasan": "Opsi B tepat karena memiliki pola relasi yang sejajar: Buku memuat ilmu yang membuat pembaca menjadi pintar, sebagaimana obat mengandung zat aktif yang membuat pasien menjadi sembuh."
+    },
+    {
+      "no": 32,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "MENDUNG : HUJAN\nHubungan kedua kata tersebut memiliki pola yang setara dengan kalimat...",
+      "opsi": {
+        "A": "Rasa mual sering kali muncul sebagai pertanda awal sebelum seseorang mengalami muntah.",
+        "B": "Pelangi muncul di langit setelah turun hujan deras pada sore hari.",
+        "C": "Kipas angin berputar cepat ketika sakelar listrik dinyalakan.",
+        "D": "Bunga mekar di taman karena disiram air setiap pagi hari.",
+        "E": "Es batu mencair perlahan saat diletakkan di ruang terbuka."
+      },
+      "kunci": "A",
+      "inti_soal": "Relasi 'GEJALA/PERTANDA AWAL : PERISTIWA YANG MENYUSUL'.",
+      "trik_cepat": "Mendung adalah pertanda awal sebelum turun Hujan. Mual adalah pertanda awal sebelum terjadi Muntah (A).",
+      "pembahasan": "Opsi A tepat karena mendung merupakan tanda/gejala awal sebelum terjadinya hujan, setara dengan mual sebagai gejala awal sebelum terjadinya muntah."
+    },
+    {
+      "no": 33,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kategori Umum-Khusus",
+      "soal": "BAJU : PAKAIAN = MEJA : ...",
+      "opsi": {
+        "A": "KURSI",
+        "B": "FURNITUR",
+        "C": "KAYU",
+        "D": "TOKO",
+        "E": "RUANGAN"
+      },
+      "kunci": "B",
+      "inti_soal": "Relasi 'JENIS SPESIFIK : KATEGORI UMUMNYA'.",
+      "trik_cepat": "Baju adalah salah satu jenis Pakaian. Meja adalah salah satu jenis Furnitur/Perabot (B).",
+      "pembahasan": "Opsi B tepat karena baju termasuk ke dalam kategori pakaian, sebagaimana meja termasuk ke dalam kategori furnitur."
+    },
+    {
+      "no": 34,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "PISANG : KULIT\nHubungan kata di atas setara dengan kalimat...",
+      "opsi": {
+        "A": "Buah mangga memiliki biji keras di bagian tengah daging buahnya.",
+        "B": "Telur dilindungi oleh cangkang keras di bagian luarnya.",
+        "C": "Daging sapi melekat erat pada tulang rusuk.",
+        "D": "Pohon jati memiliki akar tunggang yang menembus tanah.",
+        "E": "Ikan berenang di air menggunakan sirip dan ekornya."
+      },
+      "kunci": "B",
+      "inti_soal": "Relasi 'OBJEK : LAPISAN PELINDUNG BAGIAN LUARNYA'.",
+      "trik_cepat": "Pisang bagian luarnya dilapisi Kulit. Telur bagian luarnya dilapisi Cangkang (B).",
+      "pembahasan": "Opsi B tepat karena kulit berfungsi sebagai pelindung luar pisang, sedangkan cangkang berfungsi sebagai pelindung luar telur."
+    },
+    {
+      "no": 35,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Kuantor Campuran",
+      "soal": "Premis 1: Semua peserta tes CPNS tahun ini mengikuti SKD.\nPremis 2: Sebagian peserta tes CPNS tahun ini mengikuti SKB.\n\nSimpulan yang paling tepat adalah...",
+      "opsi": {
+        "A": "Semua peserta yang mengikuti SKD tidak mengikuti SKB.",
+        "B": "Semua peserta yang mengikuti SKB tidak mengikuti SKD.",
+        "C": "Sebagian peserta yang mengikuti SKB tidak mengikuti SKD.",
+        "D": "Semua peserta yang mengikuti SKB pasti mengikuti SKD.",
+        "E": "Tidak ada peserta yang mengikuti SKD maupun SKB."
+      },
+      "kunci": "D",
+      "inti_soal": "Penarikan simpulan himpunan bagian: Semua P adalah Q, Sebagian P adalah R -> Semua R adalah Q.",
+      "trik_cepat": "Semua peserta CPNS (P) ikut SKD (Q). Artinya, siapa pun peserta CPNS yang ikut SKB (sebagian dari P) PASTI ikut SKD juga! Jadi 'Semua peserta yang mengikuti SKB pasti mengikuti SKD' (D).",
+      "pembahasan": "Opsi D tepat. Karena seluruh peserta tes CPNS mengikuti SKD, maka sub-kelompok peserta CPNS yang melaju ke tahap SKB tentu saja termasuk golongan yang mengikuti SKD."
+    },
+    {
+      "no": 36,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Negasi & Ekuivalensi",
+      "soal": "Premis 1: Jika tingkat kemiskinan tinggi, maka tingkat kriminalitas tinggi.\nPremis 2: Jika kondisi daerah aman, maka tingkat kriminalitas tidak tinggi.\n\nSimpulan yang paling tepat dan sah dari kedua premis tersebut adalah...",
+      "opsi": {
+        "A": "Jika tingkat kemiskinan rendah, maka tingkat kriminalitas pasti rendah.",
+        "B": "Jika kondisi daerah aman, maka tingkat kemiskinan tidak tinggi.",
+        "C": "Jika tingkat kemiskinan tinggi, maka kondisi daerah aman.",
+        "D": "Kondisi daerah aman atau tingkat kemiskinan tinggi.",
+        "E": "Jika tingkat kriminalitas tinggi, maka tingkat kemiskinan rendah."
+      },
+      "kunci": "B",
+      "inti_soal": "Menggabungkan implikasi menggunakan kontraposisi: P -> Q dan R -> ~Q.",
+      "trik_cepat": "Ubah Premis 2 ke kontraposisinya agar nyambung:\nP1: Miskin Tinggi (P) -> Kriminal Tinggi (Q)\nP2: Aman (R) -> ~Q. Kontraposisi P2: Q -> ~R.\nGabungkan rantai: P -> Q -> ~R (Jika Miskin Tinggi maka Tidak Aman).\nAmbil kontraposisi dari P -> ~R, yaitu: R -> ~P ('Jika kondisi daerah aman, maka tingkat kemiskinan tidak tinggi' = Opsi B)!",
+      "pembahasan": "Opsi B tepat. Dari P -> Q dan R -> ~Q (yang ekuivalen dengan Q -> ~R), diperoleh P -> ~R. Kontraposisi dari P -> ~R adalah R -> ~P, yaitu 'Jika kondisi daerah aman, maka tingkat kemiskinan tidak tinggi'."
+    },
+    {
+      "no": 37,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Kuantor 'Semua & Sebagian'",
+      "soal": "Premis 1: Semua makanan sehat mengandung vitamin.\nPremis 2: Sebagian makanan di kantin sekolah tidak sehat.\n\nSimpulan yang paling tepat adalah...",
+      "opsi": {
+        "A": "Semua makanan di kantin sekolah tidak mengandung vitamin.",
+        "B": "Sebagian makanan di kantin sekolah adalah makanan sehat.",
+        "C": "Sebagian makanan di kantin sekolah tidak dapat dipastikan mengandung vitamin atau bukan makanan sehat yang mengandung vitamin.",
+        "D": "Semua makanan sehat di kantin sekolah mengandung vitamin.",
+        "E": "Sebagian makanan sehat di kantin sekolah tidak mengandung vitamin."
+      },
+      "kunci": "D",
+      "inti_soal": "Hati-hati jebakan Premis 1 (Semua Sehat -> Vitamin): jangan menarik kesimpulan salah bahwa 'Tidak Sehat -> Tidak Vitamin'!",
+      "trik_cepat": "Jebakan klasik TIU: 'Semua A adalah B' TIDAK berarti 'Bukan A pasti Bukan B'! Jadi kita tidak boleh menyimpulkan makanan tidak sehat pasti tidak bervitamin. Yang PASTI benar sesuai Premis 1 adalah: 'Semua makanan sehat di kantin sekolah mengandung vitamin' (D).",
+      "pembahasan": "Opsi D tepat karena merupakan turunan langsung yang sah dari Premis 1 (apa pun makanan sehatnya, termasuk yang ada di kantin sekolah, pasti mengandung vitamin). Opsi A dan E keliru karena bertentangan dengan Premis 1, sedangkan klaim 'tidak sehat = tidak bervitamin' adalah kesesatan logika invers."
+    },
+    {
+      "no": 38,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Ekuivalensi (~P v Q)",
+      "soal": "Premis 1: Jika semua pegawai merasa ilmunya masih kurang, mereka akan giat belajar.\nPremis 2: Jika mereka giat belajar, maka mereka akan kompeten.\n\nSimpulan yang bernilai setara dengan gabungan kedua premis di atas adalah...",
+      "opsi": {
+        "A": "Jika tidak ada pegawai yang belajar, maka mereka sudah kompeten.",
+        "B": "Tidak semua pegawai merasa ilmunya masih kurang, atau mereka akan kompeten.",
+        "C": "Jika semua pegawai kompeten, maka tidak ada yang giat belajar.",
+        "D": "Sebagian pegawai giat belajar tetapi tidak pernah merasa ilmunya kurang.",
+        "E": "Semua pegawai pasti kompeten meskipun tidak pernah belajar."
+      },
+      "kunci": "B",
+      "inti_soal": "Mengubah implikasi hasil silogisme (P -> R) menjadi bentuk disjungsi (~P v R).",
+      "trik_cepat": "P1: P -> Q, P2: Q -> R => Gabungan: P -> R ('Jika semua pegawai merasa ilmunya kurang, maka mereka akan kompeten').\nIngat hukum ekuivalensi: (P -> R) ≡ (~P atau R)!\nNegasi dari 'Semua pegawai merasa ilmunya kurang' adalah 'Tidak semua pegawai merasa ilmunya kurang'. Maka hasilnya: 'Tidak semua pegawai merasa ilmunya masih kurang, atau mereka akan kompeten' (B).",
+      "pembahasan": "Opsi B tepat. Berdasarkan silogisme hipotetik diperoleh P -> R. Dalam logika matematika, implikasi P -> R ekuivalen dengan disjungsi ~P v R (Negasi dari P atau R)."
+    },
+    {
+      "no": 39,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Prasyarat Mata Kuliah)",
+      "soal": "Sebuah program studi menetapkan syarat pengambilan mata kuliah pilihan sebagai berikut:\n1) Mata kuliah A dapat diambil jika sudah mengambil mata kuliah C atau E.\n2) Mata kuliah C dapat diambil jika sudah mengambil mata kuliah B dan D secara berurutan (B dulu, baru D).\n3) Mata kuliah F dapat diambil jika sudah mengambil mata kuliah A.\n4) Mata kuliah G dan F dapat diambil jika sudah mengambil mata kuliah J.\n5) Mata kuliah J hanya bisa diambil jika sudah mengambil mata kuliah C.\n6) Mata kuliah L dapat diambil jika sudah mengambil mata kuliah J atau F.\n\nJika seorang mahasiswa ingin mengambil mata kuliah L melalui jalur mata kuliah F sekaligus J, urutan pengambilan mata kuliah yang paling tepat dan memenuhi seluruh syarat adalah...",
+      "opsi": {
+        "A": "A – C – J – F – L",
+        "B": "D – B – C – J – F – L",
+        "C": "B – D – C – J – L",
+        "D": "B – D – C – J – F – L",
+        "E": "C – B – D – J – F – L"
+      },
+      "kunci": "C",
+      "inti_soal": "Melacak urutan prasyarat berantai (syarat 2: B dan D berurutan sebelum C!).",
+      "trik_cepat": "Cek syarat paling awal (syarat 2): Untuk ambil C, harus ambil B dan D SECARA BERURUTAN (B dulu baru D -> eliminasi opsi B dan E yang D dulu!).\nSetelah C: syarat 5 -> ambil J.\nSetelah J: syarat 6 -> langsung bisa ambil L (karena syarat 6 pakai kata 'J atau F', bukan harus A dulu; ingat F butuh A!). Cek opsi D: B-D-C-J-F-L salah karena F syaratnya butuh A juga (syarat 3)! Maka urutan yang 100% sah memenuhi semua syarat adalah B – D – C – J – L (C).",
+      "pembahasan": "Opsi C (B – D – C – J – L) tepat. Untuk mengambil C harus B lalu D berurutan. Setelah C, mahasiswa dapat mengambil J (syarat 5). Karena syarat L adalah sudah mengambil J ATAU F (syarat 6), maka setelah J mahasiswa langsung sah mengambil L. (Pada opsi D, F tidak bisa diambil sebelum A diambil terlebih dahulu)."
+    },
+    {
+      "no": 40,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Jadwal Piket Sekuriti)",
+      "soal": "Tiga sekuriti—Amir, Bari, dan Dimas—bekerja dengan aturan setiap orang mendapat tepat 1 hari libur setelah bekerja 4 hari berturut-turut (siklus 5 hari). Pada bulan Mei (31 hari):\n1) Tanggal 1 Mei adalah hari pertama piket Amir.\n2) Tanggal 6 Mei adalah hari libur kedua Bari pada bulan Mei.\n3) Tanggal 2 Mei adalah hari libur pertama Dimas pada bulan Mei.\n\nSiapakah sekuriti yang bertugas piket pada tanggal 31 Mei?",
+      "opsi": {
+        "A": "Amir dan Bari saja",
+        "B": "Amir dan Dimas saja",
+        "C": "Bari dan Dimas saja",
+        "D": "Amir, Bari, dan Dimas (ketiganya piket)",
+        "E": "Tidak ada yang piket"
+      },
+      "kunci": "B",
+      "inti_soal": "Menghitung sisa bagi (modulo 5) siklus jadwal kerja 4 hari + 1 hari libur.",
+      "trik_cepat": "Siklus = 5 hari (4 kerja, 1 libur). Cek hari LIBUR masing-masing (sisa bagi 5):\n- Amir: mulai kerja tgl 1 (1,2,3,4 kerja -> LIBUR tgl 5, 10, 15, 20, 25, 30). Tgl 31 Amir mulai siklus baru -> PIKET!\n- Bari: libur ke-2 tgl 6 (berarti libur ke-1 tgl 1!). Libur Bari kelipatan 5 + 1: tgl 1, 6, 11, 16, 21, 26, 31 -> Tgl 31 LIBUR! (Tunggu: cek ulang! Jika libur ke-2 tgl 6, libur ke-1 = 6-5 = tgl 1. Maka libur selanjutnya: 1, 6, 11, 16, 21, 26, 31 -> Bari LIBUR tgl 31!)\n- Dimas: libur ke-1 tgl 2 -> libur selanjutnya: 2, 7, 12, 17, 22, 27 -> Tgl 31 Dimas PIKET!\nJadi yang piket tgl 31 Mei adalah Amir dan Dimas (B)!",
+      "pembahasan": "Opsi B (Amir dan Dimas saja) tepat. Siklus kerja adalah 5 hari (4 hari kerja, 1 hari libur). Jadwal libur Amir: tanggal 5, 10, 15, 20, 25, 30 (sehingga tanggal 31 Amir piket). Jadwal libur Bari: libur ke-2 tanggal 6, berarti libur ke-1 tanggal 1; libur berikutnya 11, 16, 21, 26, dan 31 (sehingga tanggal 31 Bari libur). Jadwal libur Dimas: 2, 7, 12, 17, 22, 27 (sehingga tanggal 31 Dimas piket)."
+    },
+    {
+      "no": 41,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Penugasan Pekerja Pabrik)",
+      "soal": "Lima pekerja pabrik—Parjo, Qori, Ruslan, Salkam, dan Toriq—akan ditempatkan pada lima posisi berbeda (Mekanik, Pengemudi, Pengemas, Penimbang, Pendata) dengan kemampuan masing-masing:\n1) Parjo: Mekanik, Pengemas, atau Penimbang\n2) Qori: Pengemas atau Penimbang\n3) Ruslan: Mekanik, Pengemudi, atau Pendata\n4) Salkam: Pengemudi, Penimbang, atau Pendata\n5) Toriq: Pengemudi atau Penimbang\n\nJika Parjo ditugaskan sebagai Mekanik dan Ruslan ditugaskan sebagai Pengemudi, maka pernyataan penugasan yang PASTI BENAR adalah...",
+      "opsi": {
+        "A": "Qori sebagai Penimbang dan Salkam sebagai Pengemas",
+        "B": "Qori sebagai Pengemas dan Salkam sebagai Pendata",
+        "C": "Ruslan sebagai Pengemas dan Salkam sebagai Penimbang",
+        "D": "Qori sebagai Pengemas dan Ruslan sebagai Pengemudi",
+        "E": "Salkam sebagai Pengemudi dan Qori sebagai Penimbang"
+      },
+      "kunci": "B",
+      "inti_soal": "Eliminasi penugasan 1-ke-1 secara berantai.",
+      "trik_cepat": "- Parjo = Mekanik, Ruslan = Pengemudi.\n- Toriq (hanya bisa Pengemudi/Penimbang): karena Pengemudi sudah diisi Ruslan, Toriq PASTI Penimbang.\n- Qori (hanya bisa Pengemas/Penimbang): karena Penimbang sudah diisi Toriq, Qori PASTI Pengemas.\n- Salkam tersisa 1 posisi: Pendata -> 'Qori sebagai Pengemas dan Salkam sebagai Pendata' (B).",
+      "pembahasan": "Opsi B tepat. Karena Parjo menjadi Mekanik dan posisi Pengemudi diisi oleh Ruslan, maka Toriq (hanya bisa Pengemudi/Penimbang) otomatis menjadi Penimbang. Selanjutnya Qori (Pengemas/Penimbang) otomatis menjadi Pengemas, dan Salkam menempati posisi Pendata."
+    },
+    {
+      "no": 42,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Urutan Peringkat Nilai)",
+      "soal": "Nilai ujian matematika Budi berada pada urutan ke-8 dari atas (tertinggi) dan sekaligus berada pada urutan ke-12 dari bawah (terendah) di kelasnya. Berapakah jumlah seluruh siswa di kelas tersebut?",
+      "opsi": {
+        "A": "18 siswa",
+        "B": "19 siswa",
+        "C": "20 siswa",
+        "D": "21 siswa",
+        "E": "22 siswa"
+      },
+      "kunci": "B",
+      "inti_soal": "Menghitung total elemen dari posisi atas dan bawah tanpa menghitung ganda.",
+      "trik_cepat": "Rumus cepat: Total = (Urutan Atas + Urutan Bawah) - 1 = (8 + 12) - 1 = 19 siswa (B).",
+      "pembahasan": "Opsi B (19 siswa) tepat. Karena posisi Budi dihitung dua kali (sekali dari atas, sekali dari bawah), maka jumlah total siswa = 8 + 12 - 1 = 19 orang."
+    },
+    {
+      "no": 43,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Operasi Campuran Pecahan",
+      "soal": "Hasil dari operasi hitung pecahan berikut:\n4 2/5 - (1 1/2 : 2 1/2) adalah...",
+      "opsi": {
+        "A": "1 4/5",
+        "B": "2 2/5",
+        "C": "3 2/5",
+        "D": "3 3/5",
+        "E": "3 4/5"
+      },
+      "kunci": "E",
+      "inti_soal": "Prioritas operasi pembagian pecahan sebelum pengurangan.",
+      "trik_cepat": "Kerjakan pembagian dulu:\n1 1/2 : 2 1/2 = (3/2) : (5/2) = 3/5 = 0,6.\n4 2/5 = 4,4.\n4,4 - 0,6 = 3,8 = 3 4/5 (E)!",
+      "pembahasan": "Opsi E (3 4/5) tepat. Utamakan pembagian: (3/2) ÷ (5/2) = 3/2 × 2/5 = 3/5. Kemudian kurangkan dari 4 2/5 = 22/5 - 3/5 = 19/5 = 3 4/5."
+    },
+    {
+      "no": 44,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perkalian Akar Kuadrat",
+      "soal": "Nilai dari √12 × √300 adalah...",
+      "opsi": {
+        "A": "45",
+        "B": "50",
+        "C": "60",
+        "D": "65",
+        "E": "75"
+      },
+      "kunci": "C",
+      "inti_soal": "Sifat perkalian akar √a × √b = √(a × b).",
+      "trik_cepat": "Gabungkan ke dalam satu akar:\n√(12 × 300) = √3.600 = 60 (C)!",
+      "pembahasan": "Opsi C (60) tepat. Berdasarkan sifat bentuk akar √a × √b = √(a×b), diperoleh √(12 × 300) = √3.600 = 60."
+    },
+    {
+      "no": 45,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Persamaan Linier Satu Variabel",
+      "soal": "Nilai t yang memenuhi persamaan 10(t - 3) + 2t = 8(t + 1) - 6 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8",
+        "E": "10"
+      },
+      "kunci": "D",
+      "inti_soal": "Menyelesaikan persamaan linier aljabar secara teliti.",
+      "trik_cepat": "Jabarkan kedua ruas:\n10t - 30 + 2t = 8t + 8 - 6\n12t - 30 = 8t + 2\n12t - 8t = 2 + 30\n4t = 32 -> t = 8 (D).",
+      "pembahasan": "Opsi D (8) tepat. Ruas kiri menjadi 12t - 30 dan ruas kanan menjadi 8t + 2. Pindahkan suku sejenis: 4t = 32, sehingga t = 8."
+    },
+    {
+      "no": 46,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Angka Selisih Kuadrat",
+      "soal": "Perhatikan barisan bilangan berikut:\n15, 16, 20, 29, 45, ..., ...\nDua bilangan selanjutnya yang tepat adalah...",
+      "opsi": {
+        "A": "60, 85",
+        "B": "65, 90",
+        "C": "70, 106",
+        "D": "70, 100",
+        "E": "75, 110"
+      },
+      "kunci": "C",
+      "inti_soal": "Deret bilangan dengan pola penambahan bilangan kuadrat (1², 2², 3², 4², 5², 6²).",
+      "trik_cepat": "Hitung selisihnya:\n15 (+1) -> 16 (+4) -> 20 (+9) -> 29 (+16) -> 45.\nPolanya: +1², +2², +3², +4².\nBerikutnya +5² (+25) dan +6² (+36):\n45 + 25 = 70, lalu 70 + 36 = 106 (C)!",
+      "pembahasan": "Opsi C (70, 106) tepat. Catatan koreksi: pola selisih deret adalah kuadrat bilangan asli berurutan (+1, +4, +9, +16), sehingga dua suku berikutnya adalah 45 + 25 = 70 dan 70 + 36 = 106."
+    },
+    {
+      "no": 47,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Angka Ribuan Bergantian",
+      "soal": "Perhatikan deret angka berikut:\n1.120, 1.119, 1.122, 1.121, 1.124, ..., ...\nDua bilangan berikutnya adalah...",
+      "opsi": {
+        "A": "1.122, 1.125",
+        "B": "1.123, 1.126",
+        "C": "1.124, 1.125",
+        "D": "1.125, 1.126",
+        "E": "1.126, 1.127"
+      },
+      "kunci": "B",
+      "inti_soal": "Deret operasi bergantian (-1, +3, -1, +3).",
+      "trik_cepat": "Lihat 2 angka terakhir saja: 20 (-1) -> 19 (+3) -> 22 (-1) -> 21 (+3) -> 24.\nSelanjutnya: 24 (-1) = 23, lalu 23 (+3) = 26 -> 1.123, 1.126 (B).",
+      "pembahasan": "Opsi B (1.123, 1.126) tepat. Pola deret berulang secara teratur: dikurangi 1 kemudian ditambah 3 (-1, +3, -1, +3)."
+    },
+    {
+      "no": 48,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Angka Perkalian & Penjumlahan",
+      "soal": "Perhatikan deret bilangan berikut:\n4, 8, 11, 44, 49, 294, ...\nBilangan selanjutnya adalah...",
+      "opsi": {
+        "A": "300",
+        "B": "301",
+        "C": "302",
+        "D": "303",
+        "E": "305"
+      },
+      "kunci": "B",
+      "inti_soal": "Deret operasi selang-seling bertingkat (×2, +3, ×4, +5, ×6, +7).",
+      "trik_cepat": "Cek polanya:\n4 (×2) -> 8 (+3) -> 11 (×4) -> 44 (+5) -> 49 (×6) -> 294.\nAngka operasinya urut 2, 3, 4, 5, 6, berikutnya (+7):\n294 + 7 = 301 (B)!",
+      "pembahasan": "Opsi B (301) tepat. Operasi bergantian antara perkalian dan penjumlahan dengan angka pengoperasian naik +1 tiap langkah: ×2, +3, ×4, +5, ×6, +7. Maka 294 + 7 = 301."
+    },
+    {
+      "no": 49,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Kuadrat Selisih Bertanda",
+      "soal": "Perhatikan barisan angka berikut:\n501, 500, 504, 495, 511, ..., ...\nDua bilangan selanjutnya adalah...",
+      "opsi": {
+        "A": "450, 500",
+        "B": "460, 520",
+        "C": "465, 520",
+        "D": "470, 522",
+        "E": "486, 522"
+      },
+      "kunci": "E",
+      "inti_soal": "Deret selisih kuadrat dengan tanda negatif-positif bergantian (-1², +2², -3², +4², -5², +6²).",
+      "trik_cepat": "Cek perubahan: 501 (-1) -> 500 (+4) -> 504 (-9) -> 495 (+16) -> 511.\nPolanya: -1², +2², -3², +4².\nBerikutnya -5² (-25) -> 511 - 25 = 486.\nLalu +6² (+36) -> 486 + 36 = 522 (E)!",
+      "pembahasan": "Opsi E (486, 522) tepat. Pola perubahan suku adalah kuadrat bilangan asli dengan tanda selang-seling (-1, +4, -9, +16, -25, +36)."
+    },
+    {
+      "no": 50,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Persen Desimal Simetris)",
+      "soal": "Diketahui nilai P dan Q sebagai berikut:\n• P = 55,7% dari 0,99\n• Q = 9,9% dari 5,57\n\nManakah hubungan yang benar antara P dan Q?",
+      "svg": "<svg viewBox=\"0 0 460 110\" class=\"w-full max-w-md mx-auto my-3\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"90\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"230\" y1=\"10\" x2=\"230\" y2=\"100\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"10\" y1=\"45\" x2=\"450\" y2=\"45\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><text x=\"120\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"14\">Kuantitas P</text><text x=\"340\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"14\">Kuantitas Q</text><text x=\"120\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"15\" font-family=\"monospace\">55,7% × 0,99</text><text x=\"340\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"15\" font-family=\"monospace\">9,9% × 5,57</text></svg>",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P = 10Q",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "C",
+      "inti_soal": "Trik pergeseran koma desimal pada perkalian persentase (Sifat Komutatif).",
+      "trik_cepat": "Jangan dikalikan manual! Geser koma desimalnya:\nP = (55,7 / 100) × 0,99 = (557 × 99) / 100.000\nQ = (9,9 / 100) × 5,57 = (99 × 557) / 100.000\nAngka pembilang dan penyebutnya SAMA PERSIS! Jadi P = Q (C).",
+      "pembahasan": "Opsi C (P = Q) tepat. Kedua ekspresi menghasilkan nilai identik yaitu 0,55143 karena 55,7 × 0,99 = 55,143 dan 9,9 × 5,57 = 55,143, lalu sama-sama dibagi 100."
+    },
+    {
+      "no": 51,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Pecahan)",
+      "soal": "Perhatikan nilai P dan Q pada tabel berikut:\n• P = 2 1/4 - 1/5\n• Q = 1 3/4 + 11/12\n\nHubungan yang tepat antara P dan Q adalah...",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "2P = 3Q",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "B",
+      "inti_soal": "Membandingkan dua operasi pecahan tanpa harus menyamakan penyebut semuanya.",
+      "trik_cepat": "Pakai estimasi batas atas & bawah!\n- P = 2,25 - 0,20 = 2,05.\n- Q = 1,75 + (11/12 yang hampir 1, yaitu ~0,92) = ~2,67.\nJelas P (2,05) < Q (~2,67) -> Opsi B!",
+      "pembahasan": "Opsi B (P < Q) tepat. Nilai P = 2,25 - 0,20 = 2,05. Sedangkan nilai Q = 7/4 + 11/12 = 21/12 + 11/12 = 32/12 = 2 2/3 ≈ 2,67. Karena 2,05 < 2,67, maka P < Q."
+    },
+    {
+      "no": 52,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Eksponen)",
+      "soal": "Diketahui 2ᵐ = 256 dan 3ⁿ = 27.\nJika P = m dan Q = n², manakah pernyataan yang benar?",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P + Q = 15",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "B",
+      "inti_soal": "Menentukan nilai pangkat m dan n lalu membandingkan m vs n².",
+      "trik_cepat": "- 2ᵐ = 256 -> 2⁸ = 256, jadi m = 8 (P = 8).\n- 3ⁿ = 27 -> 3³ = 27, jadi n = 3 -> Q = n² = 3² = 9.\nKarena 8 < 9, maka P < Q (B).",
+      "pembahasan": "Opsi B (P < Q) tepat. Nilai m = 8 (karena 2⁸ = 256) dan n = 3 (karena 3³ = 27). Sehingga P = 8 dan Q = 3² = 9, maka P < Q."
+    },
+    {
+      "no": 53,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Median Statistika)",
+      "soal": "Pada suatu ujian, skor yang diperoleh siswa hanya bernilai 7, 9, atau 11 dengan rincian:\n• Skor 7 = 16 siswa\n• Skor 9 = 14 siswa\n• Skor 11 = T siswa\n\nJika diketahui MEDIAN skor seluruh siswa adalah 9, dan P = jumlah siswa TERBESAR yang mungkin untuk T, sedangkan Q = 29. Hubungan antara P dan Q adalah...",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P = 2Q",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "C",
+      "inti_soal": "Menentukan batas maksimum frekuensi T agar median data berkelompok tetap berada di nilai tengah (skor 9).",
+      "trik_cepat": "Agar median tetap jatuh pada Skor 9, banyak data di sebelah kanan (Skor 11 = T) TIDAK BOLEH lebih banyak atau sama dengan gabungan kiri (Skor 7 + Skor 9 = 16 + 14 = 30)!\nSyarat mutlak agar nilai tengah masih di Skor 9: T < 16 + 14 -> T < 30.\nBilangan bulat terbesar di bawah 30 adalah T = 29!\n(Cek: jika T = 29, total siswa = 16+14+29 = 59. Median data ke-30 = Skor 9! Jika T = 30, total = 60, median rata-rata data ke-30 dan 31 = (9+11)/2 = 10, bukan 9).\nJadi P = 29 dan Q = 29 -> P = Q (C).",
+      "pembahasan": "Opsi C (P = Q) tepat. Agar median data bernilai tepat 9, posisi nilai tengah harus jatuh pada kelompok skor 9. Jika T = 29, total siswa = 59 sehingga data ke-30 (median) tepat berada pada skor 9. Jika T ≥ 30, median akan bergeser menjadi 10 atau 11. Maka nilai T maksimum adalah 29."
+    },
+    {
+      "no": 54,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Proyek Terhenti (Perbandingan Berbalik Nilai)",
+      "soal": "Sebuah proyek renovasi gedung direncanakan selesai dalam waktu 20 hari oleh 8 orang pekerja. Setelah dikerjakan selama 10 hari, proyek terpaksa terhenti selama 5 hari karena kendala pengiriman material. Agar proyek tetap selesai tepat waktu pada hari ke-20, berapakah tambahan pekerja yang diperlukan?",
+      "opsi": {
+        "A": "4 orang",
+        "B": "6 orang",
+        "C": "8 orang",
+        "D": "10 orang",
+        "E": "16 orang"
+      },
+      "kunci": "C",
+      "inti_soal": "Menghitung tambahan pekerja saat proyek terhenti (koreksi teliti dari soal simulasi).",
+      "trik_cepat": "Rumus Sakti Proyek Terhenti:\nTambahan = (Pekerja Awal × Hari Terhenti) / Sisa Hari Efektif\n= (8 × 5) / (20 - 10 - 5)\n= 40 / 5 = 8 orang (C)!",
+      "pembahasan": "Opsi C (8 orang) tepat. Sisa beban kerja = (20 - 10) × 8 = 80 orang-hari. Karena terhenti 5 hari, sisa waktu tinggal 10 - 5 = 5 hari. Jumlah pekerja yang diperlukan = 80 / 5 = 16 orang, sehingga tambahan pekerjanya adalah 16 - 8 = 8 orang."
+    },
+    {
+      "no": 55,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Rata-Rata Gabungan (Alligation)",
+      "soal": "Berat rata-rata seluruh siswa di suatu kelas adalah 56 kg. Jika berat rata-rata siswa perempuan adalah 52 kg dan berat rata-rata siswa laki-laki adalah 60 kg, berapakah perbandingan jumlah siswa laki-laki dan perempuan di kelas tersebut?",
+      "opsi": {
+        "A": "1 : 1",
+        "B": "2 : 3",
+        "C": "3 : 2",
+        "D": "4 : 5",
+        "E": "5 : 4"
+      },
+      "kunci": "A",
+      "inti_soal": "Menentukan rasio jumlah dua kelompok dari rata-rata gabungan.",
+      "trik_cepat": "Pakai Trik Selisih Silang:\n- Selisih Laki-laki dengan Gabungan = |60 - 56| = 4\n- Selisih Perempuan dengan Gabungan = |56 - 52| = 4\nRasio Laki-laki : Perempuan = 4 : 4 = 1 : 1 (A)!",
+      "pembahasan": "Opsi A (1 : 1) tepat. Secara aljabar: 60L + 52P = 56(L + P) -> 4L = 4P -> L : P = 1 : 1. (Catatan: nilai rata-rata gabungan 56 tepat berada di tengah antara 52 dan 60, sehingga jumlah keduanya pasti sama)."
+    },
+    {
+      "no": 56,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Aritmetika Sosial (Harga Beli & Untung)",
+      "soal": "Pak Iwan membeli 11 karung pepaya lalu menjual seluruhnya dengan total harga jual Rp5.500.000,00. Jika dari penjualan tersebut Pak Iwan memperoleh keuntungan sebesar 25%, berapakah harga beli untuk 1 karung pepaya?",
+      "opsi": {
+        "A": "Rp360.000,00",
+        "B": "Rp380.000,00",
+        "C": "Rp400.000,00",
+        "D": "Rp420.000,00",
+        "E": "Rp440.000,00"
+      },
+      "kunci": "C",
+      "inti_soal": "Mencari harga beli awal per unit dari total harga jual dan persentase untung.",
+      "trik_cepat": "Harga Jual = 125% dari Harga Beli (karena untung 25%).\nTotal Harga Beli = Rp5.500.000 / 1,25 = Rp5.500.000 × (4/5) = Rp4.400.000.\nHarga beli 1 karung = Rp4.400.000 / 11 = Rp400.000 (C)!",
+      "pembahasan": "Opsi C (Rp400.000,00) tepat. Harga jual (Rp5.500.000) setara dengan 125% (5/4) dari modal awal. Maka modal total 11 karung = 4/5 × Rp5.500.000 = Rp4.400.000, sehingga harga beli per karungnya adalah Rp400.000."
+    },
+    {
+      "no": 57,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Produktivitas Pekerja & Dokumen",
+      "soal": "Sebuah instansi pelayanan publik memiliki 12 orang staf administrasi yang mampu menyelesaikan 90 dokumen dalam 5 hari kerja. Apabila setengah dari jumlah staf tersebut sedang cuti selama 2 hari, berapakah total dokumen yang dapat diselesaikan oleh staf yang tersisa selama 2 hari tersebut?",
+      "opsi": {
+        "A": "16 dokumen",
+        "B": "18 dokumen",
+        "C": "20 dokumen",
+        "D": "22 dokumen",
+        "E": "25 dokumen"
+      },
+      "kunci": "B",
+      "inti_soal": "Perbandingan senilai tiga variabel (Pekerja × Hari berbanding lurus dengan Hasil Dokumen).",
+      "trik_cepat": "Rumus S1/(P1×t1) = S2/(P2×t2):\n90 / (12 × 5) = X / (6 × 2)\n90 / 60 = X / 12\n1,5 = X / 12 -> X = 1,5 × 12 = 18 dokumen (B)!",
+      "pembahasan": "Opsi B (18 dokumen) tepat. Kecepatan per orang per hari = 90 / (12 × 5) = 1,5 dokumen/orang/hari. Jika setengah staf cuti, tersisa 6 staf yang bekerja 2 hari, maka total dokumen = 6 × 2 × 1,5 = 18 dokumen."
+    },
+    {
+      "no": 58,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Serial Rotasi & Perubahan Elemen (FR CATBKN)",
+      "soal": "Perhatikan deret 4 kotak gambar di bawah ini. Sebuah bintang garis memiliki titik hitam (●) yang bergerak searah jarum jam dan bendera segitiga kecil di salah satu lengannya. Tentukan posisi titik hitam dan segitiga kecil pada Kotak ke-5!",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"75\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"15\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"23\" y1=\"23\" x2=\"67\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"67\" y1=\"23\" x2=\"23\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"45\" cy=\"15\" r=\"5\" fill=\"#0f172a\"/><polygon points=\"45,75 55,65 45,60\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">1</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"75\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"15\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"23\" y1=\"23\" x2=\"67\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"67\" y1=\"23\" x2=\"23\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"67\" cy=\"23\" r=\"5\" fill=\"#0f172a\"/><polygon points=\"23,67 33,67 28,57\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">2</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"75\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"15\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"23\" y1=\"23\" x2=\"67\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"67\" y1=\"23\" x2=\"23\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"45\" r=\"5\" fill=\"#0f172a\"/><polygon points=\"15,45 25,38 25,52\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">3</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"75\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"15\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"23\" y1=\"23\" x2=\"67\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"67\" y1=\"23\" x2=\"23\" y2=\"67\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"67\" cy=\"67\" r=\"5\" fill=\"#0f172a\"/><polygon points=\"23,23 33,23 23,33\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">4</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"45\" y=\"55\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2563eb\" font-weight=\"bold\">5</text></g></svg>",
+      "opsi": {
+        "A": "Titik hitam di ujung Selatan (bawah) dan segitiga di ujung Utara (atas)",
+        "B": "Titik hitam di ujung Utara (atas) dan segitiga di ujung Selatan (bawah)",
+        "C": "Titik hitam di ujung Barat Daya dan segitiga di ujung Timur Laut",
+        "D": "Titik hitam di ujung Timur dan segitiga di ujung Barat",
+        "E": "Titik hitam dan segitiga bertemu pada ujung Selatan yang sama"
+      },
+      "kunci": "A",
+      "inti_soal": "Melacak rotasi dua elemen yang selalu berseberangan 180° searah jarum jam sebesar 45° per langkah.",
+      "trik_cepat": "Titik hitam (●) berputar searah jarum jam 45° tiap kotak:\n1 (Utara) -> 2 (Timur Laut) -> 3 (Timur) -> 4 (Tenggara) -> 5 pasti SELATAN (bawah)!\nKarena segitiga selalu berada tepat 180° di seberang titik hitam, maka segitiga berada di UTARA (atas) -> Opsi A.",
+      "pembahasan": "Opsi A tepat. Titik hitam dan segitiga selalu berseberangan 180° dan sama-sama berputar 45° searah jarum jam di setiap langkah. Pada langkah ke-5, titik hitam tiba di arah Selatan (bawah) dan segitiga tiba di arah Utara (atas)."
+    },
+    {
+      "no": 59,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Ketidaksamaan Bangun (FR CATBKN)",
+      "soal": "Perhatikan kelima kotak A, B, C, D, dan E di bawah ini. Empat kotak memiliki pola hubungan jumlah sisi kedua bangun yang sama, sedangkan satu kotak memiliki sifat yang berbeda. Manakah kotak yang BERBEDA tersebut?",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"22,68 42,38 56,68\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><path d=\"M50,22 A18,18 0 0,1 72,50 Z\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">A</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"38\" cy=\"56\" r=\"18\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><polygon points=\"62,16 74,23 74,37 62,44 50,37 50,23\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">B</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"26,45 40,56 35,72 17,72 12,56\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><rect x=\"44\" y=\"20\" width=\"32\" height=\"32\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">C</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"36,36 52,46 52,64 36,74 20,64 20,46\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><polygon points=\"65,16 76,22 76,34 65,40 54,34 54,22\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">D</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"36,36 52,45 55,62 44,75 28,75 17,62 20,45\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><polygon points=\"64,16 76,24 72,38 56,38 52,24\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">E</text></g></svg>",
+      "opsi": {
+        "A": "Gambar A",
+        "B": "Gambar B",
+        "C": "Gambar C",
+        "D": "Gambar D",
+        "E": "Gambar E"
+      },
+      "kunci": "D",
+      "inti_soal": "Memeriksa apakah dua bangun di dalam tiap kotak sama-sama poligon tertutup bersisi lurus atau tidak.",
+      "trik_cepat": "Cek jenis garis dan jumlah sisi kedua bangun:\n- Kotak B (lingkaran + segienam): Wait, cek lagi! Di soal asli CATBKN: A = segitiga + setengah lingkaran, B = lingkaran + segienam, C = segilima + persegi, D = segienam + segienam, E = segitujuh + segilima.\nLihat polanya: pada B, C, D, E salah satu atau kedua bangunnya beraturan simetris tanpa garis lengkung terpotong? Atau hitung jumlah sisi? Cek: A(3 + 2?), B(1 + 6), C(5 + 4), D(6 + 6), E(7 + 5). Ternyata pada A, C, D, E semua bangun bersisi lurus KECUALI A & B ada lengkung! Mari cek pola yang paling konsisten dari gambar SVG di atas: pada B, C, D, E semua sudut bangun mulus/simetris beraturan, sedangkan A memiliki bangun setengah lingkaran tidak beraturan! Lebih tegas lagi: di A, bangun kedua adalah juring/setengah lingkaran, sedangkan di C, D, E poligon; tunggu—di B juga ada lingkaran! Apa kesamaan B, C, D, E? Di B, C, D, E bangun yang besar dan kecil TIDAK saling memotong/berujung lancip, atau cek: pada D kedua bangun sama persis jenisnya (segienam & segienam), sedangkan A, B, C, E terdiri dari DUA BANGUN YANG BERBEDA JENIS! Ya!! Lihatlah:\n- A: segitiga & setengah lingkaran (berbeda)\n- B: lingkaran & segienam (berbeda)\n- C: segilima & persegi (berbeda)\n- D: segienam & segienam (SAMA JENIS!)\n- E: segitujuh & segilima (berbeda).\nJawabannya D!",
+      "pembahasan": "Opsi D tepat. Pada gambar A, B, C, dan E, dua bangun datar di dalam setiap kotak selalu memiliki bentuk yang berbeda satu sama lain, sedangkan hanya pada gambar D kedua bangun datarnya memiliki jenis yang sama (sama-sama segienam)."
+    },
+    {
+      "no": 60,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Jaring-Jaring Kubus Berhuruf (FR CATBKN)",
+      "soal": "Perhatikan jaring-jaring kubus dengan label huruf A, B, C, D, E, dan F di bawah ini. Jika jaring-jaring tersebut dilipat membentuk kubus 3D dengan huruf menghadap ke luar, sisi manakah yang SALING BERHADAPAN (berseberangan) secara tepat?",
+      "svg": "<svg viewBox=\"0 0 420 175\" class=\"w-full max-w-md mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"410\" height=\"165\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(105,20)\"><rect x=\"0\" y=\"0\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"22.5\" y=\"29\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">D</text><rect x=\"0\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"22.5\" y=\"74\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">F</text><rect x=\"45\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"67.5\" y=\"74\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">C</text><rect x=\"90\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"112.5\" y=\"74\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">E</text><rect x=\"135\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"157.5\" y=\"74\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">B</text><rect x=\"90\" y=\"90\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"112.5\" y=\"119\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"18\">A</text></g></svg>",
+      "opsi": {
+        "A": "F berhadapan dengan E, C berhadapan dengan B, dan D berhadapan dengan A",
+        "B": "F berhadapan dengan C, E berhadapan dengan B, dan D berhadapan dengan A",
+        "C": "F berhadapan dengan B, C berhadapan dengan E, dan D berhadapan dengan A",
+        "D": "D berhadapan dengan F, C berhadapan dengan A, dan E berhadapan dengan B",
+        "E": "D berhadapan dengan B, F berhadapan dengan A, dan C berhadapan dengan E"
+      },
+      "kunci": "A",
+      "inti_soal": "Menentukan tiga pasang sisi kubus yang saling berhadapan dari jaring-jaring kubus.",
+      "trik_cepat": "Pakai aturan Lompat Satu Kotak pada baris tengah [F - C - E - B]:\n1) F lompat C -> berhadapan dengan E (F <-> E)\n2) C lompat E -> berhadapan dengan B (C <-> B)\n3) Sisa tutup atas dan alas bawah: D <-> A!\nCek opsi: Opsi A tepat 100%!",
+      "pembahasan": "Opsi A tepat. Pada baris horizontal [F, C, E, B], sisi yang terpisah satu kotak selalu berhadapan: F berhadapan dengan E, dan C berhadapan dengan B. Adapun sisi penutup atas (D) pasti berhadapan dengan sisi penutup bawah (A)."
+    },
+    {
+      "no": 61,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Matriks 3×3 Pengurangan & Pencerminan",
+      "soal": "Perhatikan matriks 3×3 di bawah ini. Pada setiap baris, gambar di kolom ke-3 merupakan gabungan unsur dari kolom ke-1 dan kolom ke-2, sedangkan jumlah titik hitam bertambah dari kiri ke kanan (0, 1, 2). Manakah deskripsi gambar yang paling tepat untuk mengisi kotak tanda tanya (?)?",
+      "svg": "<svg viewBox=\"0 0 360 280\" class=\"w-full max-w-sm mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"350\" height=\"270\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(25,20)\"><rect x=\"0\" y=\"0\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"37.5,15 60,60 15,60\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><rect x=\"115\" y=\"0\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><rect x=\"135\" y=\"20\" width=\"35\" height=\"35\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"152.5\" cy=\"37.5\" r=\"4\" fill=\"#0f172a\"/><rect x=\"230\" y=\"0\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><rect x=\"247\" y=\"17\" width=\"41\" height=\"41\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><polygon points=\"267.5,24 282,53 253,53\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"261\" cy=\"46\" r=\"3\" fill=\"#0f172a\"/><circle cx=\"274\" cy=\"46\" r=\"3\" fill=\"#0f172a\"/><rect x=\"0\" y=\"95\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"37.5\" cy=\"132.5\" r=\"22\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><rect x=\"115\" y=\"95\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"152.5,108 175,132.5 152.5,157 130,132.5\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"152.5\" cy=\"132.5\" r=\"4\" fill=\"#0f172a\"/><rect x=\"230\" y=\"95\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"267.5,108 290,132.5 267.5,157 245,132.5\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"267.5\" cy=\"132.5\" r=\"13\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"262\" cy=\"132.5\" r=\"3\" fill=\"#0f172a\"/><circle cx=\"273\" cy=\"132.5\" r=\"3\" fill=\"#0f172a\"/><rect x=\"0\" y=\"190\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"37.5,205 60,222 52,250 23,250 15,222\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><rect x=\"115\" y=\"190\" width=\"75\" height=\"75\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"152.5,205 174,217 174,240 152.5,252 131,240 131,217\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"152.5\" cy=\"228.5\" r=\"4\" fill=\"#0f172a\"/><rect x=\"230\" y=\"190\" width=\"75\" height=\"75\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"267.5\" y=\"237\" text-anchor=\"middle\" font-size=\"26\" font-weight=\"bold\" fill=\"#2563eb\">?</text></g></svg>",
+      "opsi": {
+        "A": "Segienam di luar, segilima di dalam, dan 2 titik hitam di tengah",
+        "B": "Segilima di luar, segienam di dalam, dan 1 titik hitam di tengah",
+        "C": "Segienam di luar, segitiga di dalam, dan 3 titik hitam di tengah",
+        "D": "Persegi di luar, segilima di dalam, dan 2 titik hitam di tengah",
+        "E": "Segienam di luar, segilima di dalam, dan 0 titik hitam"
+      },
+      "kunci": "A",
+      "inti_soal": "Pola matriks 3×3: Bangun kolom ke-2 membungkus bangun kolom ke-1, serta jumlah titik hitam = 0 -> 1 -> 2.",
+      "trik_cepat": "Cek baris 1 & 2:\n- Bangun luar kolom 3 selalu bangun dari Kolom 2 (Baris 1: Persegi luar Segitiga; Baris 2: Belah ketupat luar Lingkaran).\n- Titik hitam: Kolom 1 (0 titik), Kolom 2 (1 titik), Kolom 3 (2 titik).\nTerapkan ke Baris 3: Kolom 2 adalah Segienam, Kolom 1 adalah Segilima -> Segienam di luar, Segilima di dalam, dan 2 titik hitam (Opsi A).",
+      "pembahasan": "Opsi A tepat karena pada setiap baris, bangun pada kolom ke-2 menjadi bingkai luar bagi bangun kolom ke-1 di kolom ke-3, disertai peningkatan jumlah titik hitam dari 0, 1, menjadi 2."
+    },
+    {
+      "no": 62,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Analogi Rotasi +90° & Perubahan Isi",
+      "soal": "Jika sebuah persegi yang berisi panah menunjuk ke arah UTARA (atas) berotasi 90° searah jarum jam dan jumlah panahnya berlipat dua menjadi dua panah sejajar, maka perlakuan yang sama terhadap sebuah lingkaran yang berisi panah menunjuk ke arah TIMUR (kanan) akan menghasilkan...",
+      "opsi": {
+        "A": "Lingkaran berisi dua panah sejajar yang menunjuk ke arah SELATAN (bawah)",
+        "B": "Lingkaran berisi dua panah sejajar yang menunjuk ke arah BARAT (kiri)",
+        "C": "Lingkaran berisi dua panah sejajar yang menunjuk ke arah UTARA (atas)",
+        "D": "Persegi berisi dua panah sejajar yang menunjuk ke arah SELATAN (bawah)",
+        "E": "Lingkaran berisi satu panah yang menunjuk ke arah SELATAN (bawah)"
+      },
+      "kunci": "A",
+      "inti_soal": "Rotasi 90° searah jarum jam + penggandaan elemen panah tanpa mengubah bangun luar.",
+      "trik_cepat": "- Bangun luar tetap (Lingkaran).\n- Timur (kanan) diputar 90° searah jarum jam = Selatan (bawah).\n- Jumlah panah berlipat dua = dua panah sejajar.\nHasil: Lingkaran berisi dua panah sejajar menunjuk Selatan (A).",
+      "pembahasan": "Opsi A tepat karena putaran 90° searah jarum jam mengubah arah Timur menjadi Selatan, sedangkan bangun luar tetap lingkaran dan isi panah digandakan menjadi dua."
+    },
+    {
+      "no": 63,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Pencerminan Horizontal (Refleksi Sumbu-Y)",
+      "soal": "Sebuah jam dinding analog tanpa angka menunjukkan pukul 03.00 tepat (jarum pendek menunjuk ke kanan/angka 3, jarum panjang menunjuk ke atas/angka 12). Apabila jam tersebut dilihat pantulannya di cermin datar vertikal yang diletakkan di sebelah kanannya, pukul berapakah yang tampak pada bayangan cermin?",
+      "svg": "<svg viewBox=\"0 0 320 130\" class=\"w-full max-w-xs mx-auto my-2\"><rect x=\"5\" y=\"5\" width=\"310\" height=\"120\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><circle cx=\"80\" cy=\"65\" r=\"42\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><line x1=\"80\" y1=\"65\" x2=\"80\" y2=\"32\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><line x1=\"80\" y1=\"65\" x2=\"105\" y2=\"65\" stroke=\"#ef4444\" stroke-width=\"3.5\"/><circle cx=\"80\" cy=\"65\" r=\"3\" fill=\"#0f172a\"/><text x=\"80\" y=\"119\" text-anchor=\"middle\" font-size=\"11\" font-weight=\"bold\">Jam Asli (03.00)</text><line x1=\"160\" y1=\"15\" x2=\"160\" y2=\"115\" stroke=\"#3b82f6\" stroke-width=\"3\" stroke-dasharray=\"5,3\"/><text x=\"160\" y=\"13\" text-anchor=\"middle\" font-size=\"10\" fill=\"#2563eb\" font-weight=\"bold\">Cermin</text><circle cx=\"240\" cy=\"65\" r=\"42\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"4,4\"/><text x=\"240\" y=\"73\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"240\" y=\"119\" text-anchor=\"middle\" font-size=\"11\" fill=\"#2563eb\" font-weight=\"bold\">Bayangan</text></svg>",
+      "opsi": {
+        "A": "Pukul 03.00",
+        "B": "Pukul 06.00",
+        "C": "Pukul 09.00",
+        "D": "Pukul 12.00",
+        "E": "Pukul 09.30"
+      },
+      "kunci": "C",
+      "inti_soal": "Pencerminan vertikal (kiri <-> kanan) pada jarum jam analog.",
+      "trik_cepat": "Rumus Jam Cermin: 12.00 - Jam Asli = 12.00 - 03.00 = 09.00 (C)!",
+      "pembahasan": "Opsi C (Pukul 09.00) tepat. Pada pencerminan vertikal, arah atas-bawah tetap (jarum panjang tetap menunjuk angka 12), sedangkan arah kanan (angka 3) berbalik ke kiri (angka 9), sehingga bayangan menunjukkan pukul 09.00."
+    },
+    {
+      "no": 64,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Ketidaksamaan Pola Jumlah Garis & Sudut",
+      "soal": "Dari kelima huruf kapital balok berikut: A, E, F, H, dan C. Empat di antaranya dibentuk seluruhnya oleh garis lurus, sedangkan satu huruf memiliki garis lengkung. Apabila diterapkan pola pengelompokan serupa pada lima bangun berikut: (A) Persegi, (B) Segitiga, (C) Elips, (D) Trapesium, (E) Belah Ketupat, manakah yang berbeda?",
+      "opsi": {
+        "A": "Persegi",
+        "B": "Segitiga",
+        "C": "Elips",
+        "D": "Trapesium",
+        "E": "Belah Ketupat"
+      },
+      "kunci": "C",
+      "inti_soal": "Klasifikasi bangun datar berdasarkan komponen pembentuk sisi (garis lurus vs garis lengkung).",
+      "trik_cepat": "Persegi, Segitiga, Trapesium, dan Belah Ketupat adalah poligon (sisi garis lurus bersudut), sedangkan Elips adalah kurva lengkung tanpa sudut (C).",
+      "pembahasan": "Opsi C (Elips) tepat karena merupakan satu-satunya bangun datar yang dibentuk oleh garis lengkung tertutup dan tidak memiliki titik sudut."
+    },
+    {
+      "no": 65,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Serial Penambahan Sisi Poligon",
+      "soal": "Perhatikan urutan bangun datar berikut:\nKotak 1: Segitiga (3 sisi) berwarna Putih\nKotak 2: Persegi (4 sisi) berwarna Hitam\nKotak 3: Segilima (5 sisi) berwarna Putih\nKotak 4: Segienam (6 sisi) berwarna Hitam\n\nApakah bangun yang tepat untuk Kotak ke-5?",
+      "opsi": {
+        "A": "Segitujuh (7 sisi) berwarna Putih",
+        "B": "Segitujuh (7 sisi) berwarna Hitam",
+        "C": "Segidelapan (8 sisi) berwarna Putih",
+        "D": "Lingkaran berwarna Putih",
+        "E": "Segienam (6 sisi) berwarna Putih"
+      },
+      "kunci": "A",
+      "inti_soal": "Mengidentifikasi pola ganda: jumlah sisi +1 dan warna bergantian Putih–Hitam.",
+      "trik_cepat": "Jumlah sisi: 3 -> 4 -> 5 -> 6 -> 7 (Segitujuh). Warna: Putih -> Hitam -> Putih -> Hitam -> Putih (Opsi A).",
+      "pembahasan": "Opsi A tepat karena jumlah sisi poligon bertambah 1 di setiap langkah (3, 4, 5, 6, 7) dan warnanya bergantian antara Putih dan Hitam."
+    },
+    {
+      "no": 66,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Kesabaran Melayani Pasien/Warga Lansia",
+      "soal": "Anda bertugas sebagai petugas layanan informasi di rumah sakit daerah. Seorang ibu lanjut usia menanyakan prosedur pengurusan jaminan kesehatan untuk anaknya yang sedang dirawat. Meski Anda sudah menjelaskan berkali-kali dengan bahasa sederhana, ibu tersebut tampak masih panik dan bingung. Tindakan Anda adalah...",
+      "opsi": {
+        "A": "Menenangkan ibu tersebut terlebih dahulu dengan empati, lalu menjelaskan tahapan pengurusan secara perlahan poin demi poin disertai catatan alur tertulis yang mudah dibaca",
+        "B": "Menyuruh ibu tersebut memanggil anggota keluarganya yang lebih muda karena penjelasan Anda sudah maksimal",
+        "C": "Menyerahkan brosur prosedur berukuran kecil dan memintanya membacanya sendiri di ruang tunggu",
+        "D": "Mengulangi penjelasan yang sama persis dengan suara lebih keras agar terdengar jelas",
+        "E": "Meminta satpam mengarahkan ibu tersebut ke loket lain agar antrean tidak menumpuk"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 3,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kesabaran dan komunikasi adaptif saat melayani warga lansia yang sedang panik.",
+      "trik_cepat": "Tenangkan emosinya dulu + Jelaskan perlahan + Bantu alat visual/catatan ringkas agar tidak lupa (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) menenangkan dan memberi panduan tertulis; B (3) mengalihkan ke keluarga; C & D (2) kurang empatik; E (1) melepas tanggung jawab."
+    },
+    {
+      "no": 67,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Menutup Layanan Saat Jam Dinas Demi Acara Pribadi",
+      "soal": "Saat jam pelayanan publik masih berlangsung dan warga mulai ramai berdatangan menjelang siang, atasan Anda mengajak seluruh staf menutup loket lebih awal untuk menghadiri resepsi pernikahan rekan kerja. Sikap Anda yang paling tepat adalah...",
+      "opsi": {
+        "A": "Meminta izin secara sopan kepada atasan untuk tetap memberikan pelayanan kepada masyarakat hingga jam layanan berakhir, dan baru menghadiri acara setelah jam kerja atau secara bergantian agar loket tetap buka",
+        "B": "Langsung menutup loket pelayanan dan ikut rombongan atasan demi menjaga kekompakan kantor",
+        "C": "Menolak ajakan atasan dengan nada tinggi dan mengancam akan melaporkannya ke inspektorat saat itu juga",
+        "D": "Menutup loket sebentar selama dua jam lalu membukanya kembali jika sempat",
+        "E": "Menyuruh warga yang sudah datang pulang dan kembali lagi keesokan harinya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Mendahulukan hak pelayanan masyarakat pada jam dinas daripada acara seremonial pribadi.",
+      "trik_cepat": "Pelayanan publik pada jam kerja tidak boleh dikorbankan untuk acara pribadi; komunikasikan santun ke atasan dan utamakan layanan warga (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) menjaga komitmen pelayanan publik dengan komunikasi santun; D (3) tetap mengganggu layanan; C (2) konfrontatif; B & E (1) menelantarkan masyarakat."
+    },
+    {
+      "no": 68,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Petugas Non-Loket Menghadapi Pemohon Mendesak",
+      "soal": "Anda adalah staf bagian umum yang sedang merapikan arsip di lobi kantor tepat setelah jam loket pelayanan resmi ditutup. Tiba-tiba datang seorang warga dari luar kota yang tampak terburu-buru dan memohon bantuan mendesak terkait berkas layanan hari itu. Langkah Anda adalah...",
+      "opsi": {
+        "A": "Menerima dan menanyakan keperluannya dengan ramah, segera memeriksa apakah masih ada petugas loket yang dapat membantu jika darurat, atau memberikan informasi lengkap prosedur serta jadwal layanan esok hari",
+        "B": "Langsung mengusirnya secara singkat karena jam kerja sudah tutup dan bukan tugas bagian umum",
+        "C": "Mencoba memproses berkasnya sendiri di sistem komputer loket meskipun Anda tidak memiliki otoritas akses",
+        "D": "Mengabaikannya karena Anda sudah bukan petugas jaga loket",
+        "E": "Meminta warga tersebut menunggu di luar pagar kantor sampai besok pagi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Responsivitas dan empati pegawai non-loket terhadap warga yang membutuhkan bantuan mendesak.",
+      "trik_cepat": "Tetap ramah + cek kemungkinan solusi cepat dari unit berwenang + jika memang tutup, beri kepastian jadwal/syarat esok hari (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) ramah, solutif, tetap taat kewenangan; C & E (2) melanggar otoritas atau kurang empatik; B & D (1) acuh tak acuh."
+    },
+    {
+      "no": 69,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Menghadapi Komplain Pegawai Baru",
+      "soal": "Pada hari pertama Anda bertugas di meja pelayanan publik, seorang pemohon memarahi Anda karena dianggap kurang cekatan dibandingkan petugas senior yang biasa melayaninya. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Meminta maaf dengan tulus atas ketidaknyamanannya, menjaga ketenangan emosi, dan tetap fokus menyelesaikan pelayanan permohonannya secara akurat dan sepenuh hati",
+        "B": "Membela diri dengan menjelaskan panjang lebar bahwa Anda pegawai baru sehingga wajar jika lambat",
+        "C": "Menjawab dengan nada tinggi bahwa pemohon harus belajar bersabar",
+        "D": "Meninggalkan meja loket dan meminta rekan senior menggantikan Anda saat itu juga",
+        "E": "Melayani berkas pemohon tersebut dengan tergesa-gesa tanpa memeriksa ketelitiannya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Pengendalian diri dan ketahanan melayani di bawah tekanan komplain pelanggan.",
+      "trik_cepat": "Minta maaf tulus + kendalikan emosi + fokus selesaikan layanan dengan teliti (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) profesional, tenang, dan berorientasi solusi; B (3) terlalu defensif; D & E (2) menghindar atau ceroboh; C (1) emosional."
+    },
+    {
+      "no": 70,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Penegakan Aturan Bebas Asap Rokok",
+      "soal": "Saat atasan Anda sedang rapat di luar ruangan, seorang tamu penting atasan menunggu di ruang tunggu pelayanan yang jelas-jelas bertanda 'Area Bebas Asap Rokok', namun tamu tersebut menyalakan rokok sehingga mengganggu kenyamanan warga lain. Tindakan Anda adalah...",
+      "opsi": {
+        "A": "Menghampiri tamu tersebut dengan sopan, menyapa ramah, lalu mengingatkannya bahwa ruang tunggu merupakan kawasan bebas asap rokok serta mengarahkannya ke area merokok khusus yang telah disediakan",
+        "B": "Membiarkannya saja karena ia adalah tamu penting atasan Anda",
+        "C": "Ikut merokok di dekatnya agar suasana terlihat akrab",
+        "D": "Menegurnya dengan suara keras di depan semua warga agar ia merasa malu",
+        "E": "Berpura-pura batuk keras di sebelahnya tanpa berbicara langsung"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Ketegasan yang santun dalam menjaga kenyamanan ruang publik.",
+      "trik_cepat": "Tegur santun + tunjukkan aturan kawasan bebas rokok + tawarkan area merokok yang sah (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) tegas, santun, dan melindungi kenyamanan publik; E (3) sindiran tidak efektif; D (2) kurang santun; B & C (1) melanggar aturan publik."
+    },
+    {
+      "no": 71,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Mengutamakan Keadilan Antrean",
+      "soal": "Saat Anda mengantre di urutan kedua di sebuah layanan umum yang penuh sesak, tiba-tiba seseorang meminta didahulukan karena mengaku terburu-buru ada urusan penting, sementara puluhan orang di belakang Anda juga sudah lama menunggu. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menyarankan dengan sopan agar ia tetap mengikuti urutan antrean demi keadilan bersama, atau menanyakan kesepakatan pengantre di belakang apabila kondisinya memang darurat medis/kemanusiaan",
+        "B": "Langsung memarahinya karena tidak tahu etika mengantre",
+        "C": "Mempersilakannya maju tanpa peduli keberatan puluhan orang di belakang Anda",
+        "D": "Memintanya menyelak di depan orang lain yang sedang lengah",
+        "E": "Meninggalkan antrean karena kesal melihat orang tersebut"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 3,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Menjaga keadilan sosial bagi seluruh pengantre dengan komunikasi santun.",
+      "trik_cepat": "Pertimbangkan keadilan orang di belakang: hormati urutan antrean secara santun atau cek urgensi/persetujuan pengantre lain (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) adil dan bijaksana; C (3) baik hati pada satu orang namun merugikan antrean belakang; B (2) emosional; D & E (1) tidak tertib."
+    },
+    {
+      "no": 72,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Pemberantasan Pungli Rekan Kerja",
+      "soal": "Anda memergoki rekan satu loket menerima sejumlah uang pelicin dari pemohon layanan agar berkasnya diproses lebih cepat dari standar waktu resmi. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menegurnya secara tegas dan mengingatkan kode etik pelayanan publik bebas pungli, serta melaporkannya kepada atasan/UPG apabila praktik tersebut tetap diulangi",
+        "B": "Menganggap hal itu lumrah karena sudah banyak pegawai lain yang melakukannya sebagai uang lelah",
+        "C": "Meminta bagian dari uang tersebut agar Anda bersedia tutup mulut",
+        "D": "Diam saja selama pekerjaan Anda sendiri tidak terganggu",
+        "E": "Menyebarkan foto rekan tersebut ke grup media sosial publik tanpa melapor ke atasan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Sikap antikorupsi dan anti-pungli di loket pelayanan publik.",
+      "trik_cepat": "Ingatkan langsung + eskalasi resmi ke atasan/saluran pengaduan jika berlanjut (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) berintegritas dan prosedural; D & E (2) pasif atau tidak prosedural; B & C (1) permisif atau terlibat pungli."
+    },
+    {
+      "no": 73,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Layanan Inklusif bagi Penyandang Disabilitas",
+      "soal": "Anda melihat petugas di sebuah pasar atau fasilitas umum bersikap tidak adil dan mengejek seorang pembeli berkebutuhan khusus yang kesulitan menghitung uang kembalian. Tindakan Anda adalah...",
+      "opsi": {
+        "A": "Menegur petugas tersebut secara langsung dengan santun agar bersikap adil, membantu memastikan hak pembeli berkebutuhan khusus terpenuhi dengan benar, serta melaporkannya kepada pengelola apabila diperlukan",
+        "B": "Membiarkannya saja karena bukan urusan pribadi Anda",
+        "C": "Menunggu sampai ada orang lain yang merekam dan memviralkannya",
+        "D": "Hanya merasa kasihan dari kejauhan tanpa melakukan tindakan apa pun",
+        "E": "Ikut menertawakan situasi tersebut agar tidak dianggap kaku"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Pembelaan aktif dan empatik terhadap hak penyandang disabilitas di ruang publik.",
+      "trik_cepat": "Hentikan ketidakadilan secara langsung dengan santun + pastikan hak kelompok rentan terlindungi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) aktif membela keadilan dan melindungi kelompok rentan; C & D (2) pasif; B & E (1) apatis atau merendahkan."
+    },
+    {
+      "no": 74,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Membantu Unit Lain Saat Sibuk",
+      "soal": "Saat Anda sedang fokus menyelesaikan tugas rutin, seorang rekan dari unit kerja lain datang meminta bantuan mendesak untuk mencari arsip kepegawaian yang tersimpan di ruang unit Anda. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Membantu mencarikan arsip yang dibutuhkan dengan sigap bersama-sama agar cepat ditemukan, lalu kembali melanjutkan pekerjaan Anda",
+        "B": "Menyuruhnya mencari sendiri di lemari arsip karena Anda sedang sangat sibuk",
+        "C": "Menunda permintaannya hingga minggu depan tanpa memeriksa apakah arsip itu mendesak",
+        "D": "Melaporkan rekan tersebut ke atasan karena dianggap mengganggu konsentrasi Anda",
+        "E": "Mengatakan bahwa arsip tersebut sudah hilang agar ia segera pergi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 3,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Sinergi antarunit kerja untuk kelancaran tugas organisasi.",
+      "trik_cepat": "Kolaborasi cepat menyelesaikan kebutuhan unit lain agar pekerjaan organisasi secara keseluruhan lancar (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) kolaboratif dan tanggap; B (3) kurang kooperatif; C (2) menunda; D & E (1) menghambat kerja tim."
+    },
+    {
+      "no": 75,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Keterbukaan Informasi dalam Tim",
+      "soal": "Sebagai ketua tim kerja, Anda menerima pembaruan informasi penting terkait perubahan kriteria penilaian proyek dari pimpinan. Bagaimana cara Anda mengelola dan membagikan informasi tersebut kepada anggota tim?",
+      "opsi": {
+        "A": "Menyampaikan informasi tersebut secara jelas, terbuka, dan terstruktur kepada seluruh anggota tim agar semua memiliki pemahaman dan arah kerja yang sama",
+        "B": "Menyimpan informasi tersebut untuk diri sendiri agar hanya Anda yang paling siap saat evaluasi",
+        "C": "Memberitahukannya hanya kepada satu anggota tim yang paling dekat secara pribadi",
+        "D": "Menyampaikan secara tersirat melalui sindiran agar anggota menebak sendiri",
+        "E": "Memberitahukan hanya jika ada anggota yang kebetulan bertanya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Transparansi dan komunikasi efektif dalam kepemimpinan tim.",
+      "trik_cepat": "Informasi kerja tim harus dibagikan secara transparan, merata, dan terstruktur ke semua anggota (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) transparan dan membangun kepercayaan tim; E (3) pasif; C & D (2) tidak merata/tidak jelas; B (1) memonopoli informasi."
+    },
+    {
+      "no": 76,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Menyampaikan Pendapat dalam Forum Diskusi",
+      "soal": "Dalam rapat koordinasi lintas bidang, seorang peserta menyampaikan argumen yang menyudutkan Anda secara personal di luar topik bahasan karena ia pernah berselisih paham dengan Anda sebelumnya. Sikap Anda di dalam forum tersebut adalah...",
+      "opsi": {
+        "A": "Tetap tenang mengendalikan emosi, fokus menanggapi substansi topik rapat secara objektif dan berbasis data, serta tidak terpancing membawa masalah pribadi ke forum resmi",
+        "B": "Membalas menyindir kesalahan masa lalunya di hadapan seluruh peserta rapat",
+        "C": "Langsung berdiri dan meninggalkan ruang rapat karena merasa dipermalukan",
+        "D": "Berdiam diri dan menolak memberikan masukan penting apa pun hingga rapat bubar",
+        "E": "Memotong pembicaraannya dengan nada tinggi untuk membela harga diri"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 3,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Profesionalisme dan kecerdasan emosional menjaga diskusi tetap produktif.",
+      "trik_cepat": "Pisahkan konflik personal dari forum kerja: tetap tenang, objektif, fokus pada solusi topik rapat (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) dewasa, profesional, dan menjaga fokus kolaborasi; D (3) menahan emosi tetapi pasif berkontribusi; E (2) reaktif; B & C (1) memperkeruh forum."
+    },
+    {
+      "no": 77,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Menghadapi Rekan Tim yang Santai Menjelang Deadline",
+      "soal": "Anda dan tiga rekan kerja membagi tugas secara adil untuk sebuah laporan. Tiga jam sebelum tenggat waktu, bagian Anda sudah selesai tuntas, namun Anda melihat rekan satu tim masih belum selesai karena terlalu santai di awal waktu. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menawarkan bantuan untuk membantu menyelesaikan bagian yang tersisa sesuai kemampuan agar target tim tetap tercapai tepat waktu, lalu mengevaluasi pembagian ritme kerja bersama setelahnya",
+        "B": "Langsung pulang karena tugas bagian Anda sudah selesai dan bukan salah Anda jika tim telat",
+        "C": "Merasa kesal dan hanya menonton rekan tersebut kebingungan mengejar waktu",
+        "D": "Melaporkan rekan tersebut ke atasan sebelum mencoba membantu menyelamatkan tenggat tim",
+        "E": "Menghapus bagian Anda dari laporan gabungan agar tidak ikut dinilai"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Prioritas penyelamatan target kolektif tim di atas sikap individualistis.",
+      "trik_cepat": "Selamatkan target tim dulu dengan membantu secara proaktif, baru evaluasi kemudian (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) berorientasi pada keberhasilan tim dan kolaboratif; D (3) mengutamakan pelaporan daripada solusi cepat; B & C (2) individualistis; E (1) sabotase tim."
+    },
+    {
+      "no": 78,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Kegagalan Proyek Tim Akibat Faktor Eksternal",
+      "soal": "Sebuah program kolaborasi yang dijalankan tim Anda mengalami kegagalan capaian akibat perubahan regulasi mendadak dan kendala faktor eksternal. Langkah paling konstruktif yang Anda lakukan bersama tim adalah...",
+      "opsi": {
+        "A": "Mengajak tim melakukan evaluasi menyeluruh tanpa saling menyalahkan, menyusun rencana perbaikan, serta merancang strategi mitigasi risiko untuk pelaksanaan berikutnya",
+        "B": "Menyalahkan sepenuhnya pihak eksternal dalam laporan agar tim terbebas dari tanggung jawab",
+        "C": "Mengabaikan kegagalan tersebut dan langsung pindah ke proyek lain tanpa evaluasi",
+        "D": "Mengajukan pengunduran diri dari tim karena merasa malu",
+        "E": "Mencari-cari alasan pembenaran untuk menutupi kekurangan perencanaan tim"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Ketangguhan tim (resilience) dan perbaikan berkelanjutan pasca-kegagalan.",
+      "trik_cepat": "Jangan saling menyalahkan atau lari: evaluasi objektif + rencana perbaikan + mitigasi risiko (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) berorientasi pembelajaran dan mitigasi risiko; B & C (2) melempar tanggung jawab atau mengabaikan evaluasi; D & E (1) menyerah atau manipulatif."
+    },
+    {
+      "no": 79,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Koordinasi Darurat Kekurangan Logistik Tim",
+      "soal": "Saat Anda bergabung dalam tim tanggap darurat bencana di lapangan, persediaan logistik makanan dan air bersih menipis lebih cepat dari perkiraan karena akses jalan terputus. Sebagai koordinator lapangan, tindakan Anda adalah...",
+      "opsi": {
+        "A": "Segera berkoordinasi dengan tim untuk menyusun rencana darurat pengelolaan sumber daya yang tersisa secara adil sembari menghubungi posko induk/pihak berwenang guna membuka jalur pasokan bantuan cepat",
+        "B": "Berharap bantuan akan datang sendiri tanpa mengambil langkah koordinasi apa pun",
+        "C": "Menyembunyikan sisa air minum untuk kepentingan diri sendiri saja",
+        "D": "Meninggalkan lokasi tugas sendirian mencari makanan di kota terdekat tanpa izin tim",
+        "E": "Menyalahkan tim logistik di pusat terus-menerus tanpa mengatur pembagian stok yang ada"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Kepemimpinan kolaboratif dalam situasi krisis di lapangan.",
+      "trik_cepat": "Kombinasikan pengelolaan internal tim yang terukur + koordinasi eksternal mencari bantuan resmi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) tanggap krisis, kolaboratif, dan solutif; E (2) hanya menyalahkan; B, C, D (1) pasif atau egois."
+    },
+    {
+      "no": 80,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Mengakomodasi Keterlambatan Rekan dengan Empati",
+      "soal": "Anda dan seorang rekan sudah menunggu satu jam di perpustakaan untuk mengerjakan tugas bersama. Dua rekan lainnya akhirnya datang terlambat sambil menjelaskan bahwa mereka sempat mencari jam tangan yang jatuh di jalan dan tampak masih panik. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menyambut mereka dengan tenang, menanyakan kondisi mereka, lalu segera mengajak fokus memulai pekerjaan bersama agar waktu yang tersisa tetap produktif",
+        "B": "Langsung memarahi dan mengusir mereka pulang karena sudah membuat Anda menunggu lama",
+        "C": "Mengancam bahwa lain kali mereka tidak akan pernah diajak kerja kelompok lagi",
+        "D": "Meninggalkan mereka di perpustakaan saat itu juga sebagai bentuk hukuman",
+        "E": "Menolak berbicara dengan mereka sepanjang sesi diskusi berlangsung"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Empati dan menjaga keharmonisan tim saat terjadi musibah tak terduga.",
+      "trik_cepat": "Bedakan terlambat karena malas vs musibah: tunjukkan empati lalu arahkan fokus kembali ke target tugas bersama (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) empatik dan fokus pada produktivitas tim; C & E (2) kaku dan memperburuk suasana; B & D (1) reaktif merusak kerja sama."
+    },
+    {
+      "no": 81,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Toleransi Rekan Berduka Menjalani Upacara Adat",
+      "soal": "Sebagai kepala divisi, salah satu staf Anda izin beberapa hari untuk mengikuti upacara adat pemakaman orang tuanya di kampung halaman. Seorang staf lain yang menggantikan sementara tugasnya mengeluh karena merasa terbebani. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Mendengarkan keberatan staf pengganti dengan empati, menjelaskan pentingnya toleransi terhadap adat serta kondisi duka rekan kerja, lalu mengatur ulang distribusi beban tugas sementara secara proporsional kepada tim",
+        "B": "Menelepon staf yang sedang berduka agar langsung membatalkan upacara adatnya dan kembali bekerja besok pagi",
+        "C": "Memarahi staf pengganti karena dianggap tidak memiliki rasa kemanusiaan sama sekali",
+        "D": "Membiarkan konflik tersebut memanas tanpa penyesuaian pembagian kerja",
+        "E": "Memotong gaji staf yang berduka seluruhnya untuk diberikan kepada staf pengganti"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Menyeimbangkan empati budaya/duka dengan keadilan beban kerja tim.",
+      "trik_cepat": "Rangkul staf pengganti + edukasi toleransi adat/duka + redistribusi beban kerja agar adil (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) adil, sensitif secara budaya, dan solutif secara manajerial; C & D (2) tidak menyelesaikan beban kerja; B & E (1) tidak empatik."
+    },
+    {
+      "no": 82,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Menjaga Kerukunan Tetangga (Asap Sampah)",
+      "soal": "Tetangga sebelah rumah Anda sering membakar sampah di halaman hingga asapnya mengganggu pakaian yang Anda jemur dan memicu batuk keluarga Anda. Langkah paling bijaksana yang Anda ambil adalah...",
+      "opsi": {
+        "A": "Menegur secara baik-baik dan kekeluargaan, menjelaskan dampak asap bagi kesehatan, serta menyarankan agar sampah dibuang melalui layanan pengelola sampah lingkungan setempat",
+        "B": "Diam saja memendam kesal hingga suatu hari membuang sampah ke halaman rumahnya sebagai balasan",
+        "C": "Menyiram halaman tetangga tersebut dengan selang air tanpa permisi",
+        "D": "Mengajak warga lain memusuhi dan mengucilkan keluarga tetangga tersebut",
+        "E": "Melaporkannya langsung ke pengadilan negeri tanpa pernah berbicara secara pribadi terlebih dahulu"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Komunikasi santun dan solutif dalam menyelesaikan gesekan sosial di lingkungan bertetangga.",
+      "trik_cepat": "Sampaikan secara kekeluargaan + jelaskan alasan kesehatan + tawarkan solusi pengelolaan sampah yang benar (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) menjaga kerukunan sosial sekaligus menyelesaikan akar masalah; C & E (2) memicu ketegangan; B & D (1) destruktif."
+    },
+    {
+      "no": 83,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Partisipasi Gotong Royong Lingkungan",
+      "soal": "Setelah sepekan bekerja keras menyelesaikan proyek besar di kantor, Anda berencana beristirahat penuh pada hari Minggu. Tiba-tiba ketua RT mengajak warga ikut kerja bakti membersihkan lingkungan dan rumah ibadah sekitar. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Tetap meluangkan waktu untuk bergabung bersama warga mengikuti kerja bakti sebagai wujud kepedulian sosial, lalu beristirahat setelah kegiatan selesai",
+        "B": "Mengatakan 'iya' kepada ketua RT namun sengaja tidak keluar rumah saat hari pelaksanaan",
+        "C": "Berbohong mengaku sedang berada di luar kota kepada tetangga",
+        "D": "Menolak dengan alasan pekerjaan ASN jauh lebih penting daripada kerja bakti warga",
+        "E": "Mengirimkan makanan ringan saja lalu tidur sepanjang hari tanpa menyapa warga sama sekali"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 4
+      },
+      "kunci": "A",
+      "inti_soal": "Komitmen sosial dan gotong royong di lingkungan masyarakat.",
+      "trik_cepat": "Hadir langsung berbaur dalam gotong royong warga lebih tinggi nilainya (5) daripada sekadar mengirim makanan (4).",
+      "pembahasan": "Rincian Skor: A (5) partisipasi aktif langsung; E (4) berkontribusi materi namun absen interaksi sosial; B, C, D (1) tidak jujur atau arogan."
+    },
+    {
+      "no": 84,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Menolong Korban Kecelakaan di Jalan Sepi",
+      "soal": "Setelah lembur hingga larut malam, dalam perjalanan pulang melintasi jalanan sepi Anda mendapati seorang pengendara sepeda motor mengalami kecelakaan tunggal. Tindakan Anda adalah...",
+      "opsi": {
+        "A": "Berhenti di tempat aman, memeriksa kondisi korban dengan tetap waspada terhadap keamanan sekitar, memberikan pertolongan pertama sesuai kemampuan, serta segera menghubungi ambulans atau aparat setempat",
+        "B": "Langsung tancap gas pulang karena merasa lelah setelah lembur",
+        "C": "Melewati korban begitu saja sambil meyakinkan diri pasti ada orang lain yang menolong",
+        "D": "Hanya mengambil foto dan mengunggahnya ke media sosial lalu pergi meninggalkan lokasi",
+        "E": "Menolong hanya jika korban bersedia memberikan imbalan uang terima kasih"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kepedulian kemanusiaan yang disertai kewaspadaan dan pertolongan tepat prosedur.",
+      "trik_cepat": "Tunjukkan empati menolong sesama dengan tetap memperhatikan keselamatan dan menghubungi layanan darurat resmi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) peduli kemanusiaan sekaligus waspada dan terukur; B & C (2) acuh karena lelah; D & E (1) tidak etis."
+    },
+    {
+      "no": 85,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Mencegah Main Hakim Sendiri di Ruang Publik",
+      "soal": "Saat berbelanja di pusat perbelanjaan, seorang pria berlari ke arah Anda sambil dikejar massa yang berteriak 'copet!'. Posisi Anda memungkinkan untuk menghadangnya. Sikap Anda yang paling bijaksana adalah...",
+      "opsi": {
+        "A": "Membantu mengamankan pria tersebut jika situasi aman tanpa membahayakan diri, mencegah massa melakukan tindakan main hakim sendiri, dan segera menyerahkannya kepada petugas keamanan atau kepolisian untuk diproses hukum",
+        "B": "Ikut memukul pria tersebut bersama massa sebagai bentuk efek jera di tempat",
+        "C": "Membiarkannya kabur sambil bersikap masa bodoh karena bukan dompet Anda yang hilang",
+        "D": "Merekam aksi pengeroyokan massa untuk dijadikan konten viral",
+        "E": "Menghakimi dan menghukum pelaku di tempat tanpa memanggil petugas berwenang"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kepedulian sosial disertai ketaatan pada hukum (anti main hakim sendiri).",
+      "trik_cepat": "Tangkap/amankan sesuai batas keselamatan + cegah amuk massa + serahkan ke polisi/satpam (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) peduli ketertiban umum dan taat supremasi hukum; C (2) apatis; B, D, E (1) anarkis/melanggar hukum."
+    },
+    {
+      "no": 86,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Empati Terhadap Rekan Saat WFH",
+      "soal": "Saat Anda sedang menjalani kerja dari rumah (WFH) menyelesaikan laporan harian, seorang sahabat datang ke rumah Anda dalam keadaan sangat sedih dan kurus karena sedang tertimpa masalah berat. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menyambutnya dengan hangat, meluangkan waktu sejenak (di waktu jeda) untuk mendengarkan keluh kesahnya dengan empati dan memberi dukungan moral, lalu menjelaskan dengan santun bahwa Anda harus kembali menyelesaikan target kerja kantor",
+        "B": "Menolaknya di depan pintu dengan kasar karena mengganggu jam WFH",
+        "C": "Meninggalkan seluruh pekerjaan kantor seharian penuh tanpa izin atasan untuk menemaninya jalan-jalan",
+        "D": "Bermain ponsel sambil berpura-pura mendengarkan ceritanya",
+        "E": "Menyuruhnya pulang dan hanya mengirim pesan teks singkat tanpa empati"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Menyeimbangkan empati sosial terhadap sahabat dengan tanggung jawab profesional jam kerja.",
+      "trik_cepat": "Berikan empati tulus dalam batas waktu wajar sambil tetap menjaga komitmen target pekerjaan kantor (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) empatik dan tetap profesional; E (3) kurang hangat; C & D (2) melalaikan tugas kantor atau tidak tulus; B (1) kasar."
+    },
+    {
+      "no": 87,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Pengendalian Emosi Saat Dihakimi di Ruang Publik",
+      "soal": "Saat berjalan kaki, Anda tidak sengaja menyenggol seseorang hingga hampir terjatuh. Anda langsung meminta maaf dengan tulus, tetapi orang tersebut justru marah dan melontarkan kata-kata kasar di depan umum. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Tetap menjaga ketenangan diri, tidak terpancing emosi, kembali menyampaikan permohonan maaf secara sopan, dan memastikan kondisinya baik-baik saja sebelum melangkah pergi agar situasi tidak memanjang",
+        "B": "Membalas memaki dengan kata-kata yang lebih kasar karena merasa Anda sudah meminta maaf",
+        "C": "Menantangnya berkelahi di tempat sepi agar tidak dilihat orang banyak",
+        "D": "Merekam wajahnya dan memviralkannya agar ia dipermalukan netizen",
+        "E": "Menyalahkan orang tersebut karena berjalan terlalu lambat"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Kematangan emosional dan pengendalian diri menghadapi provokasi di masyarakat.",
+      "trik_cepat": "Tetap tenang + jangan balas emosi + selesaikan dengan santun agar tidak jadi konflik (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) sabar, dewasa, dan meredam konflik; D & E (2) memperpanjang masalah; B & C (1) emosional dan agresif."
+    },
+    {
+      "no": 88,
+      "subtes": "TKP",
+      "topik": "TIK - Kewaspadaan Modus Penipuan Online & Medsos",
+      "soal": "Maraknya modus penipuan daring (social engineering dan tautan berbahaya) kerap menargetkan pengguna media sosial, termasuk aparatur negara. Sikap paling tepat dalam menggunakan media sosial sehari-hari adalah...",
+      "opsi": {
+        "A": "Menggunakan media sosial secara bijak untuk hal bermanfaat, mengaktifkan keamanan akun (verifikasi dua langkah), serta selalu memverifikasi kebenaran tautan atau informasi sebelum berinteraksi",
+        "B": "Menghapus seluruh akses internet dan menolak menggunakan teknologi komunikasi apa pun selamanya",
+        "C": "Mengklik setiap tautan hadiah atau lowongan yang dikirimkan oleh akun tidak dikenal",
+        "D": "Mengunggah foto KTP dan kartu pegawai di media sosial agar akun terlihat tepercaya",
+        "E": "Membagikan informasi yang belum jelas sumbernya asal terlihat menarik"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Literasi keamanan digital dan perilaku bijak bermedia sosial.",
+      "trik_cepat": "Manfaatkan teknologi secara positif + aktifkan proteksi keamanan (2FA) + verifikasi sebelum klik/sebar (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) cerdas digital dan waspada keamanan; B (2) menghindari teknologi secara ekstrem; C, D, E (1) ceroboh dan membahayakan data."
+    },
+    {
+      "no": 89,
+      "subtes": "TKP",
+      "topik": "TIK - Adaptasi Perangkat & Software Baru Saat Darurat",
+      "soal": "Anda harus menyerahkan laporan penting hari ini juga, namun komputer kantor yang biasa Anda pakai mendadak rusak. Satu-satunya perangkat cadangan yang tersedia adalah laptop dengan sistem operasi dan aplikasi pengolah kata versi terbaru yang belum pernah Anda gunakan. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Segera mempelajari cara pengoperasian perangkat baru tersebut lewat panduan singkat atau tutorial daring sambil langsung mengerjakan laporan agar tetap selesai tepat waktu",
+        "B": "Menunda penyelesaian laporan sampai komputer lama selesai diperbaiki minggu depan",
+        "C": "Menyuruh rekan lain mengerjakan seluruh isi laporan Anda karena Anda tidak bisa memakai laptop baru",
+        "D": "Memarahi bagian pengadaan barang karena mengganti aplikasi kantor tanpa izin Anda",
+        "E": "Pulang ke rumah dan tidur dengan alasan fasilitas kantor tidak mendukung"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 3,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kemauan belajar cepat (fast learner) menguasai teknologi baru di bawah tenggat waktu.",
+      "trik_cepat": "Hadapi software baru dengan semangat belajar cepat mandiri agar target kerja tetap tuntas (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) adaptif dan bertanggung jawab; C (3) masih berusaha selesai namun bergantung penuh pada orang lain; B (2) menunda target; D & E (1) mengeluh dan menghindar."
+    },
+    {
+      "no": 90,
+      "subtes": "TKP",
+      "topik": "TIK - Kepatuhan Pembaruan Data Kepegawaian Online",
+      "soal": "Instansi mewajibkan seluruh pegawai melakukan pembaruan data pribadi secara mandiri melalui aplikasi kepegawaian daring terbaru. Salah seorang rekan senior Anda merasa kesulitan mengoperasikan menu di aplikasi tersebut. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Mempelajari panduan aplikasinya terlebih dahulu, menuntaskan pembaruan data Anda tepat waktu, lalu dengan senang hati membimbing rekan senior tersebut mempraktikkannya langkah demi langkah",
+        "B": "Mengajukan surat permintaan pengecualian agar pegawai senior dibebaskan dari sistem digital selamanya",
+        "C": "Meminta tim IT mengerjakan akun milik Anda sekaligus seluruh akun pegawai lain",
+        "D": "Menunggu hari terakhir penutupan sistem sambil berharap aturan dibatalkan",
+        "E": "Menertawakan rekan senior yang kesulitan karena dianggap gagap teknologi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Adaptasi sistem kepegawaian digital dan dukungan antarrekan kerja.",
+      "trik_cepat": "Kuasai dulu + tuntaskan kewajiban pribadi + bantu bimbing rekan yang kesulitan (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) adaptif dan suportif; B & C (2) menghambat digitalisasi atau membebani IT; D & E (1) pasif atau merendahkan."
+    },
+    {
+      "no": 91,
+      "subtes": "TKP",
+      "topik": "TIK - Kolaborasi Pimpinan dengan Tim IT Mengembangkan Sistem",
+      "soal": "Anda ditunjuk memimpin divisi pengembangan layanan, namun latar belakang Anda bukan dari bidang pemrograman IT. Sementara itu, tuntutan zaman mengharuskan divisi Anda membangun sistem layanan digital baru. Tindakan kepemimpinan Anda adalah...",
+      "opsi": {
+        "A": "Mengolaborasikan pemahaman kebutuhan layanan bisnis Anda dengan keahlian tim IT, aktif berdiskusi mempelajari alur sistemnya, serta menggerakkan seluruh staf untuk mengadopsi sistem baru tersebut",
+        "B": "Menolak proyek digitalisasi tersebut dan tetap mempertahankan sistem buku tulis manual",
+        "C": "Menyerahkan seluruh keputusan arah kebijakan layanan sepenuhnya kepada staf IT tanpa arahan bisnis",
+        "D": "Memaksa tim IT membuat sistem dalam satu malam tanpa mendengarkan masukan teknis",
+        "E": "Mengundurkan diri dari jabatan pimpinan karena merasa bukan lulusan teknik informatika"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 3,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Sinergi pimpinan non-teknis dengan tim IT dalam transformasi digital.",
+      "trik_cepat": "Pimpinan memadukan visi layanan + keahlian teknis tim IT + menggerakkan tim untuk adopsi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) kolaboratif dan visioner; C (3) lepas kendali substansi; B, D, E (1) menolak perubahan atau tidak bertanggung jawab."
+    },
+    {
+      "no": 92,
+      "subtes": "TKP",
+      "topik": "TIK - Komputer Pribadi Rusak Menjelang Deadline",
+      "soal": "Saat Anda mengerjakan tugas laporan di rumah pada malam hari sebelum dikumpulkan esok pagi, komputer pribadi Anda tiba-tiba mati total dan tidak bisa menyala. Tindakan Anda yang paling solutif adalah...",
+      "opsi": {
+        "A": "Segera mencari alternatif perangkat (meminjam laptop keluarga/rekan terdekat atau pergi ke rental komputer terdekat) untuk melanjutkan penyelesaian tugas hingga tuntas tepat waktu",
+        "B": "Langsung tidur saja dan menjadikan kerusakan komputer sebagai alasan menunda pengumpulan tugas",
+        "C": "Marah-marah dan menyalahkan keadaan tanpa berupaya mencari solusi",
+        "D": "Membongkar paksa komponen komputer meskipun tidak paham elektronik hingga rusak parah",
+        "E": "Mengirim pesan kepada atasan bahwa tugas baru bisa dikerjakan minggu depan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Inisiatif mencari solusi alternatif perangkat TIK saat terjadi kendala mendadak.",
+      "trik_cepat": "Jangan jadikan kerusakan alat sebagai alasan gagal deadline: segera cari perangkat alternatif agar tugas selesai tepat waktu (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) sangat solutif dan berkomitmen pada tenggat; D & E (2) berisiko atau menunda; B & C (1) pasrah tanpa usaha."
+    },
+    {
+      "no": 93,
+      "subtes": "TKP",
+      "topik": "TIK - Penggunaan Internet Kantor Secara Bertanggung Jawab",
+      "soal": "Tagihan internet kantor melonjak tajam dan hasil audit menemukan banyak pegawai mengakses layanan hiburan/unduhan pribadi selama jam kerja. Pimpinan mengumpulkan seluruh staf untuk evaluasi, dan Anda sadar pernah sesekali menggunakannya untuk urusan pribadi. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Mengakui secara jujur penggunaan tersebut dalam evaluasi, berkomitmen menghentikan pemakaian fasilitas kantor untuk kepentingan pribadi, dan mendukung penerapan kebijakan pembatasan akses demi efisiensi anggaran",
+        "B": "Menyalahkan rekan kerja lain agar Anda tidak terlihat ikut bersalah",
+        "C": "Mengatakan bahwa uang negara masih banyak sehingga tidak perlu mempermasalahkan kenaikan tagihan",
+        "D": "Diam saja dan berharap log riwayat jaringan tidak diperiksa oleh tim IT",
+        "E": "Membuat alasan bohong bahwa akses hiburan tersebut merupakan bagian dari riset pekerjaan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Integritas dan tanggung jawab dalam penggunaan fasilitas jaringan TIK kantor.",
+      "trik_cepat": "Akui jujur + perbaiki perilaku + dukung tata kelola akses internet kantor yang akuntabel (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) jujur dan bertanggung jawab; D (2) pasif menutupi; B, C, E (1) berbohong atau menyalahgunakan anggaran negara."
+    },
+    {
+      "no": 94,
+      "subtes": "TKP",
+      "topik": "TIK - Etika Merespons Konten Kontroversial di Media Sosial",
+      "soal": "Sebuah konten tidak etis dari seorang figur publik viral di media sosial, lalu memicu ribuan komentar warganet berisi makian dan penghinaan fisik. Pandangan dan sikap Anda dalam menyikapi fenomena ruang digital tersebut adalah...",
+      "opsi": {
+        "A": "Tidak ikut menghujat atau merundung; apabila ingin mengingatkan, lakukan secara santun atau gunakan fitur pelaporan konten platform agar ruang digital tetap sehat dan beradab",
+        "B": "Ikut menuliskan komentar hinaan agar pembuat konten merasa jera",
+        "C": "Membagikan ulang konten tidak etis tersebut ke seluruh grup agar makin banyak yang menghujat",
+        "D": "Mendukung aksi perundungan siber sebagai bentuk sanksi sosial yang wajar",
+        "E": "Membuat akun anonim khusus untuk membalas komentar warganet dengan kata kasar"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Etika berinternet (netiquette) dan penolakan terhadap cyberbullying.",
+      "trik_cepat": "Tolak perundungan/hujatan di medsos; pilih cara edukatif yang santun atau fitur pelaporan resmi platform (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) menjaga etika digital dan anti-cyberbullying; B, C, D, E (1) memperluas perundungan dan konten negatif."
+    },
+    {
+      "no": 95,
+      "subtes": "TKP",
+      "topik": "TIK - Edukasi Publik Melawan Produk Ilegal di Media Sosial",
+      "soal": "Sebagai tenaga kesehatan ASN yang aktif mengedukasi masyarakat di media sosial, Anda melihat seorang selebritas mempromosikan krim kecantikan ilegal tanpa izin edar resmi BPOM. Langkah edukatif dan prosedural yang paling tepat Anda lakukan adalah...",
+      "opsi": {
+        "A": "Membuat konten edukasi berbasis bukti ilmiah untuk mengingatkan masyarakat cara mengecek nomor izin edar resmi BPOM serta melaporkan produk ilegal tersebut melalui kanal pengaduan resmi BPOM",
+        "B": "Menyerang akun pribadi selebritas tersebut dengan kata-kata kasar dan ancaman",
+        "C": "Diam saja karena malas berurusan dengan pengikut selebritas tersebut",
+        "D": "Ikut mempromosikan produk ilegal tersebut jika ditawari bayaran iklan",
+        "E": "Menyebutkan merek produk ilegal lain milik teman Anda sebagai pengganti tanpa izin edar"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Memanfaatkan platform TIK untuk literasi publik berbasis bukti dan pelaporan resmi.",
+      "trik_cepat": "Edukasi masyarakat secara objektif + lapor ke otoritas resmi (BPOM) tanpa menyerang personal secara kasar (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) proaktif melindungi masyarakat lewat edukasi ilmiah dan jalur hukum resmi; B & C (2) emosional atau apatis; D & E (1) melanggar etika profesi dan hukum."
+    },
+    {
+      "no": 96,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Menjaga Kualitas & Evaluasi Berkala",
+      "soal": "Selama sepekan ini, atasan beberapa kali menegur Anda karena hasil penyusunan laporan dinilai kurang teliti dan belum optimal. Sikap profesional Anda menghadapi evaluasi tersebut adalah...",
+      "opsi": {
+        "A": "Melakukan introspeksi diri secara objektif, mencatat letak kekurangannya, lalu memperbaiki metode kerja dan menerapkan daftar periksa ketelitian sebelum menyerahkan hasil kerja berikutnya",
+        "B": "Berdebat panjang membela diri dengan menyalahkan banyaknya pekerjaan lain",
+        "C": "Menganggap teguran atasan sebagai angin lalu agar tidak stres",
+        "D": "Berhenti berusaha maksimal karena merasa apa pun yang dikerjakan pasti salah di mata atasan",
+        "E": "Mengajukan pindah bagian agar tidak pernah ditegur lagi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Respons positif terhadap kritik atasan untuk peningkatan mutu kerja.",
+      "trik_cepat": "Introspeksi + cari akar masalah + perbaiki cara kerja dengan sistem kontrol kualitas pribadi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) terbuka terhadap evaluasi dan proaktif memperbaiki kualitas; B & E (2) defensif atau menghindar; C & D (1) apatis atau putus asa."
+    },
+    {
+      "no": 97,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Tugas Dinas Luar Kota dengan Reimburse (Kendala Dana)",
+      "soal": "Atasan menugaskan Anda menghadiri acara koordinasi di luar kota pada akhir bulan, dengan ketentuan biaya perjalanan ditanggung pribadi terlebih dahulu dan baru diganti (reimburse) oleh kas kantor di awal bulan depan. Namun, saat itu kondisi keuangan pribadi Anda benar-benar sedang kosong. Tindakan paling jujur dan profesional adalah...",
+      "opsi": {
+        "A": "Menyampaikan kondisi sebenarnya kepada atasan dan bendahara secara terbuka dan sopan guna meminta solusi uang muka perjalanan dinas (panjar kas) atau penugasan rekan lain bila tidak memungkinkan",
+        "B": "Berpura-pura sakit keras di hari keberangkatan karena malu berterus terang",
+        "C": "Menggunakan uang pembayaran warga yang dititipkan di loket untuk biaya perjalanan terlebih dahulu",
+        "D": "Menolak perintah atasan secara ketus tanpa memberikan penjelasan apa pun",
+        "E": "Meminjam uang dari vendor/rekanan pengadaan kantor untuk ongkos berangkat"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Komunikasi jujur dan mencari solusi administratif yang sah (uang muka dinas) tanpa berbohong atau menyalahgunakan uang publik.",
+      "trik_cepat": "Jujur & prosedural ke atasan/bendahara untuk solusi panjar dinas atau penyesuaian tugas (A = 5). Jangan berbohong (B) atau memakai uang negara/vendor (C/E).",
+      "pembahasan": "Rincian Skor: A (5) jujur, komunikatif, dan tetap menjaga integritas keuangan; B (2) tidak jujur; C, D, E (1) pelanggaran berat."
+    },
+    {
+      "no": 98,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Tugas Pelatihan Saat Kondisi Sakit",
+      "soal": "Anda adalah seorang widyaiswara yang dijadwalkan menjadi pemateri diklat prajabatan besok pagi, namun malam ini Anda terserang demam tinggi hingga sulit berbicara dan dokter menyarankan istirahat total. Langkah paling bertanggung jawab adalah...",
+      "opsi": {
+        "A": "Segera memberi tahu panitia sejak malam disertai surat keterangan dokter, lalu berkoordinasi mencarikan pemateri pengganti yang kompeten atau penjadwalan ulang agar peserta tetap mendapat materi optimal",
+        "B": "Menghilang saja besok pagi tanpa kabar kepada panitia maupun peserta diklat",
+        "C": "Memaksakan diri datang ke kelas meski tidak sanggup berbicara sehingga pembelajaran tidak efektif dan berisiko menularkan penyakit",
+        "D": "Menyuruh staf administrasi tanpa kompetensi mengajar untuk membacakan slide Anda",
+        "E": "Membatalkan seluruh program diklat secara sepihak melalui pesan singkat"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 3,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Tanggung jawab profesional ketika menghadapi kondisi darurat kesehatan.",
+      "trik_cepat": "Komunikasikan lebih awal + bukti medis resmi + siapkan solusi pengganti kompeten agar layanan tidak lumpuh (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) bertanggung jawab, komunikatif dini, dan menjaga mutu diklat; C (3) bersemangat tetapi kurang efektif dan berisiko kesehatan; D (2) menurunkan mutu; B & E (1) tidak profesional."
+    },
+    {
+      "no": 99,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Mutasi Mendadak ke Bidang Baru",
+      "soal": "Anda dimutasikan secara mendadak ke unit kerja sistem informasi dan tata kelola data yang sama sekali belum pernah Anda tekuni sebelumnya. Pola pikir pertama yang Anda bangun saat menerima penempatan tersebut adalah...",
+      "opsi": {
+        "A": "Berfokus memetakan tugas pokok unit baru, mempelajari SOP dan literatur terkait dengan cepat, serta proaktif bertanya kepada rekan berpengalaman agar segera berkontribusi optimal",
+        "B": "Curiga bahwa mutasi tersebut adalah bentuk hukuman politis terhadap diri Anda",
+        "C": "Menawar kepada bagian kepegawaian agar dikembalikan ke unit lama yang lebih nyaman",
+        "D": "Bekerja lambat dan pasif dengan alasan bukan bidang keahlian Anda",
+        "E": "Mengeluh setiap hari kepada keluarga dan rekan kerja mengenai nasib karier Anda"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Ketangkasan beradaptasi (agility) dan kesiapan belajar pada penempatan tugas baru.",
+      "trik_cepat": "Terima keputusan organisasi secara positif + langsung pelajari peran baru + cepat berkontribusi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) adaptif, positif, dan profesional; C (2) menolak tantangan; B, D, E (1) berprasangka negatif atau pasif."
+    },
+    {
+      "no": 100,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Penolakan Proposal Ide oleh Pimpinan",
+      "soal": "Usulan proposal program peningkatan kualitas kerja yang sudah Anda susun dengan susah payah ternyata ditolak oleh atasan karena dinilai belum selaras dengan prioritas anggaran dan visi instansi tahun ini. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menerima keputusan dengan lapang dada, meminta umpan balik spesifik dari atasan mengenai bagian yang perlu diselaraskan, lalu menyempurnakan ide tersebut untuk pengajuan berikutnya",
+        "B": "Menggalang petisi rekan kantor untuk memaksa atasan menyetujui proposal Anda",
+        "C": "Merasa tersinggung dan berjanji tidak akan pernah lagi mengajukan ide inovasi apa pun",
+        "D": "Membocorkan proposal tersebut ke pihak luar dengan menjelek-jelekkan pimpinan",
+        "E": "Menyimpan dendam dan sengaja memperlambat pekerjaan rutin lainnya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Ketahanan mental dan sikap belajar berkelanjutan ketika gagasan kerja ditolak.",
+      "trik_cepat": "Terima evaluasi dengan dewasa + minta feedback konstruktif + perbaiki untuk kesempatan berikutnya (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) bermental tangguh dan berorientasi perbaikan mutu; C (2) patah semangat; B, D, E (1) konfrontatif dan tidak profesional."
+    },
+    {
+      "no": 101,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Disiplin Jam Pulang Kerja",
+      "soal": "Di unit kerja Anda, sebagian besar rekan kerja memiliki kebiasaan pulang 15 menit lebih awal sebelum bel jam kerja resmi berakhir. Sikap yang Anda pegang teguh adalah...",
+      "opsi": {
+        "A": "Tetap mematuhi jam kerja resmi dengan menyelesaikan tugas serta baru pulang tepat pada waktunya, tanpa ikut-ikutan melanggar aturan meski mayoritas rekan melakukannya",
+        "B": "Ikut pulang lebih awal supaya tidak dianggap sok rajin oleh rekan kerja lain",
+        "C": "Ikut pulang lebih awal namun menitipkan absen jari/aplikasi kepada petugas keamanan",
+        "D": "Menegur rekan kerja dengan kata-kata kasar di depan pintu keluar setiap sore",
+        "E": "Datang ke kantor lebih siang keesokan harinya sebagai kompensasi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Konsistensi disiplin kerja pribadi di tengah lingkungan yang kurang disiplin.",
+      "trik_cepat": "Integritas dan disiplin ASN tidak ikut arus yang salah: tetap taati jam kerja resmi (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) konsisten berdisiplin tinggi; D (2) niat baik namun caranya tidak bijak; B, C, E (1) ikut melanggar disiplin ASN."
+    },
+    {
+      "no": 102,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Menjaga Komitmen Saat Ditawari Gaji Lebih Besar",
+      "soal": "Anda sedang terikat kontrak proyek strategis instansi hingga akhir tahun ini. Di tengah masa kontrak, sebuah perusahaan swasta menawari Anda gaji yang jauh lebih besar jika bersedia langsung pindah minggu depan tanpa menyelesaikan serah terima proyek. Sikap profesional Anda adalah...",
+      "opsi": {
+        "A": "Menjaga komitmen dan tanggung jawab dengan menyelesaikan kontrak proyek atau prosedur serah terima sesuai aturan resmi terlebih dahulu, tidak meninggalkan tugas secara sepihak yang merugikan organisasi",
+        "B": "Langsung menghilang dari kantor besok pagi tanpa surat pengunduran diri maupun serah terima data",
+        "C": "Mengancam pimpinan akan keluar besok kecuali gaji Anda langsung dinaikkan tiga kali lipat",
+        "D": "Menerima kedua pekerjaan sekaligus dan mengerjakan tugas instansi secara asal-asalan di malam hari",
+        "E": "Membawa lari data proyek instansi sebagai nilai tawar di perusahaan baru"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Etika profesi, loyalitas pada komitmen kontrak, dan serah terima pekerjaan yang bertanggung jawab.",
+      "trik_cepat": "Hormati komitmen dan etika profesional: jangan tinggalkan tugas di tengah jalan tanpa penyelesaian/serah terima sah (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) profesional, etis, dan bertanggung jawab; C (2) transaksional kurang etis; B, D, E (1) melanggar etika dan hukum."
+    },
+    {
+      "no": 103,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Perencanaan dan Evaluasi Pekerjaan Berkala",
+      "soal": "Dalam mengelola tumpukan tugas harian yang kompleks agar tidak terjadi keterlambatan maupun kesalahan berulang, kebiasaan kerja yang paling mencerminkan profesionalisme Anda adalah...",
+      "opsi": {
+        "A": "Menyusun daftar prioritas rencana kerja serta menjadwalkan evaluasi mandiri secara rutin setiap pekan untuk mengukur progres dan memperbaiki hambatan",
+        "B": "Mengerjakan tugas secara acak sesuai suasana hati tanpa jadwal teratur",
+        "C": "Baru panik mengerjakan tugas ketika sudah mendekati satu jam sebelum batas waktu",
+        "D": "Tidak pernah mengevaluasi hasil kerja karena merasa semua pekerjaan pasti beres sendiri",
+        "E": "Menyerahkan seluruh perencanaan tugas pribadi kepada rekan meja sebelah"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Disiplin perencanaan dan evaluasi diri secara berkala (continuous improvement).",
+      "trik_cepat": "Rencana kerja terstruktur + evaluasi berkala = kunci kinerja profesional konsisten (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) terencana, terukur, dan berorientasi perbaikan berkelanjutan; B & C (2) tidak terorganisasi; D & E (1) abai tanggung jawab."
+    },
+    {
+      "no": 104,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Candaan Ancaman Keamanan di Bandara (FR CATBKN)",
+      "soal": "Saat Anda sedang menunggu panggilan naik pesawat di ruang tunggu bandara untuk perjalanan dinas, dua orang di dekat Anda bercanda cukup keras bahwa salah satu dari mereka membawa senjata tajam di tasnya dan akan menodong penumpang lain. Sikap Anda yang paling tepat adalah...",
+      "opsi": {
+        "A": "Segera melaporkan kejadian tersebut secara tenang kepada petugas keamanan bandara (Avsec) terdekat agar diperiksa sesuai prosedur keselamatan penerbangan, mengingat candaan ancaman di bandara merupakan pelanggaran hukum serius",
+        "B": "Menertawakan candaan mereka karena terlihat hanya sedang bercanda antar teman",
+        "C": "Mengabaikannya saja sambil memakai penyumbat telinga agar tidak terdengar",
+        "D": "Berteriak histeris 'ada teroris!' di tengah ruang tunggu hingga memicu kepanikan massal",
+        "E": "Merampas paksa tas orang tersebut dan memukulinya di depan pintu keberangkatan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kewaspadaan terhadap ancaman keamanan publik dan prosedur pelaporan ke otoritas keamanan (bukan panik atau main hakim sendiri).",
+      "trik_cepat": "Ancaman senjata/bom di bandara dilarang dijadikan candaan (UU Penerbangan): segera lapor tenang ke petugas keamanan resmi (Avsec) tanpa memicu kepanikan massal (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) sigap menjaga keselamatan publik dan prosedural melapor ke Avsec; C (2) abai terhadap potensi bahaya; B, D, E (1) meremehkan ancaman atau memicu kekacauan/kekerasan."
+    },
+    {
+      "no": 105,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Ceramah Mengarah ke Paham Radikal di Acara Pertemuan",
+      "soal": "Dalam sebuah acara pertemuan di lingkungan masyarakat, pembicara menyampaikan narasi yang menjelekkan kelompok lain, menolak Pancasila, dan mengarah pada paham radikalisme. Sikap Anda sebagai ASN dan warga yang bijak adalah...",
+      "opsi": {
+        "A": "Menjaga ketenangan agar tidak terpancing provokasi, mencatat poin penyimpangannya secara objektif, dan melaporkannya kepada panitia penyelenggara serta aparat/instansi terkait (seperti Kesbangpol/BNPT atau pihak berwenang) untuk penanganan lebih lanjut",
+        "B": "Langsung merebut mikrofon dan mengajak warga berkelahi di atas panggung",
+        "C": "Merekam ceramah tersebut lalu menyebarkannya secara utuh sebagai bentuk dukungan pribadi",
+        "D": "Mengangguk-anggukkan kepala dan menyetujui seluruh ajaran kebencian tersebut",
+        "E": "Keluar ruangan sambil memaki seluruh hadirin yang masih duduk"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Penanganan penyebaran narasi radikal di forum umum secara tertib dan prosedural.",
+      "trik_cepat": "Hindari keributan fisik (B/E) dan tolak mendukung narasi radikal (C/D): dokumentasikan objektif dan laporkan ke penyelenggara/pihak berwenang (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) tegas menolak radikalisme dengan langkah prosedural dan menjaga ketertiban umum; B & E (2) reaktif memicu keributan; C & D (1) menyebarkan atau mendukung radikalisme."
+    },
+    {
+      "no": 106,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Rekan ASN Menyebarkan Ujaran Kebencian di Medsos",
+      "soal": "Anda mendapati salah satu rekan kerja berstatus ASN secara rutin mengunggah konten ujaran kebencian bernuansa SARA dan anti-kebhinekaan di akun media sosial terbukanya. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Mengingatkannya secara baik-baik melalui pesan pribadi mengenai larangan ujaran kebencian dan kode etik ASN sebagai perekat bangsa, serta melaporkan ke atasan/tim disiplin kepegawaian jika ia tetap tidak menghapusnya",
+        "B": "Membiarkannya karena menganggap ujaran kebencian adalah bagian dari kebebasan berpendapat",
+        "C": "Ikut menekan tombol suka (like) dan membagikan ulang unggahan tersebut",
+        "D": "Menulis komentar balasan yang juga berisi caci maki SARA terhadap sukunya",
+        "E": "Memblokir akunnya lalu berpura-pura tidak pernah tahu"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Penegakan kode etik ASN anti-ujaran kebencian dan perekat bangsa.",
+      "trik_cepat": "Ingatkan persuasif soal kode etik ASN + eskalasi ke atasan jika tetap membandel (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) proaktif mencegah pelanggaran etik ASN dan menjaga kerukunan bangsa; E (3) tidak ikut serta tetapi pasif membiarkan; B, C, D (1) membenarkan atau ikut menyebarkan kebencian."
+    },
+    {
+      "no": 107,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Warga Baru dengan Aktivitas Tertutup & Mencurigakan",
+      "soal": "Di lingkungan tempat tinggal Anda, terdapat penghuni baru yang aktivitas kesehariannya sangat tertutup, menolak melapor ke RT, dan membuat beberapa warga mulai cemas karena maraknya isu keamanan. Sikap Anda sebagai warga yang peduli adalah...",
+      "opsi": {
+        "A": "Berkoordinasi dengan pengurus RT/RW untuk melakukan pendekatan pendataan warga secara sopan, dan melaporkan ke aparat kelurahan serta Bhabinkamtibmas/Babinsa apabila ditemukan indikasi mencurigakan yang membahayakan",
+        "B": "Mengajak massa kampung menggeruduk dan mengusir paksa penghuni baru tersebut malam ini juga",
+        "C": "Menyebarkan gosip bahwa penghuni baru tersebut adalah anggota jaringan terorisme tanpa bukti",
+        "D": "Bersikap masa bodoh dan melarang pengurus RT mendata warga baru",
+        "E": "Mengintip dan membobol jendela rumahnya secara diam-diam tanpa izin"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kewaspadaan lingkungan berbasis prosedur RT/RW dan aparat kewilayahan tanpa main hakim sendiri.",
+      "trik_cepat": "Pendataan sopan lewat RT/RW + koordinasi resmi kelurahan/Bhabinkamtibmas (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) waspada, tertib prosedur hukum, dan menenangkan keresahan warga; D (2) apatis; B, C, E (1) anarkis, fitnah, atau melanggar hukum."
+    },
+    {
+      "no": 108,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Menghadapi Keresahan Hukum Tanpa Anarkisme",
+      "soal": "Sebuah kasus hukum yang melibatkan tokoh daerah memicu aksi protes di lapangan. Sebagian massa mulai bertindak anarkis dengan merusak fasilitas umum dan menyerang petugas keamanan dengan alasan menuntut keadilan. Pandangan dan sikap Anda mengenai hal tersebut adalah...",
+      "opsi": {
+        "A": "Penyampaian pendapat merupakan hak warga negara, namun apabila ada keberatan terhadap proses hukum harus ditempuh melalui jalur hukum yang sah dan damai, bukan dengan tindakan anarkis yang merusak fasilitas publik",
+        "B": "Tindakan merusak fasilitas umum adalah hal wajar dan harus didukung agar tuntutan cepat dikabulkan",
+        "C": "Masyarakat bebas melakukan kekerasan apa pun asalkan mengatasnamakan keadilan kelompoknya",
+        "D": "Menyerukan pembakaran gedung pelayanan publik sebagai bentuk solidaritas",
+        "E": "Menolak seluruh aturan hukum negara karena dianggap tidak pernah berpihak"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Menjunjung tinggi negara hukum dan penyampaian aspirasi secara damai (anti-anarkisme).",
+      "trik_cepat": "Bedakan hak berpendapat secara damai (dilindungi konstitusi) vs tindakan anarkis/merusak (melanggar hukum) -> pilih jalur hukum yang damai (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) menjunjung tinggi prinsip negara hukum dan demokrasi damai; B, C, D, E (1) membenarkan kekerasan dan anarkisme."
+    },
+    {
+      "no": 109,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Bergaul Tanpa Terpengaruh Paham Ekstrem",
+      "soal": "Anda mengetahui salah satu tetangga di kompleks perumahan memiliki pandangan yang cenderung eksklusif dan mudah mengafirkan pihak yang berbeda pendapat, namun ia tetap tinggal bersebelahan dengan Anda. Cara paling tepat dalam bersikap terhadap tetangga tersebut adalah...",
+      "opsi": {
+        "A": "Tetap menjaga sikap santun dan interaksi sosial kemasyarakatan yang wajar agar ia tidak makin terisolasi, sambil membentengi diri dengan pemahaman kebangsaan yang kuat dan aktif melaporkan jika ada ajakan kekerasan",
+        "B": "Mengikuti ajakannya untuk memusuhi tetangga lain yang berbeda keyakinan",
+        "C": "Melempari rumahnya dengan batu setiap malam agar ia segera pindah dari kompleks",
+        "D": "Memutuskan seluruh tali silaturahmi dan menghinanya di grup warga",
+        "E": "Mengikuti kajian tertutupnya tanpa mempertanyakan dasar kebangsaan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Sikap moderat: tetap merangkul dalam interaksi sosial wajar tanpa terpapar ideologi eksklusif.",
+      "trik_cepat": "Jaga hubungan sosial yang wajar dan santun (mencegah eksklusivisme makin parah) + teguh berpegang pada Pancasila + waspada terhadap ajakan kekerasan (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) moderat, inklusif, namun tetap memiliki ketahanan ideologi yang kokoh; D (2) memperuncing isolasi sosial; B, C, E (1) terpengaruh ekstremisme atau bertindak agresif."
+    },
+    {
+      "no": 110,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Ketahanan Ideologi Pancasila di Lingkup Kerja",
+      "soal": "Dalam sebuah diskusi santai di ruang istirahat kantor, seorang pegawai baru berpendapat bahwa sistem pemerintahan berdasarkan Pancasila sudah ketinggalan zaman dan menyarankan penerapan ideologi negara lain yang bersifat absolut. Sikap Anda sebagai ASN senior adalah...",
+      "opsi": {
+        "A": "Mengajak berdiskusi secara tenang dan argumentatif untuk meluruskan bahwa Pancasila justru merupakan ideologi terbuka yang paling tepat menjaga kemajemukan Indonesia, serta mengingatkan sumpah setia ASN pada Pancasila dan UUD 1945",
+        "B": "Langsung memukul meja dan mengancam akan memecatnya secara pribadi",
+        "C": "Mengangguk setuju agar pegawai baru tersebut merasa nyaman di kantor",
+        "D": "Ikut mencari-cari kelemahan Pancasila di depan pegawai lainnya",
+        "E": "Diam saja dan membiarkannya merekrut pegawai lain ke dalam kelompok ideologinya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Dialog ideologis yang santun dan tegas mempertahankan konsensus dasar negara (Pancasila).",
+      "trik_cepat": "Luruskan dengan argumen rasional dan santun + tegaskan komitmen ASN setia pada Pancasila dan UUD 1945 (A = 5).",
+      "pembahasan": "Rincian Skor: A (5) membela ideologi negara secara cerdas, dialogis, dan berwibawa; B & E (2) emosional atau permisif; C & D (1) melanggar sumpah setia ASN."
+    }
+  ]
+}
