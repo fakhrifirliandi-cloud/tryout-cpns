@@ -1,9 +1,9 @@
 [
   {
     "id": "tryout-skd-1",
-    "judul": "Paket 1: Simulasi Try Out SKD Utuh (110 Soal)",
+    "judul": "Try Out 1: Simulasi SKD Utuh (110 Soal)",
     "kategori": "tryout_utuh",
-    "subtes_label": "SKD Utuh (TWK + TIU + TKP)",
+    "subtes_label": "Simulasi Try Out",
     "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 100,
@@ -15,14 +15,52 @@
       "total_maks": 550
     },
     "rincian": "30 TWK • 35 TIU • 45 TKP",
-    "deskripsi": "Simulasi CAT BKN utuh mengacu KepmenPANRB No. 321/2024 & pola FR 2023–2026 lengkap dengan cara cepat dan rincian skor 1–5.",
+    "deskripsi": "Simulasi CAT BKN utuh edisi ke-1 mengacu KepmenPANRB No. 321/2024 & pola FR 2023–2026 lengkap dengan cara cepat dan rincian skor 1–5.",
     "file_json": "data/paket-tryout-1.json"
+  },
+  {
+    "id": "tryout-skd-2",
+    "judul": "Try Out 2: Simulasi SKD Utuh Terbaru (110 Soal)",
+    "kategori": "tryout_utuh",
+    "subtes_label": "Simulasi Try Out",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 100,
+    "jumlah_soal": 110,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 80,
+      "TKP": 166,
+      "total_maks": 550
+    },
+    "rincian": "30 TWK • 35 TIU • 45 TKP",
+    "deskripsi": "Simulasi CAT BKN utuh edisi ke-2 hasil kompilasi dan verifikasi ulang soal FR CPNS terkini serta latihan terpadu (TWK, TIU SVG, dan TKP).",
+    "file_json": "data/paket-tryout-2.json"
+  },
+  {
+    "id": "tryout-trial",
+    "judul": "Try Out Trial: Simulasi SKD Full (110 Soal)",
+    "kategori": "tryout_utuh",
+    "subtes_label": "Simulasi Try Out",
+    "minggu_rilis": "Tersedia",
+    "status": "ready",
+    "durasi_menit": 100,
+    "jumlah_soal": 110,
+    "ambang_batas": {
+      "TWK": 65,
+      "TIU": 80,
+      "TKP": 166,
+      "total_maks": 550
+    },
+    "rincian": "30 TWK • 35 TIU • 45 TKP",
+    "deskripsi": "Paket Try Out Trial berpola FR & HOTS terbaru lengkap dengan kunci jawaban, rincian skor 1–5 TKP, trik cepat, dan pembahasan mendalam.",
+    "file_json": "data/paket-trial-full.json"
   },
   {
     "id": "latihan-twk-1",
     "judul": "Latihan Bab TWK - Paket 1 (30 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TWK (Tes Wawasan Kebangsaan)",
+    "subtes_label": "TWK (Wawasan Kebangsaan)",
     "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 30,
@@ -41,7 +79,7 @@
     "id": "latihan-tiu-1",
     "judul": "Latihan Bab TIU - Paket 1 (35 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TIU (Tes Intelegensia Umum)",
+    "subtes_label": "TIU (Intelegensia Umum)",
     "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 35,
@@ -60,7 +98,7 @@
     "id": "latihan-tkp-1",
     "judul": "Latihan Bab TKP - Paket 1 (45 Soal)",
     "kategori": "latihan_bab",
-    "subtes_label": "TKP (Tes Karakteristik Pribadi)",
+    "subtes_label": "TKP (Karakteristik Pribadi)",
     "minggu_rilis": "Tersedia",
     "status": "ready",
     "durasi_menit": 40,

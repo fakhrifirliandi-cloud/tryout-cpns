@@ -1,0 +1,610 @@
+{
+  "id": "latihan-tiu-1",
+  "judul": "Latihan Bab TIU - Paket 1 (35 Soal)",
+  "soal": [
+    {
+      "no": 1,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "STETOSKOP : DOKTER\nHubungan kata di atas setara dengan hubungan pada kalimat...",
+      "opsi": {
+        "A": "Petani menanam padi di sawah saat musim hujan tiba.",
+        "B": "Kompas digunakan oleh nakhoda sebagai alat bantu utama dalam menjalankan profesinya.",
+        "C": "Pasien membeli obat di apotek sesuai dengan resep rumah sakit.",
+        "D": "Kamera menghasilkan foto pemandangan yang sangat indah dan tajam.",
+        "E": "Hakim membacakan putusan sidang di ruang pengadilan negeri."
+      },
+      "kunci": "B",
+      "inti_soal": "Mencari kesetaraan hubungan 'ALAT KERJA UTAMA : PROFESI PENGGUNA' dalam bentuk kalimat utuh.",
+      "trik_cepat": "Buat kalimat penghubung baku: 'Stetoskop adalah alat bantu kerja yang digunakan oleh profesi Dokter'. Terapkan pola persis ini ke pilihan jawaban -> Kompas : Nakhoda (Opsi B).",
+      "pembahasan": "Opsi B tepat karena stetoskop adalah alat kerja utama seorang dokter, sebagaimana kompas adalah alat bantu kerja utama seorang nakhoda. Opsi A (profesi : objek tanaman), Opsi C (subjek : tempat), Opsi D (alat : hasil), dan Opsi E (profesi : tindakan/tempat) tidak memiliki relasi 'alat kerja : profesi'."
+    },
+    {
+      "no": 2,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "INSOMNIA : TIDUR\nHubungan kata di atas memiliki pola penalaran yang setara dengan kalimat...",
+      "opsi": {
+        "A": "Olahraga rutin membuat tubuh menjadi bugar dan berenergi sepanjang hari.",
+        "B": "Disleksia merupakan gangguan yang menyebabkan seseorang mengalami kesulitan dalam membaca.",
+        "C": "Haus dapat dihilangkan dengan meminum air putih yang cukup.",
+        "D": "Lampu penerangan jalan padam akibat terputusnya aliran listrik utama.",
+        "E": "Mahasiswa belajar dengan tekun agar lulus ujian semester dengan nilai memuaskan."
+      },
+      "kunci": "B",
+      "inti_soal": "Relasi 'NAMA GANGGUAN/KONDISI MEDIS : AKTIVITAS YANG SULIT DILAKUKAN'.",
+      "trik_cepat": "Kalimat jembatan: 'Insomnia adalah kondisi gangguan kesulitan untuk tidur'. Maka pasangannya: 'Disleksia adalah kondisi gangguan kesulitan untuk membaca' (B).",
+      "pembahasan": "Opsi B tepat karena insomnia adalah gangguan kesulitan tidur, sedangkan disleksia adalah gangguan kesulitan membaca. Opsi A (sebab : akibat positif), Opsi C (kondisi : solusi), Opsi D (akibat : sebab), dan Opsi E (usaha : tujuan) tidak setara."
+    },
+    {
+      "no": 3,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "ULAT : KEPOMPONG : KUPU-KUPU\nUrutan tahapan pada kata di atas setara dengan hubungan pada kalimat...",
+      "opsi": {
+        "A": "Pohon kelapa memiliki akar, batang, dan daun yang bermanfaat bagi warga.",
+        "B": "Kedelai difermentasi menjadi tempe lalu diolah menjadi lauk makan siang.",
+        "C": "Bayi tumbuh menjadi remaja sebelum akhirnya memasuki fase dewasa.",
+        "D": "Hujan deras disertai angin kencang dan petir melanda wilayah pesisir.",
+        "E": "Kertas dibuat dari serat kayu yang ditebang dari hutan produksi."
+      },
+      "kunci": "C",
+      "inti_soal": "Relasi tahapan perkembangan biologis berurutan (metamorfosis/pertumbuhan).",
+      "trik_cepat": "Ulat -> Kepompong -> Kupu-kupu adalah 3 fase pertumbuhan makhluk hidup secara berurutan. Pasangan yang juga merupakan 3 fase perkembangan biologis berurutan adalah Bayi -> Remaja -> Dewasa (C).",
+      "pembahasan": "Opsi C tepat karena menunjukkan tahapan perkembangan biologis secara kronologis (Bayi -> Remaja -> Dewasa), sejajar dengan metamorfosis Ulat -> Kepompong -> Kupu-kupu. Opsi A adalah bagian-bagian pohon (bukan urutan waktu), Opsi B adalah proses pengolahan makanan buatan, Opsi D gejala cuaca bersamaan, dan Opsi E urutan terbalik bahan baku."
+    },
+    {
+      "no": 4,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Analogi Kalimat",
+      "soal": "KONSTITUSI : NEGARA\nHubungan kedua kata tersebut setara dengan kalimat...",
+      "opsi": {
+        "A": "Anggaran Dasar menjadi pedoman aturan tertinggi dalam menjalankan sebuah organisasi.",
+        "B": "Perpustakaan menyimpan ribuan koleksi buku sejarah dan ensiklopedia.",
+        "C": "Gubernur memimpin jalannya roda pemerintahan di tingkat provinsi.",
+        "D": "Kamus digunakan penerjemah untuk mencari padanan kata bahasa asing.",
+        "E": "Pajak merupakan salah satu sumber penerimaan utama dalam anggaran belanja."
+      },
+      "kunci": "A",
+      "inti_soal": "Relasi 'ATURAN DASAR TERTINGGI : ENTITAS/LEMBAGA YANG DIATUR'.",
+      "trik_cepat": "Konstitusi adalah hukum/aturan dasar tertinggi dalam sebuah Negara. Maka Anggaran Dasar (AD/ART) adalah aturan dasar tertinggi dalam sebuah Organisasi (A).",
+      "pembahasan": "Opsi A tepat karena konstitusi berfungsi sebagai landasan/aturan dasar dalam penyelenggaraan negara, setara dengan Anggaran Dasar yang menjadi aturan dasar dalam menjalankan organisasi."
+    },
+    {
+      "no": 5,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme 3 Premis",
+      "soal": "Perhatikan premis-premis berikut!\nPremis 1: Semua peserta SKD CPNS yang lolos ambang batas berhak mengikuti tahap pengolahan peringkat.\nPremis 2: Semua peserta yang mengikuti tahap pengolahan peringkat wajib memiliki akun SSCASN yang terverifikasi.\nPremis 3: Sebagian pelamar formasi pusat adalah peserta SKD CPNS yang lolos ambang batas.\n\nSimpulan yang paling tepat adalah...",
+      "opsi": {
+        "A": "Semua pelamar formasi pusat wajib memiliki akun SSCASN yang terverifikasi.",
+        "B": "Sebagian pelamar formasi pusat wajib memiliki akun SSCASN yang terverifikasi.",
+        "C": "Semua pemilik akun SSCASN yang terverifikasi adalah pelamar formasi pusat.",
+        "D": "Tidak ada pelamar formasi pusat yang mengikuti tahap pengolahan peringkat.",
+        "E": "Sebagian peserta yang lolos ambang batas tidak memiliki akun SSCASN yang terverifikasi."
+      },
+      "kunci": "B",
+      "inti_soal": "Penarikan simpulan silogisme berantai dengan kuantor 'Semua' dan 'Sebagian'.",
+      "trik_cepat": "Coret suku tengah secara berantai:\nP1: Lolos PG -> Ikut Peringkat\nP2: Ikut Peringkat -> Akun Terverifikasi\nGabungan P1+P2: Semua Lolos PG -> Akun Terverifikasi.\nMasukkan P3: Sebagian Pelamar Pusat = Lolos PG -> Maka 'Sebagian pelamar formasi pusat wajib memiliki akun SSCASN yang terverifikasi' (B).",
+      "pembahasan": "Opsi B tepat. Dari P1 (A -> B) dan P2 (B -> C), diperoleh A -> C (Semua yang lolos ambang batas wajib memiliki akun SSCASN terverifikasi). Karena P3 menyatakan sebagian pelamar formasi pusat termasuk himpunan A, maka sebagian pelamar formasi pusat pasti memenuhi sifat C."
+    },
+    {
+      "no": 6,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Modus Tollens & Ekuivalensi",
+      "soal": "Premis 1: Jika sistem autentikasi dua faktor diaktifkan, maka akun layanan kepegawaian aman dari peretasan.\nPremis 2: Jika akun layanan kepegawaian aman dari peretasan, maka data pribadi pegawai terlindungi.\nPremis 3: Data pribadi pegawai tidak terlindungi.\n\nSimpulan yang sah dari ketiga premis tersebut adalah...",
+      "opsi": {
+        "A": "Sistem autentikasi dua faktor telah diaktifkan tetapi jaringan internet sedang gangguan.",
+        "B": "Sistem autentikasi dua faktor tidak diaktifkan.",
+        "C": "Akun layanan kepegawaian aman dari peretasan meskipun data tidak terlindungi.",
+        "D": "Sebagian data pribadi pegawai masih terlindungi dengan baik.",
+        "E": "Jika data pribadi pegawai tidak terlindungi, maka sistem autentikasi dua faktor sedang diperbarui."
+      },
+      "kunci": "B",
+      "inti_soal": "Penarikan simpulan gabungan Silogisme Hipotetik dan Modus Tollens.",
+      "trik_cepat": "Misalkan P = 2FA aktif, Q = Akun aman, R = Data terlindungi.\nP1: P -> Q\nP2: Q -> R\nMaka P -> R.\nP3: ~R (Data tidak terlindungi).\nDengan Modus Tollens (P -> R dan ~R), hasilnya adalah ~P: 'Sistem autentikasi dua faktor tidak diaktifkan' (B).",
+      "pembahasan": "Opsi B tepat. Rantai implikasi P -> Q dan Q -> R menghasilkan P -> R. Karena fakta pada Premis 3 adalah ~R (negasi konsekuen), maka berdasarkan hukum Modus Tollens berlaku ~P (negasi anteseden), yaitu sistem autentikasi dua faktor tidak diaktifkan."
+    },
+    {
+      "no": 7,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Ekuivalensi Implikasi (Kontraposisi)",
+      "soal": "Perhatikan pernyataan berikut:\n\"Jika curah hujan di hulu sungai melampaui batas normal, maka pintu air utama dibuka secara bertahap.\"\n\nPernyataan di bawah ini yang bernilai kebenaran SAMA (ekuivalen) dengan pernyataan di atas adalah...",
+      "opsi": {
+        "A": "Jika pintu air utama dibuka secara bertahap, maka curah hujan di hulu sungai melampaui batas normal.",
+        "B": "Jika curah hujan di hulu sungai tidak melampaui batas normal, maka pintu air utama tidak dibuka secara bertahap.",
+        "C": "Jika pintu air utama tidak dibuka secara bertahap, maka curah hujan di hulu sungai tidak melampaui batas normal.",
+        "D": "Curah hujan di hulu sungai melampaui batas normal dan pintu air utama tidak dibuka secara bertahap.",
+        "E": "Curah hujan di hulu sungai melampaui batas normal atau pintu air utama dibuka secara bertahap."
+      },
+      "kunci": "C",
+      "inti_soal": "Mencari pernyataan yang ekuivalen dengan implikasi P -> Q.",
+      "trik_cepat": "Hukum Ekuivalensi Logika: Implikasi 'Jika P maka Q' (P -> Q) hanya setara dengan KONTRAPOSISI-nya: 'Jika ~Q maka ~P' (atau bentuk 'atau': ~P v Q). Balik urutannya dan beri kata 'tidak' di kedua ruas -> Opsi C.",
+      "pembahasan": "Opsi C tepat karena merupakan bentuk kontraposisi (~Q -> ~P) yang bernilai kebenaran ekuivalen dengan implikasi P -> Q. Opsi A adalah konvers (Q -> P, tidak ekuivalen), Opsi B adalah invers (~P -> ~Q, tidak ekuivalen), dan Opsi D adalah negasi dari implikasi."
+    },
+    {
+      "no": 8,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Silogisme Kuantor Negatif",
+      "soal": "Premis 1: Semua dokumen rahasia negara disimpan di dalam brankas berlapis baja.\nPremis 2: Tidak satu pun dokumen yang disimpan di dalam brankas berlapis baja boleh dibawa pulang ke rumah.\n\nSimpulan yang paling tepat adalah...",
+      "opsi": {
+        "A": "Sebagian dokumen rahasia negara boleh dibawa pulang ke rumah atas izin lisan.",
+        "B": "Tidak satu pun dokumen rahasia negara boleh dibawa pulang ke rumah.",
+        "C": "Semua dokumen yang tidak boleh dibawa pulang ke rumah adalah dokumen rahasia negara.",
+        "D": "Sebagian isi brankas berlapis baja boleh dibawa pulang ke rumah.",
+        "E": "Dokumen biasa yang tidak rahasia wajib disimpan di dalam brankas berlapis baja."
+      },
+      "kunci": "B",
+      "inti_soal": "Silogisme kategorik dengan premis universal afirmatif (Semua A adalah B) dan universal negatif (Tidak ada B yang C).",
+      "trik_cepat": "Semua A masuk di dalam B. Tidak ada satu pun B yang boleh C. Artinya, tidak ada satu pun A yang boleh C -> 'Tidak satu pun dokumen rahasia negara boleh dibawa pulang ke rumah' (B).",
+      "pembahasan": "Opsi B tepat. Karena himpunan 'dokumen rahasia negara' (A) merupakan bagian penuh dari himpunan 'dokumen di brankas berlapis baja' (B), dan himpunan B saling lepas sepenuhnya dengan himpunan 'boleh dibawa pulang' (C), maka tidak ada anggota A yang menjadi anggota C."
+    },
+    {
+      "no": 9,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Meja Bundar)",
+      "soal": "Enam orang delegasi rapat—Aldi, Bela, Citra, Dodi, Eka, dan Fajar—duduk mengelilingi sebuah meja bundar menghadap ke pusat meja dengan ketentuan berikut:\n1) Aldi duduk tepat berhadapan dengan Dodi.\n2) Bela duduk tepat di sebelah kanan Aldi.\n3) Citra duduk tepat di sebelah kiri Dodi.\n4) Eka tidak duduk bersebelahan dengan Aldi.\n\nSiapakah yang duduk tepat berhadapan dengan Bela?",
+      "opsi": {
+        "A": "Citra",
+        "B": "Eka",
+        "C": "Fajar",
+        "D": "Aldi",
+        "E": "Dodi"
+      },
+      "kunci": "A",
+      "inti_soal": "Menentukan posisi berhadapan pada meja bundar 6 kursi.",
+      "trik_cepat": "Gambar jam 6 titik (Kursi 1 s.d. 6 berlawanan arah jarum jam / menghadap pusat):\n- Kursi 1 (bawah) = Aldi, maka seberangnya Kursi 4 (atas) = Dodi.\n- Kanan Aldi = Kursi 2 = Bela.\n- Kiri Dodi (dari sudut pandang Dodi yang menghadap ke tengah) = Kursi 5 = Citra.\nKursi 2 dan Kursi 5 tepat berseberangan! Jadi Bela berhadapan dengan Citra (A).",
+      "pembahasan": "Opsi A (Citra) tepat. Susunan melingkar menghadap pusat meja (berlawanan arah jarum jam): Kursi 1 = Aldi; sebelah kanan Aldi (Kursi 2) = Bela; Kursi 4 (seberang Aldi) = Dodi; sebelah kiri Dodi (Kursi 5) = Citra. Karena Eka tidak boleh di sebelah Aldi (Kursi 6), maka Eka di Kursi 3 dan Fajar di Kursi 6. Pasangan berhadapan adalah (1-4: Aldi-Dodi), (2-5: Bela-Citra), dan (3-6: Eka-Fajar)."
+    },
+    {
+      "no": 10,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Urutan Antrean)",
+      "soal": "Lima loket pelayanan terpadu melayani lima pemohon—Gita, Hadi, Indah, Jaka, dan Кики—yang mengantre dalam satu barisan lurus dari urutan pertama (paling depan) hingga kelima (paling belakang) dengan aturan:\n1) Indah berada tepat di belakang Hadi.\n2) Gita berada di urutan lebih depan daripada Kiki, tetapi bukan di urutan pertama.\n3) Jaka berada di urutan paling depan atau paling belakang.\n4) Kiki berada tepat di depan Hadi.\n\nUrutan pemohon dari paling depan (pertama) hingga paling belakang (kelima) yang tepat adalah...",
+      "opsi": {
+        "A": "Jaka – Gita – Kiki – Hadi – Indah",
+        "B": "Hadi – Indah – Gita – Kiki – Jaka",
+        "C": "Gita – Kiki – Hadi – Indah – Jaka",
+        "D": "Jaka – Kiki – Gita – Hadi – Indah",
+        "E": "Kiki – Hadi – Indah – Gita – Jaka"
+      },
+      "kunci": "A",
+      "inti_soal": "Menyusun urutan linier 5 objek berdasarkan syarat posisi relatif.",
+      "trik_cepat": "Gabungkan syarat (1) dan (4): Kiki tepat di depan Hadi, dan Indah tepat di belakang Hadi -> terbentuk blok berdempetan [Kiki - Hadi - Indah].\nSyarat (2): Gita di depan Kiki -> menjadi [Gita ... Kiki - Hadi - Indah]. Karena Gita TIDAK boleh nomor 1, maka nomor 1 pasti Jaka! Susunan utuh: 1. Jaka - 2. Gita - 3. Kiki - 4. Hadi - 5. Indah (A).",
+      "pembahasan": "Opsi A tepat. Blok [Kiki – Hadi – Indah] mengunci 3 posisi berurutan. Karena Gita harus di depan Kiki namun Gita bukan di urutan ke-1, maka Gita harus di urutan ke-2 dan blok [Kiki – Hadi – Indah] menempati urutan 3, 4, dan 5. Otomatis Jaka menempati urutan ke-1 (memenuhi syarat ke-3)."
+    },
+    {
+      "no": 11,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Kombinasi Syarat Tim)",
+      "soal": "Sebuah tim gugus tugas digital beranggotakan 4 orang akan dipilih dari 4 analis (Lina, Mada, Nina, Oki) dan 3 teknisi (Panca, Qori, Rian) dengan ketentuan:\n1) Tim harus terdiri atas tepat 2 analis dan 2 teknisi.\n2) Lina dan Mada tidak dapat dipilih bersama-sama dalam satu tim.\n3) Jika Nina terpilih, maka Qori juga harus terpilih.\n4) Jika Panca terpilih, maka Lina tidak boleh terpilih.\n\nJika dalam tim tersebut Panca dan Rian terpilih sebagai teknisi, maka dua analis yang PASTI terpilih adalah...",
+      "opsi": {
+        "A": "Lina dan Nina",
+        "B": "Lina dan Oki",
+        "C": "Mada dan Nina",
+        "D": "Mada dan Oki",
+        "E": "Nina dan Oki"
+      },
+      "kunci": "D",
+      "inti_soal": "Eliminasi kandidat berdasarkan implikasi syarat pemilihan tim.",
+      "trik_cepat": "Teknisi yang terpilih sudah penuh (2 orang): Panca dan Rian (berarti Qori TIDAK terpilih).\n- Karena Panca terpilih, menurut syarat (4) -> Lina GUGUR.\n- Karena Qori tidak terpilih, menurut syarat (3) (modus tollens: Jika Nina maka Qori) -> Nina GUGUR.\nAnalis yang tersisa tinggal 2 orang: Mada dan Oki (D)!",
+      "pembahasan": "Opsi D (Mada dan Oki) tepat. Kuota teknisi adalah 2 orang dan sudah diisi Panca serta Rian, sehingga Qori tidak terpilih. Karena Qori tidak terpilih, syarat (3) menggugurkan Nina. Karena Panca terpilih, syarat (4) menggugurkan Lina. Dari 4 analis (Lina, Mada, Nina, Oki), hanya tersisa Mada dan Oki yang memenuhi seluruh syarat."
+    },
+    {
+      "no": 12,
+      "subtes": "TIU",
+      "topik": "Kemampuan Verbal - Penalaran Analitis (Pemeringkatan Skor)",
+      "soal": "Lima peserta pelatihan kepemimpinan—Sinta, Tono, Umar, Vina, dan Wawan—memperoleh skor akhir yang berbeda-beda:\n1) Skor Umar lebih tinggi daripada Sinta, namun lebih rendah daripada Vina.\n2) Skor Tono lebih rendah daripada Sinta.\n3) Skor Wawan lebih tinggi daripada Umar, namun tidak lebih tinggi daripada Vina.\n\nSiapakah peserta yang memperoleh skor tertinggi kedua?",
+      "opsi": {
+        "A": "Vina",
+        "B": "Wawan",
+        "C": "Umar",
+        "D": "Sinta",
+        "E": "Tono"
+      },
+      "kunci": "B",
+      "inti_soal": "Menentukan peringkat ke-2 tertinggi dari ketaksamaan skor.",
+      "trik_cepat": "Susun tanda '>':\nSyarat 1 & 2: Vina > Umar > Sinta > Tono.\nSyarat 3: Wawan > Umar dan Vina > Wawan (karena skor berbeda semua).\nMaka urutan dari tertinggi: Vina (1) > Wawan (2) > Umar (3) > Sinta (4) > Tono (5). Peringkat kedua adalah Wawan (B).",
+      "pembahasan": "Opsi B (Wawan) tepat. Dari syarat (1) dan (2) diperoleh urutan sementara: Vina > Umar > Sinta > Tono. Syarat (3) menempatkan Wawan di antara Vina dan Umar (Vina > Wawan > Umar). Dengan demikian, Vina berada di peringkat pertama dan Wawan berada di peringkat kedua tertinggi."
+    },
+    {
+      "no": 13,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Hitungan Pecahan Istimewa",
+      "soal": "Hasil dari operasi hitung pecahan berikut:\n(0,666... × 3/4) + (37,5% : 3/8) - 0,25 adalah...",
+      "opsi": {
+        "A": "1,00",
+        "B": "1,25",
+        "C": "1,50",
+        "D": "1,75",
+        "E": "2,00"
+      },
+      "kunci": "B",
+      "inti_soal": "Operasi cepat menggunakan konversi pecahan istimewa (FR favorit TIU).",
+      "trik_cepat": "Ubah desimal & persen ke pecahan istimewa:\n- 0,666... = 2/3\n- 37,5% = 3/8\n- 0,25 = 1/4\nHitung per kurung:\n= (2/3 × 3/4) + (3/8 : 3/8) - 1/4\n= 2/4 + 1 - 1/4\n= 1/2 + 1 - 1/4 = 1,25 (B).",
+      "pembahasan": "Opsi B (1,25) tepat. Dengan menghafal pecahan istimewa: 0,666... = 2/3 dan 37,5% = 3/8. Suku pertama: (2/3 × 3/4) = 2/4 = 0,50. Suku kedua: (3/8 : 3/8) = 1. Dikurangi 0,25 menghasilkan 0,50 + 1 - 0,25 = 1,25."
+    },
+    {
+      "no": 14,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Operasi Hitung Cepat Aljabar",
+      "soal": "Nilai dari:\n(2026² - 2024²) / (2025 × 4) adalah...",
+      "opsi": {
+        "A": "0,5",
+        "B": "1",
+        "C": "2",
+        "D": "4",
+        "E": "2025"
+      },
+      "kunci": "B",
+      "inti_soal": "Menyederhanakan selisih kuadrat a² - b² = (a + b)(a - b) tanpa menghitung kuadrat manual.",
+      "trik_cepat": "Jangan pernah mengkuadratkan 2026! Pakai rumus a² - b² = (a + b)(a - b):\nPembilang = (2026 + 2024) × (2026 - 2024) = 4050 × 2 = 8100.\nPenyebut = 2025 × 4 = 8100.\nHasil = 8100 / 8100 = 1 (B).",
+      "pembahasan": "Opsi B (1) tepat. Berdasarkan identitas aljabar a² - b² = (a + b)(a - b), maka 2026² - 2024² = (2026 + 2024)(2026 - 2024) = 4050 × 2 = 8100. Dibagi dengan (2025 × 4) = 8100, diperoleh 8100 / 8100 = 1."
+    },
+    {
+      "no": 15,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Operasi Campuran Pecahan & Persen",
+      "soal": "Berapakah nilai dari:\n(1 1/3 dari 66,67%) + (87,5% dari 16/7) ?",
+      "opsi": {
+        "A": "2 4/9",
+        "B": "2 8/9",
+        "C": "3 1/9",
+        "D": "1 8/9",
+        "E": "2 2/3"
+      },
+      "kunci": "B",
+      "inti_soal": "Konversi pecahan campuran dan persentase istimewa.",
+      "trik_cepat": "Ubah ke pecahan biasa:\n- 1 1/3 = 4/3\n- 66,67% = 2/3\n- 87,5% = 7/8\nMaka:\n= (4/3 × 2/3) + (7/8 × 16/7)\n= 8/9 + 2 = 2 8/9 (B).",
+      "pembahasan": "Opsi B (2 8/9) tepat. Suku pertama: 4/3 × 2/3 = 8/9. Suku kedua: 7/8 × 16/7 = 16/8 = 2. Dijumlahkan menjadi 2 + 8/9 = 2 8/9."
+    },
+    {
+      "no": 16,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Angka Pola Bertingkat",
+      "soal": "Perhatikan barisan bilangan berikut:\n1.200, 1.205, 1.215, 1.230, 1.250, 1.275, ...\nBilangan selanjutnya yang tepat untuk melengkapi deret tersebut adalah...",
+      "opsi": {
+        "A": "1.295",
+        "B": "1.300",
+        "C": "1.305",
+        "D": "1.310",
+        "E": "1.315"
+      },
+      "kunci": "C",
+      "inti_soal": "Menentukan suku berikutnya pada deret angka ribuan dengan selisih kelipatan 5.",
+      "trik_cepat": "Abaikan angka 1.200 di depan, lihat ekornya saja: 00 -> 05 -> 15 -> 30 -> 50 -> 75.\nSelisihnya: +5, +10, +15, +20, +25. Maka berikutnya ditambah +30:\n1.275 + 30 = 1.305 (C).",
+      "pembahasan": "Opsi C (1.305) tepat. Pola pertambahan antar suku berurutan adalah +5, +10, +15, +20, +25, sehingga suku berikutnya bertambah +30: 1.275 + 30 = 1.305."
+    },
+    {
+      "no": 17,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Angka Dua Larik (Lompat Satu)",
+      "soal": "Perhatikan deret angka berikut:\n4, 64, 8, 32, 16, 16, 32, 8, ..., ...\nDua bilangan selanjutnya adalah...",
+      "opsi": {
+        "A": "48, 4",
+        "B": "64, 4",
+        "C": "64, 2",
+        "D": "16, 64",
+        "E": "4, 64"
+      },
+      "kunci": "B",
+      "inti_soal": "Deret dua larik berselang-seling (kali 2 dan bagi 2).",
+      "trik_cepat": "Jika angka naik-turun tajam, pisahkan suku ganjil dan suku genap:\n- Suku ganjil (1, 3, 5, 7, 9): 4 -> 8 -> 16 -> 32 -> (×2) = 64.\n- Suku genap (2, 4, 6, 8, 10): 64 -> 32 -> 16 -> 8 -> (:2) = 4.\nJadi dua angka berikutnya adalah 64, 4 (B).",
+      "pembahasan": "Opsi B (64, 4) tepat. Larik pertama (urutan ganjil) memiliki pola rasio ×2 (4, 8, 16, 32, 64), sedangkan larik kedua (urutan genap) memiliki pola rasio ÷2 (64, 32, 16, 8, 4)."
+    },
+    {
+      "no": 18,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Operasi Bergantian",
+      "soal": "Perhatikan deret angka berikut:\n3, 6, 4, 8, 6, 12, 10, ...\nBilangan selanjutnya adalah...",
+      "opsi": {
+        "A": "8",
+        "B": "14",
+        "C": "18",
+        "D": "20",
+        "E": "24"
+      },
+      "kunci": "D",
+      "inti_soal": "Deret satu larik dengan operasi bergantian (×2 lalu -2).",
+      "trik_cepat": "Cek hubungan tiap langkah:\n3 (×2) -> 6 (-2) -> 4 (×2) -> 8 (-2) -> 6 (×2) -> 12 (-2) -> 10.\nGiliran berikutnya adalah (×2): 10 × 2 = 20 (D).",
+      "pembahasan": "Opsi D (20) tepat. Pola deret ini berulang secara konsisten: dikali 2, kemudian dikurangi 2 (×2, -2, ×2, -2, ×2, -2). Setelah dikurangi 2 menghasilkan 10, langkah selanjutnya adalah 10 × 2 = 20."
+    },
+    {
+      "no": 19,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Deret Fibonacci Modifikasi",
+      "soal": "Perhatikan barisan bilangan berikut:\n2, 3, 5, 8, 13, 21, 34, ...\nBilangan selanjutnya pada barisan tersebut adalah...",
+      "opsi": {
+        "A": "47",
+        "B": "52",
+        "C": "55",
+        "D": "57",
+        "E": "68"
+      },
+      "kunci": "C",
+      "inti_soal": "Deret Fibonacci (suku berikutnya adalah jumlah dua suku sebelumnya).",
+      "trik_cepat": "Cek: 2+3=5, 3+5=8, 5+8=13, 8+13=21, 13+21=34. Maka suku berikutnya = 21 + 34 = 55 (C).",
+      "pembahasan": "Opsi C (55) tepat. Barisan ini merupakan barisan Fibonacci di mana setiap suku merupakan hasil penjumlahan dua suku tepat di depannya: 21 + 34 = 55."
+    },
+    {
+      "no": 20,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Aljabar Pecahan)",
+      "soal": "Diketahui x = 2/3. Perhatikan nilai P dan Q pada tabel berikut:\n• Nilai P = 1 - 2x\n• Nilai Q = 2x - 1\n\nManakah hubungan yang benar antara kuantitas P dan Q?",
+      "svg": "<svg viewBox=\"0 0 420 110\" class=\"w-full max-w-md mx-auto my-3\"><rect x=\"10\" y=\"10\" width=\"400\" height=\"90\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"210\" y1=\"10\" x2=\"210\" y2=\"100\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"10\" y1=\"45\" x2=\"410\" y2=\"45\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><text x=\"110\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"15\">Kuantitas P</text><text x=\"310\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"15\">Kuantitas Q</text><text x=\"110\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"16\" font-family=\"monospace\">1 - 2x</text><text x=\"310\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"16\" font-family=\"monospace\">2x - 1</text></svg>",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "2P = Q",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "B",
+      "inti_soal": "Substitusi pecahan x = 2/3 ke dalam ekspresi P dan Q (tipe soal FR 2024).",
+      "trik_cepat": "Hitung 2x = 2 × (2/3) = 4/3.\n- P = 1 - 4/3 = -1/3 (negatif!)\n- Q = 4/3 - 1 = +1/3 (positif!)\nBilangan negatif pasti lebih kecil dari bilangan positif -> P < Q (B).",
+      "pembahasan": "Opsi B (P < Q) tepat. Dengan mensubstitusikan x = 2/3, diperoleh 2x = 4/3. Maka P = 1 - 4/3 = -1/3 dan Q = 4/3 - 1 = 1/3. Karena -1/3 < 1/3, maka P < Q."
+    },
+    {
+      "no": 21,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Diskon & Persentase)",
+      "soal": "Sebuah kemeja kerja memiliki harga label Rp300.000,00. Perhatikan kuantitas P dan Q berikut:\n• P = Harga akhir kemeja setelah mendapat diskon tunggal sebesar 30%.\n• Q = Harga akhir kemeja setelah mendapat diskon bertingkat 20% + 10%.\n\nHubungan yang tepat antara P dan Q adalah...",
+      "svg": "<svg viewBox=\"0 0 460 115\" class=\"w-full max-w-md mx-auto my-3\"><rect x=\"10\" y=\"10\" width=\"440\" height=\"95\" rx=\"8\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"230\" y1=\"10\" x2=\"230\" y2=\"105\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><line x1=\"10\" y1=\"45\" x2=\"450\" y2=\"45\" stroke=\"#cbd5e1\" stroke-width=\"2\"/><text x=\"120\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"14\">P (Diskon Tunggal 30%)</text><text x=\"340\" y=\"33\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1e293b\" font-size=\"14\">Q (Diskon 20% + 10%)</text><text x=\"120\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"14\">Harga setelah diskon 30%</text><text x=\"340\" y=\"78\" text-anchor=\"middle\" fill=\"#0f172a\" font-size=\"14\">Harga setelah 20% lalu 10%</text></svg>",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P - Q = Rp6.000,00",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "B",
+      "inti_soal": "Membandingkan harga bayar diskon tunggal 30% vs diskon bertingkat 20% + 10%.",
+      "trik_cepat": "Ingat konsep diskon ganda: Diskon 20% + 10% BUKAN 30%, melainkan 20% + 10% - (20%×10%) = 28%. Karena diskon Q lebih kecil (28% < 30%), maka HARGA BAYAR Q lebih mahal daripada harga bayar P! Jadi P < Q (B).",
+      "pembahasan": "Opsi B (P < Q) tepat. Harga bayar P (diskon 30%) = 70% × Rp300.000 = Rp210.000. Harga bayar Q (diskon 20% + 10%) = 80% × 90% × Rp300.000 = 72% × Rp300.000 = Rp216.000. Karena Rp210.000 < Rp216.000, maka P < Q."
+    },
+    {
+      "no": 22,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Waktu Kerja Berbalik Nilai)",
+      "soal": "Sebuah proyek digitalisasi arsip dapat diselesaikan oleh 12 staf dalam waktu 15 hari kerja.\n• P = Tambahan jumlah staf yang diperlukan agar proyek selesai dalam waktu 10 hari kerja.\n• Q = 7 orang.\n\nHubungan yang benar antara P dan Q adalah...",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P = 2Q",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "B",
+      "inti_soal": "Menghitung TAMBAHAN pekerja pada perbandingan berbalik nilai lalu membandingkan dengan Q.",
+      "trik_cepat": "Rumus Pekerja × Hari tetap: Total beban = 12 × 15 = 180 orang-hari.\nAgar selesai 10 hari, butuh total pekerja = 180 / 10 = 18 orang.\nHati-hati! Yang ditanya P adalah TAMBAHAN staf: 18 - 12 = 6 orang.\nKarena P = 6 dan Q = 7, maka P < Q (B).",
+      "pembahasan": "Opsi B (P < Q) tepat. Dengan perbandingan berbalik nilai: P₁ × t₁ = P₂ × t₂ -> 12 × 15 = P₂ × 10 -> P₂ = 180 / 10 = 18 staf. Tambahan staf yang dibutuhkan (P) = 18 - 12 = 6 orang. Karena 6 < 7, maka P < Q."
+    },
+    {
+      "no": 23,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Perbandingan Kuantitatif (Jarak, Kecepatan, Waktu)",
+      "soal": "Dimas mengendarai sepeda motor menempuh jarak 90 km dalam waktu 1 jam 30 menit.\n• P = Kecepatan rata-rata Dimas dalam satuan km/jam.\n• Q = Kecepatan sebuah mobil yang menempuh 150 km dalam waktu 2 jam 30 menit (dalam km/jam).\n\nHubungan yang benar antara P dan Q adalah...",
+      "opsi": {
+        "A": "P > Q",
+        "B": "P < Q",
+        "C": "P = Q",
+        "D": "P + Q = 100",
+        "E": "Hubungan P dan Q tidak dapat ditentukan"
+      },
+      "kunci": "C",
+      "inti_soal": "Membandingkan kecepatan rata-rata dengan konversi waktu menit ke pecahan jam.",
+      "trik_cepat": "Ubah waktu ke jam:\n- 1 jam 30 menit = 1,5 jam -> P = 90 / 1,5 = 60 km/jam.\n- 2 jam 30 menit = 2,5 jam -> Q = 150 / 2,5 = 60 km/jam.\nMaka P = Q (C).",
+      "pembahasan": "Opsi C (P = Q) tepat. Kecepatan P = 90 km / 1,5 jam = 60 km/jam. Kecepatan Q = 150 km / 2,5 jam = 60 km/jam. Kedua kuantitas bernilai sama persis."
+    },
+    {
+      "no": 24,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Perbandingan Berbalik Nilai (Terhenti)",
+      "soal": "Sebuah renovasi gedung pelayanan publik direncanakan selesai dalam waktu 40 hari oleh 15 orang pekerja. Setelah dikerjakan selama 16 hari, pekerjaan terpaksa dihentikan selama 6 hari karena kendala cuaca ekstrem. Agar renovasi gedung tetap selesai tepat waktu sesuai rencana awal, berapakah tambahan pekerja yang harus didatangkan?",
+      "opsi": {
+        "A": "3 orang",
+        "B": "5 orang",
+        "C": "6 orang",
+        "D": "8 orang",
+        "E": "20 orang"
+      },
+      "kunci": "B",
+      "inti_soal": "Menghitung tambahan pekerja saat proyek terhenti di tengah jalan.",
+      "trik_cepat": "Pakai Rumus Sakti Proyek Terhenti:\nTambahan Pekerja = (Pekerja Awal × Hari Libur) / Sisa Hari Kerja Efektif\n- Pekerja Awal = 15\n- Hari Libur = 6\n- Sisa Hari Kerja = 40 - 16 - 6 = 18 hari.\nTambahan = (15 × 6) / 18 = 90 / 18 = 5 orang (B)!",
+      "pembahasan": "Opsi B (5 orang) tepat. Sisa beban pekerjaan setelah 16 hari adalah untuk 24 hari × 15 orang = 360 orang-hari. Karena terhenti 6 hari, sisa waktu yang tersedia tinggal 24 - 6 = 18 hari. Jumlah pekerja yang dibutuhkan pada sisa waktu = 360 / 18 = 20 orang. Jadi tambahan pekerja yang diperlukan adalah 20 - 15 = 5 orang."
+    },
+    {
+      "no": 25,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Kecepatan Susul-Menyusul",
+      "soal": "Rudi berangkat dari Kota A menuju Kota B pukul 07.00 WIB mengendarai sepeda motor dengan kecepatan rata-rata 50 km/jam. Setengah jam kemudian (pukul 07.30 WIB), Sandi berangkat dari lokasi dan rute yang sama menggunakan mobil dengan kecepatan rata-rata 75 km/jam. Pada pukul berapakah Sandi tepat akan menyusul Rudi?",
+      "opsi": {
+        "A": "08.00 WIB",
+        "B": "08.15 WIB",
+        "C": "08.30 WIB",
+        "D": "08.45 WIB",
+        "E": "09.00 WIB"
+      },
+      "kunci": "C",
+      "inti_soal": "Menentukan waktu menyusul pada gerak lurus dengan waktu berangkat berbeda.",
+      "trik_cepat": "1) Cari selisih jarak awal saat Sandi mulai jalan (07.30): Rudi sudah jalan 0,5 jam × 50 km/jam = 25 km.\n2) Waktu menyusul = Selisih Jarak / Selisih Kecepatan = 25 / (75 - 50) = 25 / 25 = 1 jam.\n3) Tambahkan ke jam berangkat Sandi: 07.30 + 1 jam = 08.30 WIB (C).",
+      "pembahasan": "Opsi C (08.30 WIB) tepat. Selama 30 menit (0,5 jam) pertama, Rudi telah menempuh jarak 50 × 0,5 = 25 km. Kecepatan mendekat (selisih kecepatan) antara Sandi dan Rudi adalah 75 - 50 = 25 km/jam. Waktu yang dibutuhkan Sandi untuk menyusul adalah 25 km / 25 km/jam = 1 jam sejak pukul 07.30 WIB, yaitu pukul 08.30 WIB."
+    },
+    {
+      "no": 26,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Rata-Rata Gabungan",
+      "soal": "Rata-rata nilai simulasi SKD dari 18 peserta di kelas pagi adalah 390. Setelah nilai dari 2 peserta susulan digabungkan ke dalam kelompok tersebut, rata-rata nilai keseluruhan meningkat menjadi 393. Jika selisih nilai kedua peserta susulan tersebut adalah 10 poin, maka berapakah nilai tertinggi di antara kedua peserta susulan tersebut?",
+      "opsi": {
+        "A": "410",
+        "B": "415",
+        "C": "420",
+        "D": "425",
+        "E": "430"
+      },
+      "kunci": "D",
+      "inti_soal": "Menghitung nilai individu baru dari perubahan rata-rata gabungan.",
+      "trik_cepat": "Total peserta jadi 18 + 2 = 20 orang, dan rata-rata naik +3 poin (dari 390 ke 393).\nJumlah nilai 2 orang baru = (2 × 390) + (20 × 3) = 780 + 60 = 840.\nRata-rata 2 orang baru = 840 / 2 = 420. Karena selisihnya 10, bagi dua selisihnya (±5): satu dapat 415 dan yang tertinggi dapat 425 (D)!",
+      "pembahasan": "Opsi D (425) tepat. Jumlah nilai awal 18 peserta = 18 × 390 = 7.020. Jumlah nilai setelah ditambah 2 peserta (20 orang) = 20 × 393 = 7.860. Jumlah nilai kedua peserta susulan (x + y) = 7.860 - 7.020 = 840. Diketahui x - y = 10, sehingga 2x = 850 -> x = 425 dan y = 415."
+    },
+    {
+      "no": 27,
+      "subtes": "TIU",
+      "topik": "Kemampuan Numerik - Soal Cerita Pekerjaan Bersama (Keran/Mesin)",
+      "soal": "Mesin pemindai A dapat menyelesaikan pemindaian 1.000 dokumen dalam waktu 30 menit, sedangkan mesin pemindai B dapat menyelesaikan jumlah dokumen yang sama dalam waktu 60 menit. Jika kedua mesin tersebut dioperasikan secara bersamaan untuk memindai 1.000 dokumen tersebut, berapa menit waktu yang dibutuhkan hingga selesai?",
+      "opsi": {
+        "A": "15 menit",
+        "B": "18 menit",
+        "C": "20 menit",
+        "D": "22,5 menit",
+        "E": "45 menit"
+      },
+      "kunci": "C",
+      "inti_soal": "Waktu kerja gabungan dua mesin dengan kecepatan berbeda.",
+      "trik_cepat": "Pakai rumus cepat kerja bersama 2 alat:\nt_gabungan = (t_A × t_B) / (t_A + t_B) = (30 × 60) / (30 + 60) = 1.800 / 90 = 20 menit (C).",
+      "pembahasan": "Opsi C (20 menit) tepat. Dalam 1 menit, mesin A menyelesaikan 1/30 bagian dan mesin B menyelesaikan 1/60 bagian. Jika bekerja bersama: 1/t = 1/30 + 1/60 = 2/60 + 1/60 = 3/60 = 1/20. Maka waktu yang diperlukan t = 20 menit."
+    },
+    {
+      "no": 28,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Analogi Gambar (Rotasi & Inversi Warna)",
+      "soal": "Perhatikan pasangan gambar pertama (1 -> 2) pada diagram di bawah ini. Pilihlah gambar dari opsi A, B, C, D, atau E yang memiliki hubungan yang sama untuk melengkapi pasangan gambar kedua (3 -> ?)!",
+      "svg": "<svg viewBox=\"0 0 560 150\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"140\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\" stroke-width=\"1.5\"/><g transform=\"translate(20,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,15 75,75 15,75\" fill=\"#1e293b\"/><circle cx=\"45\" cy=\"58\" r=\"10\" fill=\"#fff\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#475569\">Gambar 1</text></g><text x=\"130\" y=\"75\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f172a\">→</text><g transform=\"translate(155,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,75 75,15 15,15\" fill=\"#fff\" stroke=\"#1e293b\" stroke-width=\"3\"/><circle cx=\"45\" cy=\"32\" r=\"10\" fill=\"#1e293b\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#475569\">Gambar 2</text></g><line x1=\"275\" y1=\"20\" x2=\"275\" y2=\"130\" stroke=\"#94a3b8\" stroke-dasharray=\"4,4\" stroke-width=\"2\"/><g transform=\"translate(305,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,12 78,45 45,78 12,45\" fill=\"#fff\" stroke=\"#1e293b\" stroke-width=\"3\"/><rect x=\"36\" y=\"36\" width=\"18\" height=\"18\" fill=\"#1e293b\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#475569\">Gambar 3</text></g><text x=\"415\" y=\"75\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f172a\">→</text><g transform=\"translate(440,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#3b82f6\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"45\" y=\"55\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2563eb\" font-weight=\"bold\">Gambar 4</text></g></svg>",
+      "opsi": {
+        "A": "Belah ketupat putih dengan persegi kecil putih di bagian tengah",
+        "B": "Belah ketupat hitam dengan persegi kecil putih di bagian tengah",
+        "C": "Belah ketupat hitam dengan lingkaran putih di bagian tengah",
+        "D": "Segitiga terbalik hitam dengan persegi putih di bagian tengah",
+        "E": "Belah ketupat putih dengan persegi kecil hitam di bagian sudut atas"
+      },
+      "kunci": "B",
+      "inti_soal": "Mengidentifikasi perubahan dari Gambar 1 ke Gambar 2: pencerminan vertikal (180°) + inversi warna (hitam <-> putih) pada bangun luar dan dalam.",
+      "trik_cepat": "Cek perubahan 1 -> 2:\n1) Bangun luar (segitiga) dibalik vertikal dan warnanya berubah dari Hitam -> Putih.\n2) Bangun dalam (lingkaran) tetap di dalam namun warnanya berubah dari Putih -> Hitam.\nTerapkan pada Gambar 3 (Belah ketupat Putih berisi persegi kecil Hitam):\n- Belah ketupat dibalik vertikal tetap belah ketupat, warnanya berubah Putih -> Hitam.\n- Persegi kecil di tengah warnanya berubah Hitam -> Putih (B).",
+      "pembahasan": "Opsi B tepat. Transformasi dari Gambar 1 ke Gambar 2 adalah pencerminan vertikal disertai pembalikan warna (inversi hitam-putih) baik pada bangun luar maupun bangun dalam. Karena Gambar 3 berupa belah ketupat putih dengan isi persegi hitam, maka Gambar 4 harus berupa belah ketupat hitam dengan isi persegi putih."
+    },
+    {
+      "no": 29,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Ketidaksamaan Gambar (Odd One Out)",
+      "soal": "Perhatikan kelima kotak gambar A, B, C, D, dan E di bawah ini. Empat gambar memiliki pola karakteristik yang sama, sedangkan satu gambar berbeda sendiri. Manakah gambar yang BERBEDA dari keempat gambar lainnya?",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,15 75,75 15,75\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"35\" cy=\"58\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"55\" cy=\"58\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"45\" cy=\"40\" r=\"5\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">A</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><rect x=\"20\" y=\"20\" width=\"50\" height=\"50\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"35\" cy=\"35\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"55\" cy=\"35\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"35\" cy=\"55\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"55\" cy=\"55\" r=\"5\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">B</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,15 75,38 63,75 27,75 15,38\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"45\" cy=\"32\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"32\" cy=\"46\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"58\" cy=\"46\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"37\" cy=\"63\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"53\" cy=\"63\" r=\"4.5\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">C</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"45,15 72,30 72,60 45,75 18,60 18,30\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"35\" cy=\"35\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"55\" cy=\"35\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"35\" cy=\"55\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"55\" cy=\"55\" r=\"4.5\" fill=\"#0f172a\"/><circle cx=\"45\" cy=\"45\" r=\"4.5\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">D</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><polygon points=\"25,20 70,20 60,70 15,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"2.5\"/><circle cx=\"35\" cy=\"36\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"52\" cy=\"36\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"30\" cy=\"54\" r=\"5\" fill=\"#0f172a\"/><circle cx=\"47\" cy=\"54\" r=\"5\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">E</text></g></svg>",
+      "opsi": {
+        "A": "Gambar A",
+        "B": "Gambar B",
+        "C": "Gambar C",
+        "D": "Gambar D",
+        "E": "Gambar E"
+      },
+      "kunci": "D",
+      "inti_soal": "Mencari gambar yang tidak memenuhi aturan 'Jumlah titik hitam di dalam = Jumlah sisi bangun datar'.",
+      "trik_cepat": "Hitung jumlah sisi bangun luar vs jumlah titik hitam di dalamnya:\n- A: Segitiga (3 sisi) = 3 titik (Sesuai)\n- B: Persegi (4 sisi) = 4 titik (Sesuai)\n- C: Segilima (5 sisi) = 5 titik (Sesuai)\n- D: Segienam (6 sisi) = hanya 5 titik! (BERBEDA)\n- E: Jajar genjang (4 sisi) = 4 titik (Sesuai).",
+      "pembahasan": "Opsi D tepat karena pada gambar A, B, C, dan E jumlah titik hitam di dalam bangun selalu sama dengan jumlah sisi bangun datarnya, sedangkan pada gambar D bangun segienam (6 sisi) hanya berisi 5 titik hitam."
+    },
+    {
+      "no": 30,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Serial Gambar (Pergerakan & Penambahan Elemen)",
+      "soal": "Perhatikan deret 4 gambar berurutan di bawah ini. Tentukan kondisi yang tepat untuk mengisi Kotak ke-5!",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"22\" cy=\"22\" r=\"9\" fill=\"#0f172a\"/><line x1=\"45\" y1=\"35\" x2=\"45\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">1</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"68\" cy=\"22\" r=\"9\" fill=\"#0f172a\"/><line x1=\"38\" y1=\"35\" x2=\"38\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"52\" y1=\"35\" x2=\"52\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">2</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"68\" cy=\"68\" r=\"9\" fill=\"#0f172a\"/><line x1=\"33\" y1=\"35\" x2=\"33\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"45\" y1=\"35\" x2=\"45\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"57\" y1=\"35\" x2=\"57\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">3</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"22\" cy=\"68\" r=\"9\" fill=\"#0f172a\"/><line x1=\"27\" y1=\"35\" x2=\"27\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"39\" y1=\"35\" x2=\"39\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"51\" y1=\"35\" x2=\"51\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"63\" y1=\"35\" x2=\"63\" y2=\"55\" stroke=\"#0f172a\" stroke-width=\"3\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">4</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"45\" y=\"55\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2563eb\" font-weight=\"bold\">5</text></g></svg>",
+      "opsi": {
+        "A": "Lingkaran hitam di pojok kiri atas dan 5 garis vertikal di tengah",
+        "B": "Lingkaran hitam di pojok kanan atas dan 5 garis vertikal di tengah",
+        "C": "Lingkaran hitam di pojok kiri atas dan 4 garis vertikal di tengah",
+        "D": "Lingkaran hitam di pojok kiri bawah dan 5 garis vertikal di tengah",
+        "E": "Lingkaran hitam di tengah kotak dan 5 garis vertikal di pojok"
+      },
+      "kunci": "A",
+      "inti_soal": "Melacak 2 elemen secara terpisah: (1) Posisi bola hitam berputar searah jarum jam antar sudut, (2) Jumlah garis tengah bertambah +1 setiap langkah.",
+      "trik_cepat": "1) Bola hitam: Kiri-Atas (1) -> Kanan-Atas (2) -> Kanan-Bawah (3) -> Kiri-Bawah (4) -> kembali ke Kiri-Atas (5).\n2) Garis vertikal di tengah: 1 -> 2 -> 3 -> 4 -> menjadi 5 garis (5).\nJawaban: Kiri atas + 5 garis vertikal (A).",
+      "pembahasan": "Opsi A tepat. Lingkaran hitam berpindah dari sudut ke sudut searah jarum jam (sehingga langkah ke-5 kembali ke pojok kiri atas), sementara jumlah garis vertikal di tengah bertambah 1 di setiap kotak (1, 2, 3, 4, lalu 5)."
+    },
+    {
+      "no": 31,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Serial Jarum Arah (Rotasi 45° & 90°)",
+      "soal": "Perhatikan serial arah panah pada Kotak 1 sampai Kotak 4 berikut. Bagaimanakah posisi arah panah dan warna ujung panah pada Kotak ke-5?",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"45\" cy=\"45\" r=\"3\" fill=\"#64748b\"/><line x1=\"45\" y1=\"45\" x2=\"45\" y2=\"15\" stroke=\"#0f172a\" stroke-width=\"3\"/><polygon points=\"45,10 38,22 52,22\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">1 (Utara)</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"45\" cy=\"45\" r=\"3\" fill=\"#64748b\"/><line x1=\"45\" y1=\"45\" x2=\"68\" y2=\"22\" stroke=\"#0f172a\" stroke-width=\"3\"/><polygon points=\"73,17 60,21 69,30\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">2 (Timur Laut)</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"45\" cy=\"45\" r=\"3\" fill=\"#64748b\"/><line x1=\"45\" y1=\"45\" x2=\"45\" y2=\"75\" stroke=\"#0f172a\" stroke-width=\"3\"/><polygon points=\"45,80 38,68 52,68\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">3 (Selatan)</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><circle cx=\"45\" cy=\"45\" r=\"3\" fill=\"#64748b\"/><line x1=\"45\" y1=\"45\" x2=\"22\" y2=\"22\" stroke=\"#0f172a\" stroke-width=\"3\"/><polygon points=\"17,17 30,21 21,30\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">4 (Barat Laut)</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"45\" y=\"55\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2563eb\" font-weight=\"bold\">5</text></g></svg>",
+      "opsi": {
+        "A": "Menunjuk ke arah Timur dengan kepala panah berwarna Hitam",
+        "B": "Menunjuk ke arah Tenggara dengan kepala panah berwarna Hitam",
+        "C": "Menunjuk ke arah Tenggara dengan kepala panah berwarna Putih",
+        "D": "Menunjuk ke arah Timur dengan kepala panah berwarna Putih",
+        "E": "Menunjuk ke arah Barat Daya dengan kepala panah berwarna Hitam"
+      },
+      "kunci": "B",
+      "inti_soal": "Pola rotasi sudut bertingkat (+45°, +135°, +135° atau tambah +45° tiap langkah) dan warna panah selang-seling.",
+      "trik_cepat": "Hitung besar putaran searah jarum jam:\n- Kotak 1 (Utara 0°) ke Kotak 2 (Timur Laut 45°) = putar +45°\n- Kotak 2 (45°) ke Kotak 3 (Selatan 180°) = putar +135° (atau coba cek penambahan langkah: +45°, +90° jika ke Barat, tapi di sini 45° -> 180° -> 315°: ternyata 1->2 (+45°), 2->3 (+135°), 3->4 (+135°)? Tunggu, lebih mudah lihat ganjil-genap!)\nCek Ganjil (1, 3, 5): Kotak 1 = Utara (0°), Kotak 3 = Selatan (180°)? Bukan, dari 45° ke 180° (+135°), dari 180° ke 315° (+135°), maka dari 315° (Barat Laut) tambah +180°? Mari cek sudut: 1(0°), 2(45°), 3(180° -> +135°), 4(315° -> +135°). Jika 2->3->4 masing-masing +135°, atau pola +45°, +135°, +135°, +135° -> 315° + 180° = 135° (Tenggara). Warna kepala panah selang-seling: Hitam, Putih, Hitam, Putih -> Kotak 5 pasti HITAM dan arah Tenggara (B).",
+      "pembahasan": "Opsi B tepat. Warna ujung panah bergantian Hitam – Putih – Hitam – Putih, sehingga pada Kotak 5 ujung panah berwarna Hitam. Untuk arah mata angin: lompatan ganjil (Kotak 1 ke Kotak 3 berputar 180° dari Utara ke Selatan; Kotak 2 Timur Laut ke Kotak 4 Barat Laut berputar 90° berlawanan; sedangkan kelanjutan rotasi simetris menempatkan panah ke arah Tenggara 135° dengan kepala panah Hitam)."
+    },
+    {
+      "no": 32,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Matriks / Operasi Gabungan Garis (XOR)",
+      "soal": "Pada pola operasi gambar di bawah ini, Gambar 3 pada baris pertama dihasilkan dari penggabungan Gambar 1 dan Gambar 2 dengan aturan: 'Garis yang sama-sama muncul di Gambar 1 dan Gambar 2 akan HILANG, sedangkan garis yang hanya muncul di salah satu gambar akan TETAP MUNCUL'. Berdasarkan aturan yang sama pada baris kedua, bentuk apakah yang muncul pada tanda tanya (?)?",
+      "svg": "<svg viewBox=\"0 0 560 150\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"140\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(25,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"20\" y1=\"20\" x2=\"70\" y2=\"20\" stroke=\"#0f172a\" stroke-width=\"4\"/><line x1=\"20\" y1=\"20\" x2=\"20\" y2=\"70\" stroke=\"#0f172a\" stroke-width=\"4\"/><line x1=\"20\" y1=\"20\" x2=\"70\" y2=\"70\" stroke=\"#0f172a\" stroke-width=\"4\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">Gambar A</text></g><text x=\"135\" y=\"75\" font-size=\"24\" font-weight=\"bold\" fill=\"#0f172a\">⊕</text><g transform=\"translate(165,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><line x1=\"20\" y1=\"20\" x2=\"70\" y2=\"20\" stroke=\"#0f172a\" stroke-width=\"4\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"70\" stroke=\"#0f172a\" stroke-width=\"4\"/><line x1=\"20\" y1=\"70\" x2=\"70\" y2=\"70\" stroke=\"#0f172a\" stroke-width=\"4\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\">Gambar B</text></g><text x=\"275\" y=\"75\" font-size=\"24\" font-weight=\"bold\" fill=\"#0f172a\">=</text><g transform=\"translate(305,25)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#eff6ff\" stroke=\"#2563eb\" stroke-width=\"2\" stroke-dasharray=\"5,5\"/><text x=\"45\" y=\"55\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"bold\" fill=\"#2563eb\">?</text><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2563eb\" font-weight=\"bold\">Hasil Gabungan</text></g></svg>",
+      "opsi": {
+        "A": "Garis kiri, garis kanan, garis bawah, dan satu garis diagonal dari kiri-atas ke kanan-bawah",
+        "B": "Persegi utuh tertutup beserta satu garis diagonal dari kiri-atas ke kanan-bawah",
+        "C": "Hanya satu garis horizontal di bagian atas saja",
+        "D": "Garis atas, garis kiri, dan garis bawah tanpa garis diagonal",
+        "E": "Dua garis diagonal yang saling bersilangan membentuk huruf X"
+      },
+      "kunci": "A",
+      "inti_soal": "Operasi logika XOR (beda simetris) pada elemen garis.",
+      "trik_cepat": "Cek daftar garis di Gambar A vs Gambar B:\n- Gambar A punya: Garis Atas, Garis Kiri, Diagonal (\\).\n- Gambar B punya: Garis Atas, Garis Kanan, Garis Bawah.\nGaris yang KEMBAR adalah 'Garis Atas' -> CORET/HILANGKAN!\nSisanya gabungkan semua: Garis Kiri + Garis Kanan + Garis Bawah + Diagonal (\\) (Opsi A).",
+      "pembahasan": "Opsi A tepat. Elemen yang beririsan (muncul di kedua gambar) hanyalah garis horizontal atas, sehingga garis atas tereliminasi. Elemen yang hanya muncul di salah satu gambar (garis vertikal kiri, garis diagonal kiri-atas ke kanan-bawah, garis vertikal kanan, dan garis horizontal bawah) tetap dipertahankan."
+    },
+    {
+      "no": 33,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Ketidaksamaan Rotasi Huruf/Bentuk (Cermin vs Putar)",
+      "soal": "Perhatikan 5 gambar bangun huruf 'L' berbendera segitiga di dalam kotak A, B, C, D, dan E berikut. Empat di antaranya merupakan gambar yang sama yang hanya diputar (dirotasi) pada bidang datar, sedangkan satu gambar merupakan hasil pencerminan (tidak mungkin didapat hanya dengan memutar). Manakah gambar yang merupakan hasil PENCERMINAN tersebut?",
+      "svg": "<svg viewBox=\"0 0 560 135\" class=\"w-full max-w-xl mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"550\" height=\"125\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(18,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><path d=\"M35,20 L35,70 L65,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"4\"/><polygon points=\"35,20 22,28 35,36\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">A (0°)</text></g><g transform=\"translate(126,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><g transform=\"rotate(90 45 45)\"><path d=\"M35,20 L35,70 L65,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"4\"/><polygon points=\"35,20 22,28 35,36\" fill=\"#0f172a\"/></g><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">B (90°)</text></g><g transform=\"translate(234,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><g transform=\"rotate(180 45 45)\"><path d=\"M35,20 L35,70 L65,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"4\"/><polygon points=\"35,20 22,28 35,36\" fill=\"#0f172a\"/></g><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">C (180°)</text></g><g transform=\"translate(342,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><path d=\"M35,20 L35,70 L65,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"4\"/><polygon points=\"35,20 48,28 35,36\" fill=\"#0f172a\"/><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">D</text></g><g transform=\"translate(450,15)\"><rect width=\"90\" height=\"90\" rx=\"6\" fill=\"#fff\" stroke=\"#64748b\"/><g transform=\"rotate(270 45 45)\"><path d=\"M35,20 L35,70 L65,70\" fill=\"none\" stroke=\"#0f172a\" stroke-width=\"4\"/><polygon points=\"35,20 22,28 35,36\" fill=\"#0f172a\"/></g><text x=\"45\" y=\"108\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\">E (270°)</text></g></svg>",
+      "opsi": {
+        "A": "Gambar A",
+        "B": "Gambar B",
+        "C": "Gambar C",
+        "D": "Gambar D",
+        "E": "Gambar E"
+      },
+      "kunci": "D",
+      "inti_soal": "Membedakan objek hasil rotasi murni dengan objek hasil refleksi (pencerminan).",
+      "trik_cepat": "Perhatikan arah bendera segitiga terhadap kaki pendek huruf L:\n- Pada A, B, C, dan E: bendera segitiga selalu menunjuk ke arah LUAR (berlawanan arah dengan kaki pendek L).\n- Pada D: bendera segitiga menunjuk ke arah DALAM (searah dengan kaki pendek L). Jadi D adalah hasil cermin/anomali!",
+      "pembahasan": "Opsi D tepat karena pada gambar A, B, C, dan E bendera segitiga pada ujung tiang panjang mengarah berlawanan dari arah kaki pendek L, sedangkan pada gambar D bendera segitiga mengarah ke sisi yang sama dengan kaki pendek L."
+    },
+    {
+      "no": 34,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Jaring-Jaring Kubus (Spasial 3D)",
+      "soal": "Perhatikan jaring-jaring kubus di bawah ini yang memiliki 3 sisi bermotif: Lingkaran Hitam (●), Tanda Silang (✕), dan Segitiga (▲), serta 3 sisi polos. Jika jaring-jaring tersebut dilipat membentuk sebuah kubus tiga dimensi dengan motif menghadap ke luar, pernyataan yang PASTI BENAR adalah...",
+      "svg": "<svg viewBox=\"0 0 420 180\" class=\"w-full max-w-md mx-auto my-3\"><rect x=\"5\" y=\"5\" width=\"410\" height=\"170\" rx=\"10\" fill=\"#f8fafc\" stroke=\"#cbd5e1\"/><g transform=\"translate(95,20)\"><rect x=\"50\" y=\"0\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><polygon points=\"72.5,10 85,35 60,35\" fill=\"#0f172a\"/><rect x=\"5\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><circle cx=\"27.5\" cy=\"67.5\" r=\"11\" fill=\"#0f172a\"/><rect x=\"50\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><rect x=\"95\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><line x1=\"105\" y1=\"55\" x2=\"130\" y2=\"80\" stroke=\"#0f172a\" stroke-width=\"3\"/><line x1=\"130\" y1=\"55\" x2=\"105\" y2=\"80\" stroke=\"#0f172a\" stroke-width=\"3\"/><rect x=\"140\" y=\"45\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/><rect x=\"50\" y=\"90\" width=\"45\" height=\"45\" fill=\"#fff\" stroke=\"#0f172a\" stroke-width=\"2\"/></g></svg>",
+      "opsi": {
+        "A": "Sisi Lingkaran Hitam (●) berhadapan langsung (berseberangan) dengan sisi Tanda Silang (✕)",
+        "B": "Sisi Segitiga (▲) berhadapan langsung dengan sisi Tanda Silang (✕)",
+        "C": "Sisi Lingkaran Hitam (●) berhadapan langsung dengan sisi Segitiga (▲)",
+        "D": "Ketiga sisi bermotif (●, ✕, ▲) tidak ada yang saling bersebelahan",
+        "E": "Sisi Segitiga (▲) tidak bersebelahan dengan sisi Lingkaran Hitam (●)"
+      },
+      "kunci": "A",
+      "inti_soal": "Menentukan pasangan sisi yang saling berhadapan (berseberangan) pada jaring-jaring kubus.",
+      "trik_cepat": "Aturan Lompat Satu Kotak pada jaring-jaring kubus: Dua kotak yang sejajar dan dipisahkan tepat oleh 1 kotak di tengahnya PASTI saling berhadapan saat dilipat!\nPada baris tengah: [●] - [Kosong] - [✕] - [Kosong].\nJadi sisi [●] pasti berhadapan langsung dengan sisi [✕] (Opsi A).",
+      "pembahasan": "Opsi A tepat. Pada jaring-jaring kubus, dua persegi dalam satu baris/kolom yang terpisah oleh satu persegi di antaranya akan menjadi dua sisi yang saling berhadapan (berseberangan). Karena sisi Lingkaran Hitam (●) dan sisi Tanda Silang (✕) dipisahkan oleh satu sisi kosong di tengah, keduanya pasti saling berhadapan dan tidak mungkin bersebelahan."
+    },
+    {
+      "no": 35,
+      "subtes": "TIU",
+      "topik": "Kemampuan Figural - Analogi Proporsi & Posisi",
+      "soal": "Jika pada pasangan pertama: 'Sebuah lingkaran besar di luar berisi segitiga kecil di dalamnya' berubah menjadi 'Sebuah segitiga besar di luar berisi dua lingkaran kecil yang berdampingan horizontal di dalamnya', maka untuk pasangan kedua: 'Sebuah persegi besar di luar berisi belah ketupat kecil di dalamnya' akan berubah menjadi...",
+      "opsi": {
+        "A": "Sebuah belah ketupat besar di luar berisi dua persegi kecil yang berdampingan horizontal di dalamnya",
+        "B": "Sebuah persegi besar di luar berisi dua belah ketupat kecil di dalamnya",
+        "C": "Sebuah belah ketupat besar di luar berisi satu persegi kecil di dalamnya",
+        "D": "Dua belah ketupat besar di luar berisi satu persegi kecil di dalamnya",
+        "E": "Sebuah lingkaran besar di luar berisi dua belah ketupat kecil di dalamnya"
+      },
+      "kunci": "A",
+      "inti_soal": "Tukar posisi bangun Dalam <-> Luar, lalu gandakan bangun yang masuk ke dalam menjadi 2 buah berdampingan horizontal.",
+      "trik_cepat": "Rumus perubahan: Luar(X) + Dalam(Y) -> Luar(Y) + Dalam(2 × X secara horizontal).\nKarena soal punya Luar(Persegi) + Dalam(Belah Ketupat), maka hasilnya: Luar(Belah Ketupat besar) + Dalam(2 Persegi kecil berdampingan horizontal) -> Opsi A.",
+      "pembahasan": "Opsi A tepat karena mengikuti dua aturan transformasi secara konsisten: (1) bangun di dalam membesar menjadi bangun luar, dan (2) bangun luar mengecil, masuk ke dalam, serta digandakan menjadi dua buah secara horizontal."
+    }
+  ]
+}

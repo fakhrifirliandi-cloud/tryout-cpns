@@ -1,0 +1,1086 @@
+{
+  "id": "latihan-tkp-1",
+  "judul": "Latihan Bab TKP - Paket 1 (45 Soal)",
+  "soal": [
+    {
+      "no": 1,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Penanganan Keluhan & Empati",
+      "soal": "Saat Anda sedang bertugas di loket pelayanan terpadu menjelang jam istirahat siang, seorang warga lansia datang dengan nada bicara tinggi dan marah-marah karena berkas permohonannya ditolak oleh sistem daring padahal ia sudah dua kali bolak-balik dari desa yang jauh. Sikap Anda yang paling tepat adalah...",
+      "opsi": {
+        "A": "Meminta petugas keamanan menenangkan warga tersebut terlebih dahulu di ruang tunggu karena jam istirahat siang sudah tiba",
+        "B": "Mendengarkan keluhannya dengan tenang dan empati, memeriksa letak kendala pada berkasnya di sistem, lalu membantunya memperbaiki unggahan saat itu juga hingga tuntas",
+        "C": "Menjelaskan dengan tegas bahwa penolakan dilakukan secara otomatis oleh sistem komputer sehingga petugas loket tidak dapat disalahkan",
+        "D": "Memberikan brosur panduan penggunaan aplikasi daring dan memintanya meminta bantuan anggota keluarga di rumah untuk mengunggah ulang",
+        "E": "Menerima berkas fisiknya untuk disimpan di meja Anda dan berjanji akan mengeceknya besok pagi jika antrean sudah sepi"
+      },
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      },
+      "kunci": "B",
+      "inti_soal": "Menghadapi pengguna layanan yang emosi/kesulitan (khususnya kelompok rentan/lansia) di loket pelayanan.",
+      "trik_cepat": "Rumus Pelayanan Publik: Tenangkan dengan empati + Cek akar masalah + Beri solusi tuntas saat itu juga sesuai prosedur (B = 5). Poin 4 (E) membantu tapi menunda hingga besok.",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Responsif, empatik terhadap lansia, dan menyelesaikan masalah langsung hingga tuntas.\n• E (Poin 4): Berinisiatif membantu namun menunda penyelesaian hingga esok hari.\n• D (Poin 3): Memberi informasi standar tetapi membebankan lansia untuk mengulang sendiri di rumah.\n• C (Poin 2): Defensif dan menyalahkan sistem tanpa memberi solusi.\n• A (Poin 1): Menghindar dari tanggung jawab pelayanan."
+    },
+    {
+      "no": 2,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Ketidakadilan Antrean & Integritas Layanan",
+      "soal": "Ketika antrean pelayanan pencetakan dokumen kependudukan sedang sangat padat, seorang kenalan lama orang tua Anda datang menghampiri meja kerja Anda dari pintu samping dan meminta tolong agar berkasnya didahulukan karena ia harus segera mengejar jadwal kereta. Tindakan Anda adalah...",
+      "opsi": {
+        "A": "Menolak dengan sopan permintaan mendahului antrean, mengarahkannya mengambil nomor antrean reguler, serta menginformasikan opsi layanan dokumen digital (IKD) yang bisa diakses cepat lewat ponsel",
+        "B": "Membantu memproses berkasnya secara diam-diam di sela-sela antrean warga lain demi menjaga hubungan baik keluarga",
+        "C": "Menolak permintaannya dengan suara keras di depan antrean warga agar menjadi pelajaran bagi pemohon lain",
+        "D": "Meminta rekan kerja di meja sebelah untuk memproses berkas kenalan tersebut agar Anda tidak terlihat memihak",
+        "E": "Menyuruhnya menunggu sampai seluruh antrean hari itu habis baru kemudian berkasnya diproses tanpa nomor antrean"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 4
+      },
+      "kunci": "A",
+      "inti_soal": "Menjaga keadilan standar pelayanan publik tanpa diskriminasi/favoritisme namun tetap solutif.",
+      "trik_cepat": "Jangan pernah memotong antrean publik demi kenalan (B/D = rendah). Pilih opsi yang tegas menjaga aturan antrean secara santun SEKALIGUS menawarkan alternatif resmi yang cepat seperti layanan digital (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Konsisten menjaga keadilan antrean secara sopan sekaligus memberikan solusi alternatif resmi (layanan digital) yang menjawab kebutuhan mendesak pemohon.\n• E (Poin 4): Menjaga antrean warga lain tidak terganggu, namun kurang memberi solusi cepat yang sah.\n• C (Poin 3/2): Menegakkan aturan tetapi caranya mempermalukan pemohon (tidak ramah).\n• D (Poin 2): Melempar praktik nepotisme ke rekan kerja.\n• B (Poin 1): Melanggar SOP pelayanan dan mencederai keadilan publik."
+    },
+    {
+      "no": 3,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Gangguan Sistem & Komunikasi Krisis",
+      "soal": "Server pusat layanan perizinan di kantor Anda tiba-tiba mengalami gangguan teknis nasional sehingga proses verifikasi terhenti selama minimal satu jam, sementara ruang tunggu sudah dipenuhi puluhan pemohon yang mulai gelisah. Sebagai petugas garda depan, langkah terbaik yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Tetap duduk di balik loket sambil menunggu pengumuman resmi dari tim IT pusat tanpa memberi tahu pemohon",
+        "B": "Menyampaikan permohonan maaf secara terbuka kepada seluruh pemohon, menjelaskan estimasi waktu pemulihan, dan melakukan pengecekan kelengkapan berkas fisik terlebih dahulu agar begitu server pulih proses input langsung cepat",
+        "C": "Meminta seluruh pemohon pulang ke rumah masing-masing dan kembali lagi keesokan harinya",
+        "D": "Menempelkan kertas pengumuman 'Server Rusak' di kaca loket lalu menutup jendela pelayanan sementara",
+        "E": "Menjelaskan gangguan server hanya kepada pemohon yang bertanya langsung ke meja loket"
+      },
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 4
+      },
+      "kunci": "B",
+      "inti_soal": "Sikap proaktif petugas pelayanan saat terjadi gangguan sistem/server down.",
+      "trik_cepat": "Saat server down: (1) Komunikasikan transparan & minta maaf, (2) Lakukan langkah pra-verifikasi manual agar waktu tunggu warga tidak terbuang sia-sia (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Komunikatif, menenangkan publik dengan kepastian informasi, dan proaktif mencicil pemeriksaan berkas sehingga layanan tetap produktif.\n• E (Poin 4): Memberi penjelasan namun pasif (hanya kepada yang bertanya).\n• D (Poin 3): Memberi informasi satu arah tanpa empati maupun solusi alternatif.\n• C (Poin 2): Merugikan waktu dan biaya warga yang sudah datang.\n• A (Poin 1): Pasif dan memicu kemarahan publik karena ketidakpastian."
+    },
+    {
+      "no": 4,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Aksesibilitas Kelompok Rentan/Disabilitas",
+      "soal": "Anda melihat seorang pemohon pengguna kursi roda kesulitan menjangkau loket pelayanan di lantai dua karena lift gedung sedang dalam perawatan berkala. Sebagai petugas layanan di lantai satu yang sebenarnya menangani bagian informasi umum, tindakan Anda adalah...",
+      "opsi": {
+        "A": "Menghampiri pemohon tersebut, menyediakan meja layanan prioritas di lantai satu, dan berkoordinasi dengan petugas lantai dua untuk turun melayani langsung di lantai satu",
+        "B": "Menyarankan pemohon tersebut menunda pengurusan berkas hingga perbaikan lift selesai minggu depan",
+        "C": "Menginformasikan bahwa loket yang dituju berada di lantai dua dan meminta keluarganya membantu mengangkat kursi roda melewati tangga",
+        "D": "Menerima berkas pemohon tersebut di lantai satu lalu meletakkannya di tumpukan surat masuk lantai dua saat jam pulang kantor",
+        "E": "Melaporkan kendala lift tersebut kepada bagian rumah tangga gedung agar segera diperbaiki"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 4,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Pelayanan inklusif dan jemput bola bagi penyandang disabilitas.",
+      "trik_cepat": "Prinsip pelayanan ramah disabilitas: jika fasilitas akses terkendala, petugas yang menjemput bola mendatangi pemohon (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Sangat responsif, menerapkan prinsip layanan inklusif/jemput bola sehingga pemohon disabilitas terlayani tuntas dan bermartabat.\n• D (Poin 4): Membantu menerima berkas namun prosesnya tertunda hingga jam pulang.\n• E (Poin 3): Fokus pada pelaporan fasilitas namun belum menyelesaikan kebutuhan langsung pemohon saat itu.\n• C (Poin 2): Tidak empatik dan membahayakan keselamatan pemohon.\n• B (Poin 1): Menolak layanan secara halus dan merugikan warga."
+    },
+    {
+      "no": 5,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Inovasi & Penyederhanaan Prosedur",
+      "soal": "Banyak masyarakat mengeluhkan melalui kolom ulasan Google Maps kantor Anda bahwa syarat pengurusan surat keterangan di unit Anda terlalu membingungkan sehingga banyak warga salah membawa dokumen. Sebagai staf pelayanan di unit tersebut, tindakan yang Anda ambil adalah...",
+      "opsi": {
+        "A": "Membalas komentar di Google Maps satu per satu bahwa aturan persyaratan sudah ditempel di papan pengumuman kantor",
+        "B": "Merancang infografis daftar periksa (checklist) persyaratan yang sederhana beserta kode QR tautan unduh formulir untuk diusulkan kepada atasan agar dipasang di media sosial dan profil lokasi kantor",
+        "C": "Mengusulkan kepada atasan agar fitur ulasan publik dinonaktifkan supaya citra instansi tidak turun",
+        "D": "Menjelaskan persyaratan dengan lebih perlahan kepada warga yang sudah telanjur datang ke loket",
+        "E": "Menunggu instruksi pembaruan standar pelayanan dari kementerian pusat sebelum melakukan perubahan informasi"
+      },
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 4,
+        "E": 3
+      },
+      "kunci": "B",
+      "inti_soal": "Merespons umpan balik masyarakat dengan inovasi informasi layanan yang mudah dipahami.",
+      "trik_cepat": "Ubah keluhan warga menjadi inovasi konkret (infografis checklist + QR code di kanal digital) yang dikoordinasikan bersama atasan (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Proaktif, solutif, dan menyentuh akar masalah (asimetri informasi sebelum warga datang ke kantor).\n• D (Poin 4): Sikap pelayanan baik di loket, namun belum mencegah warga salah membawa berkas dari rumah.\n• E (Poin 3): Pasif menunggu arahan.\n• A (Poin 2): Defensif terhadap kritik publik.\n• C (Poin 1): Anti-kritik dan menutup ruang transparansi publik."
+    },
+    {
+      "no": 6,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Batas Kewenangan & Solusi Lintas Unit",
+      "soal": "Seorang pelaku UMKM datang ke meja konsultasi Anda untuk menanyakan prosedur sertifikasi produk yang sebenarnya merupakan wewenang dinas lain di gedung berbeda. Sikap pelayanan prima yang Anda tunjukkan adalah...",
+      "opsi": {
+        "A": "Menyampaikan dengan ramah bahwa layanan tersebut berada di dinas terkait, lalu memberikan informasi alamat, jam layanan, kontak resmi, serta ringkasan syarat awal yang perlu ia siapkan",
+        "B": "Mengatakan secara singkat 'Bukan di sini tempatnya, silakan langsung ke dinas sebelah' agar antrean cepat bergerak",
+        "C": "Mencoba memproses sertifikasi tersebut sendiri meskipun unit Anda tidak memiliki wewenang hukum",
+        "D": "Meminta pelaku UMKM tersebut mencari sendiri informasi dinas terkait melalui mesin pencari internet",
+        "E": "Mengarahkan pemohon ke meja bagian umum di kantor Anda agar dijelaskan oleh staf lain"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 2,
+        "E": 4
+      },
+      "kunci": "A",
+      "inti_soal": "Sikap petugas saat pemohon salah alamat/salah loket kewenangan.",
+      "trik_cepat": "Jangan melampaui wewenang hukum (C salah), dan jangan mengusir ketus (B/D salah). Beri arahan jelas, ramah, dan informatif ke instansi yang berwenang (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menjaga batas kewenangan birokrasi sekaligus memberikan panduan rujukan yang jelas dan membantu masyarakat.\n• E (Poin 4): Tetap mengarahkan ke bagian informasi internal, meski menambah satu tahapan bagi pemohon.\n• B & D (Poin 3/2): Kurang ramah dan tidak informatif.\n• C (Poin 1): Melanggar batas kewenangan hukum administrasi pemerintahan."
+    },
+    {
+      "no": 7,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Penanganan Kesalahan Administrasi Internal",
+      "soal": "Setelah seorang warga pulang membawa dokumen izin yang baru diterbitkan, Anda menyadari ada kesalahan ketik satu huruf pada nama jalan yang disebabkan oleh kekeliruan input dari pihak Anda. Langkah yang segera Anda lakukan adalah...",
+      "opsi": {
+        "A": "Segera menghubungi warga tersebut, meminta maaf atas kekeliruan input, menyiapkan dokumen revisi yang benar, dan menawarkan pengiriman dokumen atau penggantian tanpa antre",
+        "B": "Membiarkannya saja karena kesalahan hanya satu huruf pada nama jalan dan kemungkinan tidak diperhatikan",
+        "C": "Menunggu apakah warga tersebut menyadari kesalahan itu dan datang mengajukan komplain ke kantor",
+        "D": "Menyiapkan cetak ulang dokumen yang benar di meja Anda untuk berjaga-jaga jika sewaktu-waktu warga tersebut kembali",
+        "E": "Menghubungi warga tersebut dan memintanya mengambil nomor antrean baru besok untuk mengurus perbaikan data"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 4,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Tanggung jawab proaktif atas kesalahan pelayanan internal.",
+      "trik_cepat": "Jika kesalahan dari petugas: segera hubungi warga, akui & minta maaf, perbaiki dokumen, dan beri kemudahan pengambilan tanpa membebani warga antre ulang (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Bertanggung jawab penuh, proaktif menghubungi, memperbaiki dokumen, dan meminimalkan kerepotan warga.\n• D (Poin 4): Sudah berinisiatif memperbaiki dokumen namun belum proaktif memberi tahu warga.\n• E (Poin 3): Menghubungi warga tetapi membebankan warga mengantre ulang atas kesalahan petugas.\n• C (Poin 2): Pasif menunggu komplain.\n• B (Poin 1): Mengabaikan akurasi dokumen hukum masyarakat."
+    },
+    {
+      "no": 8,
+      "subtes": "TKP",
+      "topik": "Pelayanan Publik - Kepastian Waktu & Janji Layanan",
+      "soal": "Sesuai Maklumat Pelayanan kantor Anda, penerbitan rekomendasi teknis dijanjikan selesai dalam 3 hari kerja. Pada hari ke-2, pejabat penanda tangan harus bertugas mendadak ke luar kota, sementara sistem tanda tangan elektronik (TTE) sedang mengalami kendala sinkronisasi pada akun beliau. Tindakan Anda sebagai staf pemroses berkas adalah...",
+      "opsi": {
+        "A": "Segera berkoordinasi dengan tim IT dan sekretaris pimpinan untuk memulihkan akses TTE atau memproses pendelegasian wewenang resmi (Plh), serta mengabari pemohon mengenai progres berkasnya",
+        "B": "Membiarkan berkas menumpuk di meja sampai pimpinan kembali dari perjalanan dinas minggu depan",
+        "C": "Meniru tanda tangan basah pimpinan pada dokumen tersebut agar janji layanan 3 hari kerja tetap terpenuhi",
+        "D": "Memberi tahu pemohon pada hari ke-4 bahwa dokumennya terlambat karena pimpinan sedang dinas luar kota",
+        "E": "Menghubungi pimpinan terus-menerus agar segera pulang membatalkan tugas luar kotanya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 3,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Menjaga kepastian waktu layanan (Service Level Agreement) melalui solusi teknis dan prosedural yang sah.",
+      "trik_cepat": "Jangan pernah memalsukan tanda tangan (C = 1, pidana!). Cari terobosan sah: perbaikan TTE bersama IT atau mekanisme Plh, disertai komunikasi transparan ke pemohon (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Solutif, taat prosedur administrasi (TTE/Plh), dan komunikatif menjaga kepastian layanan.\n• D (Poin 3): Memberi kabar namun terlambat (setelah melewati batas waktu).\n• E (Poin 3): Kurang tepat karena mengganggu tugas kedinasan pimpinan tanpa mencari solusi teknis.\n• B (Poin 2): Pasif dan melanggar standar waktu pelayanan.\n• C (Poin 1): Pelanggaran hukum berat (pemalsuan dokumen)."
+    },
+    {
+      "no": 9,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Kolaborasi Lintas Instansi & Ego Sektoral",
+      "soal": "Anda ditunjuk mewakili instansi dalam rapat gugus tugas penanganan kemiskinan ekstrem bersama lima dinas lain. Dalam rapat tersebut, perwakilan salah satu dinas bersikap tertutup dan enggan berbagi data sasaran karena khawatir kinerjanya dikritik oleh unit lain. Sikap Anda untuk mencairkan kebuntuan kolaborasi tersebut adalah...",
+      "opsi": {
+        "A": "Menegur perwakilan dinas tersebut secara terbuka di dalam rapat karena menghambat program prioritas nasional",
+        "B": "Membangun komunikasi persuasif dengan menekankan bahwa integrasi data bertujuan saling melengkapi capaian bersama, serta mengusulkan kesepakatan protokol berbagi data resmi yang melindungi akuntabilitas tiap dinas",
+        "C": "Melanjutkan program kerja instansi Anda sendiri menggunakan data perkiraan seadanya tanpa memedulikan dinas tersebut",
+        "D": "Melaporkan sikap tertutup dinas tersebut kepada kepala daerah melalui surat keluhan sepihak",
+        "E": "Mengikuti sikap dinas tersebut dengan ikut menahan data milik instansi Anda agar posisi tawar seimbang"
+      },
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 3,
+        "D": 3,
+        "E": 1
+      },
+      "kunci": "B",
+      "inti_soal": "Mengatasi ego sektoral antarinstansi melalui komunikasi kolaboratif dan tata kelola berbagi data.",
+      "trik_cepat": "Kunci Jejaring Kerja: Runtuhkan ego sektoral dengan pendekatan win-win solution, rasa aman bersama, dan payung kesepakatan kolaborasi (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Membangun kepercayaan (trust), mengedepankan tujuan bersama (shared goal), dan memberikan solusi tata kelola data yang aman.\n• C & D (Poin 3): Tetap bekerja atau melapor, namun gagal membangun kolaborasi horizontal.\n• A (Poin 2): Konfrontatif dan memperkeruh hubungan antarinstansi.\n• E (Poin 1): Memperparah ego sektoral."
+    },
+    {
+      "no": 10,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Pembagian Peran & Sinergi Tim Baru",
+      "soal": "Anda baru saja dipindahkan ke sebuah tim proyek lintas divisi yang anggotanya belum saling mengenal dan berasal dari latar belakang keahlian yang sangat beragam. Agar tim dapat segera bekerja secara kompak dan efektif mengejar tenggat waktu yang ketat, langkah pertama yang Anda usulkan dalam rapat perdana adalah...",
+      "opsi": {
+        "A": "Meminta setiap anggota bekerja secara mandiri sesuai cara kerja di divisi asalnya masing-masing tanpa perlu banyak rapat",
+        "B": "Mengajak seluruh anggota memetakan keahlian masing-masing, menyepakati pembagian peran yang jelas, serta membuat kanal komunikasi bersama untuk pemantauan progres harian",
+        "C": "Mengambil alih sebagian besar tugas teknis sendirian karena Anda ragu dengan kemampuan anggota dari divisi lain",
+        "D": "Menunggu anggota yang paling senior untuk membagi tugas dan hanya mengerjakan bagian yang diperintahkan",
+        "E": "Mengusulkan acara ramah tamah di luar kota selama tiga hari penuh sebelum mulai membahas pekerjaan proyek"
+      },
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "kunci": "B",
+      "inti_soal": "Membangun sinergi cepat pada tim baru yang heterogen.",
+      "trik_cepat": "Langkah terbaik tim lintas fungsi: Petakan kekuatan/keahlian tiap anggota + Bagi peran jelas + Buat saluran koordinasi terbuka (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Mengintegrasikan keahlian beragam menjadi sinergi terstruktur dengan komunikasi yang jelas.\n• D (Poin 3): Kooperatif tetapi pasif.\n• A & C (Poin 2): Bekerja silo (sendiri-sendiri) atau one-man show, berlawanan dengan prinsip jejaring kerja.\n• E (Poin 1): Membuang waktu di tengah tenggat waktu yang ketat."
+    },
+    {
+      "no": 11,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Membantu Rekan Tim & Kinerja Kolektif",
+      "soal": "Menjelang batas akhir pengumpulan laporan triwulanan tim, tugas bagian Anda sudah selesai 100% dan telah diverifikasi. Namun, Anda melihat rekan satu tim yang mengolah data statistik masih kewalahan karena volume data wilayahnya dua kali lipat lebih banyak. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menawarkan bantuan secara proaktif untuk mengolah sebagian data mentahnya menggunakan format yang sudah disepakati agar laporan tim secara keseluruhan selesai tepat waktu",
+        "B": "Langsung menyerahkan bagian laporan Anda sendiri kepada atasan dan menegaskan bahwa keterlambatan tim bukan kesalahan Anda",
+        "C": "Memberi semangat secara lisan kepada rekan tersebut sambil merapikan meja kerja untuk bersiap pulang",
+        "D": "Mengambil alih seluruh pekerjaan rekan tersebut tanpa berdiskusi lalu mengganti namanya dengan nama Anda di laporan",
+        "E": "Membantu rekan tersebut hanya jika atasan memberikan perintah resmi dan uang lembur tambahan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 3,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Solidaritas dan kolaborasi tim ketika tugas individu sudah tuntas namun target kolektif terancam.",
+      "trik_cepat": "Keberhasilan tim adalah tanggung jawab bersama: jika tugas pribadi beres, proaktif bantu rekan yang kelebihan beban tanpa menyerobot kreditnya (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menunjukkan semangat kerja sama tim yang tinggi dan orientasi pada pencapaian target kolektif.\n• C (Poin 3): Empatik secara lisan tetapi tidak memberi kontribusi nyata.\n• D & E (Poin 2): Transaksional atau tidak etis terhadap kontribusi rekan.\n• B (Poin 1): Individualistis dan menjatuhkan rekan satu tim."
+    },
+    {
+      "no": 12,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Kemitraan Publik-Swasta & Komunitas",
+      "soal": "Unit kerja Anda ditugaskan menyelenggarakan kampanye literasi keuangan digital bagi pedagang pasar tradisional, namun anggaran sosialisasi yang tersedia sangat terbatas. Strategi kemitraan (networking) paling efektif yang Anda ajukan adalah...",
+      "opsi": {
+        "A": "Membatalkan kegiatan sosialisasi tatap muka dan hanya mengunggah satu poster di situs web resmi kantor",
+        "B": "Menggandeng paguyuban pedagang pasar, perbankan daerah, dan komunitas mahasiswa melalui skema kolaborasi program edukasi bersama yang bebas konflik kepentingan",
+        "C": "Meminta sumbangan uang tunai secara paksa kepada para pedagang pasar untuk membiayai sewa tenda dan konsumsi acara",
+        "D": "Menggunakan dana pribadi seluruh staf unit untuk menyewa gedung hotel berbintang agar acara tetap mewah",
+        "E": "Menjalankan sosialisasi seadanya sendirian menggunakan pengeras suara keliling tanpa koordinasi dengan pengelola pasar"
+      },
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "B",
+      "inti_soal": "Mengoptimalkan jejaring kerja pentahelix (pemerintah, komunitas, perbankan, akademisi) saat sumber daya terbatas.",
+      "trik_cepat": "Keterbatasan anggaran diatasi dengan sinergi kemitraan multi-pemangku kepentingan yang sah dan saling menguntungkan bagi publik (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Memanfaatkan kekuatan jejaring kerja lintas sektor secara kreatif, efisien, dan akuntabel.\n• E (Poin 3): Berusaha tetap jalan tetapi kurang efektif karena mengabaikan jejaring pengelola pasar.\n• A & D (Poin 2): Tidak berdampak optimal atau membebani pegawai secara tidak realistis.\n• C (Poin 1): Pungutan liar yang membebani masyarakat sasaran."
+    },
+    {
+      "no": 13,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Resolusi Konflik Internal Tim",
+      "soal": "Dua anggota tim terbaik di bawah koordinasi Anda terlibat perdebatan sengit mengenai metode survei lapangan hingga keduanya saling mendiamkan dan enggan bertukar dokumen kerja. Sebagai koordinator tim, langkah yang Anda tempuh adalah...",
+      "opsi": {
+        "A": "Mempertemukan keduanya dalam diskusi tertutup yang objektif, membedah kelebihan tiap metode berdasarkan data kebutuhan lapangan, lalu mengombinasikan kedua pendekatan menjadi standar kerja tim",
+        "B": "Memihak anggota tim yang lebih senior agar perdebatan segera berakhir tanpa perlu diskusi panjang",
+        "C": "Membiarkan keduanya bekerja sendiri-sendiri dengan metode masing-masing meskipun hasil data survei nantinya tidak seragam",
+        "D": "Mengeluarkan kedua anggota tersebut dari tim proyek dan meminta staf pengganti kepada bagian kepegawaian",
+        "E": "Menegur keduanya di grup percakapan umum kantor agar mereka merasa malu dan segera berdamai"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Mediasi konflik gagasan di dalam tim menjadi sintesis kolaboratif.",
+      "trik_cepat": "Konflik metode kerja diselesaikan dengan mediasi objektif berbasis data dan menggabungkan keunggulan kedua ide (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menjadi mediator yang adil, mengarahkan konflik personal kembali ke substansi profesional, dan merangkul kedua pihak.\n• B & C (Poin 2): Bias senioritas atau membiarkan standar kerja terpecah.\n• D & E (Poin 1): Reaktif, merusak kohesi tim, dan mempermalukan anggota di ruang publik."
+    },
+    {
+      "no": 14,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Berbagi Pengetahuan (Knowledge Sharing)",
+      "soal": "Anda baru saja terpilih mengikuti pelatihan intensif pengolahan data geospasial tingkat lanjut yang dibiayai oleh instansi, sementara empat rekan kerja lain di subbagian Anda belum berkesempatan mengikuti pelatihan serupa. Sekembalinya ke kantor, hal yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Menyimpan modul dan teknik cepat tersebut untuk diri sendiri agar Anda menjadi satu-satunya staf yang diandalkan pimpinan",
+        "B": "Menyusun ringkasan panduan praktis dari hasil pelatihan dan menginisiasi sesi berbagi ilmu (sharing session) singkat bersama rekan-rekan subbagian agar kapasitas tim meningkat merata",
+        "C": "Menyerahkan sertifikat pelatihan ke bagian kepegawaian untuk syarat kenaikan pangkat tanpa membahas materinya dengan rekan kerja",
+        "D": "Bersedia mengajarkan materi tersebut hanya kepada rekan kerja yang sering membantu tugas pribadi Anda",
+        "E": "Menunggu sampai atasan mewajibkan Anda membuat presentasi hasil pelatihan"
+      },
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 3,
+        "D": 2,
+        "E": 4
+      },
+      "kunci": "B",
+      "inti_soal": "Menularkan ilmu hasil pelatihan untuk memperkuat kapasitas kolektif organisasi.",
+      "trik_cepat": "ASN pembelajar wajib melakukan knowledge sharing secara proaktif ke tim tanpa pilih kasih (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Proaktif membagikan ilmu dan modul praktis sehingga investasi pelatihan instansi berdampak ganda bagi seluruh tim.\n• E (Poin 4): Mau berbagi ilmu namun masih menunggu instruksi atasan.\n• C (Poin 3): Hanya memenuhi kewajiban administratif.\n• D (Poin 2): Pilih kasih dalam kolaborasi.\n• A (Poin 1): Monopoli informasi yang menghambat kemajuan organisasi."
+    },
+    {
+      "no": 15,
+      "subtes": "TKP",
+      "topik": "Jejaring Kerja - Menjaga Kepercayaan Mitra Eksternal",
+      "soal": "Dalam sebuah proyek kerja sama riset kebijakan dengan perguruan tinggi mitra, terjadi perubahan jadwal penarikan data dari kementerian pusat yang berpotensi menggeser jadwal analisis tim akademisi mitra selama lima hari. Tindakan komunikasi terbaik yang Anda lakukan kepada pihak mitra adalah...",
+      "opsi": {
+        "A": "Menghubungi koordinator tim mitra sesegera mungkin untuk menginformasikan perubahan jadwal secara transparan, sekaligus menawarkan data awal (preliminary data) yang sudah tersedia agar analisis pendahuluan tetap bisa berjalan",
+        "B": "Menutupi kabar keterlambatan tersebut sampai batas hari penyerahan data tiba dengan harapan data pusat turun tepat waktu",
+        "C": "Menyalahkan pihak kementerian pusat secara berlebihan di hadapan mitra agar unit Anda tidak dianggap lamban",
+        "D": "Mengirimkan data tahun lalu tanpa memberi penjelasan bahwa data terbaru belum keluar",
+        "E": "Meminta pihak perguruan tinggi mitra memotong waktu analisis mereka menjadi separuhnya agar jadwal akhir tidak berubah"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 2,
+        "D": 1,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Komunikasi proaktif dan solutif dalam menjaga kepercayaan mitra kerja eksternal.",
+      "trik_cepat": "Hadapi kendala jadwal dengan mitra melalui: Komunikasi dini yang jujur + Penyesuaian rencana kerja bersama (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Transparan sejak dini, menjaga profesionalisme kemitraan, dan memberikan solusi mitigasi agar kerja mitra tidak terhenti total.\n• E (Poin 3): Mengkomunikasikan masalah tetapi membebankan risiko kualitas secara sepihak ke mitra.\n• B & C (Poin 2): Menutupi informasi penting atau lempar batu sembunyi tangan.\n• D (Poin 1): Manipulasi data riset."
+    },
+    {
+      "no": 16,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Adaptasi Penempatan di Daerah Baru",
+      "soal": "Anda baru saja dimutasi ke kantor cabang di daerah pedalaman yang masyarakatnya memiliki tradisi adat musyawarah kampung sebelum memulai proyek pembangunan fisik apa pun. Menurut jadwal kantor pusat, proyek pemasangan jaringan air bersih harus segera dimulai minggu ini. Sikap Anda sebagai penanggung jawab lapangan adalah...",
+      "opsi": {
+        "A": "Langsung menurunkan alat berat ke lokasi tanpa mengikuti musyawarah adat karena surat tugas dari pusat sudah sah secara hukum",
+        "B": "Menghormati kearifan lokal dengan menghadiri musyawarah adat bersama tokoh setempat untuk menjelaskan manfaat proyek secara santun, sehingga warga mendukung penuh dan pengerjaan lapangan berjalan lancar",
+        "C": "Menunda proyek tanpa batas waktu sampai warga setempat datang sendiri ke kantor memohon pemasangan air bersih",
+        "D": "Meminta aparat keamanan mengawal alat berat agar warga tidak berani menanyakan prosedur adat",
+        "E": "Mengajukan permohonan pindah kembali ke kota asal karena merasa tidak cocok dengan budaya masyarakat setempat"
+      },
+      "skor_opsi": {
+        "A": 2,
+        "B": 5,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "B",
+      "inti_soal": "Kepekaan sosial budaya dan kemampuan beradaptasi menghormati kearifan lokal demi kelancaran tugas negara.",
+      "trik_cepat": "Di mana bumi dipijak, di situ langit dijunjung: rangkul tokoh adat & hormati tradisi setempat sebagai jembatan menyukseskan program pemerintah (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Menunjukkan empati budaya, menghormati kearifan lokal, dan membangun partisipasi masyarakat sehingga target program tercapai harmonis.\n• A & C (Poin 2): Kaku/arogan sehingga berisiko memicu penolakan sosial, atau justru pasif menelantarkan program.\n• D & E (Poin 1): Pendekatan represif atau menyerah beradaptasi."
+    },
+    {
+      "no": 17,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Toleransi Keberagaman di Lingkungan Kerja",
+      "soal": "Unit kerja Anda merencanakan acara makan bersama sekaligus rapat evaluasi akhir tahun pada hari Jumat sore hingga malam di sebuah restoran. Salah satu staf baru di tim Anda memiliki pantangan makanan tertentu terkait keyakinan agamanya serta jadwal ibadah rutin pada jam tersebut. Sebagai ketua panitia acara, sikap Anda adalah...",
+      "opsi": {
+        "A": "Memilih tempat makan yang menyediakan menu yang aman dan halal/sesuai bagi semua keyakinan anggota serta mengatur jeda waktu acara agar seluruh staf dapat menjalankan ibadahnya dengan tenang",
+        "B": "Tetap menjalankan rencana awal karena suara mayoritas anggota tim sudah setuju dan meminta staf baru tersebut menyesuaikan diri sendiri",
+        "C": "Membebaskan staf baru tersebut untuk tidak ikut acara rapat evaluasi akhir tahun sama sekali",
+        "D": "Membatalkan seluruh acara rapat evaluasi akhir tahun karena malas mencari tempat makan pengganti",
+        "E": "Meminta staf baru tersebut membawa bekal makanan sendiri dari rumah jika ingin tetap hadir"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 3,
+        "D": 1,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Mengakomodasi keberagaman keyakinan secara inklusif dalam kegiatan tim.",
+      "trik_cepat": "Kepemimpinan inklusif memastikan setiap anggota tim merasa dihargai hak ibadah dan keyakinannya tanpa dikucilkan dari forum kerja (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Inklusif, toleran, dan solutif sehingga kebersamaan tim serta hak beribadah seluruh anggota terjaga.\n• C & E (Poin 3): Tidak memaksa, tetapi membuat anggota minoritas terpinggirkan dari kebersamaan tim.\n• B (Poin 2): Mengabaikan kepekaan terhadap keberagaman.\n• D (Poin 1): Reaktif dan mengorbankan agenda kerja organisasi."
+    },
+    {
+      "no": 18,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Komunikasi Lintas Budaya & Gaya Bahasa",
+      "soal": "Dalam sebuah tim kerja nasional, Anda dipasangkan dengan rekan dari daerah lain yang memiliki gaya bicara bernada tinggi, cepat, dan lugas. Beberapa rekan lain menganggapnya sedang marah dan sombong. Sikap Anda dalam menyikapi perbedaan gaya komunikasi tersebut adalah...",
+      "opsi": {
+        "A": "Ikut menjauhi rekan tersebut agar suasana hati Anda tidak terganggu saat bekerja",
+        "B": "Memahami bahwa perbedaan intonasi dan gaya bicara merupakan kekhasan budaya daerah, fokus pada substansi profesional ucapannya, serta menjadi jembatan komunikasi yang menyejukkan bagi rekan tim lain",
+        "C": "Menegur rekan tersebut di depan umum agar mengubah logat dan nada bicaranya mengikuti gaya bicara daerah mayoritas di kantor",
+        "D": "Membalas berbicara dengan nada yang lebih tinggi setiap kali berdiskusi dengannya",
+        "E": "Hanya mau berkomunikasi dengannya melalui pesan tertulis dan menolak diskusi tatap muka"
+      },
+      "skor_opsi": {
+        "A": 1,
+        "B": 5,
+        "C": 2,
+        "D": 1,
+        "E": 3
+      },
+      "kunci": "B",
+      "inti_soal": "Kedewasaan menyikapi perbedaan gaya komunikasi lintas budaya daerah di Indonesia.",
+      "trik_cepat": "Bedakan antara 'karakter intonasi budaya daerah' dengan 'kemarahan personal'. Pahami secara dewasa, fokus pada isi pesan, dan bantu cairkan salah paham di tim (B = 5).",
+      "pembahasan": "Rincian Skor:\n• B (Poin 5): Memiliki kecerdasan lintas budaya (cultural intelligence), tidak mudah menghakimi, dan berperan sebagai perekat tim.\n• E (Poin 3): Menghindari konflik terbuka namun membatasi efektivitas komunikasi kerja.\n• C (Poin 2): Memaksakan penyeragaman budaya yang tidak sensitif.\n• A & D (Poin 1): Memperuncing disharmoni di tempat kerja."
+    },
+    {
+      "no": 19,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Kesetaraan Gender & Objektivitas",
+      "soal": "Ketika pimpinan akan menunjuk ketua tim ekspedisi survei pemetaan wilayah pesisir, seorang pegawai perempuan yang paling kompeten dan berpengalaman di bidang kartografi mengajukan diri. Namun, salah seorang rekan kerja berpendapat bahwa tugas lapangan pesisir sebaiknya dipimpin oleh laki-laki saja. Ketika pimpinan meminta pandangan Anda, tanggapan Anda adalah...",
+      "opsi": {
+        "A": "Mendukung penunjukan ketua tim berdasarkan rekam jejak kompetensi, kapabilitas teknis, dan kesiapan profesional tanpa membedakan gender, sembari memastikan standar keselamatan lapangan terpenuhi bagi seluruh anggota",
+        "B": "Menyetujui pendapat bahwa tugas lapangan hanya cocok bagi laki-laki demi alasan kepraktisan",
+        "C": "Mengusulkan agar survei lapangan pesisir dibatalkan saja dan diganti dengan pengamatan citra satelit dari kantor",
+        "D": "Memilih diam dan tidak memberikan pendapat apa pun karena takut menyinggung salah satu pihak",
+        "E": "Menyarankan agar pegawai perempuan tersebut tetap menjadi ketua tim di atas kertas namun tidak perlu ikut turun ke lapangan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Menjunjung prinsip kesetaraan gender dan meritokrasi dalam penugasan kerja.",
+      "trik_cepat": "Pilih opsi berbasis sistem merit (kompetensi & profesionalisme) yang menolak bias/stereotip gender sekaligus tetap memperhatikan K3 lapangan (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Objektif, menjunjung kesetaraan kesempatan berbasis kompetensi (meritokrasi), dan profesional.\n• D & E (Poin 3): Netral pasif atau kompromi semu yang mengurangi peran kepemimpinan lapangan.\n• C (Poin 2): Mengorbankan validitas survei lapangan.\n• B (Poin 1): Melanggengkan bias dan diskriminasi gender."
+    },
+    {
+      "no": 20,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Empati Sosial di Lingkungan Tempat Tinggal",
+      "soal": "Di lingkungan perumahan tempat Anda baru pindah, warga rutin mengadakan kerja bakti pembersihan saluran air setiap Minggu pagi pertama awal bulan. Pada hari Minggu tersebut, Anda sebenarnya berencana beristirahat penuh setelah seminggu bekerja padat di kantor. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Meluangkan waktu hadir mengikuti kerja bakti bersama warga untuk bersosialisasi dan menjaga kebersihan lingkungan bersama, lalu beristirahat setelah kegiatan selesai",
+        "B": "Menutup pintu dan jendela rumah rapat-rapat agar warga mengira Anda sedang pergi ke luar kota",
+        "C": "Mengirimkan minuman ringan ke lokasi kerja bakti melalui kurir tanpa pernah keluar menyapa warga",
+        "D": "Keluar rumah hanya pada menit-menit terakhir saat warga sudah selesai bekerja dan sedang makan bersama",
+        "E": "Meminta ketua RT membebaskan Anda dari seluruh kegiatan warga karena Anda seorang ASN yang sibuk"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 4,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kepedulian sosial dan partisipasi aktif dalam masyarakat sekitar.",
+      "trik_cepat": "ASN adalah bagian dari masyarakat: tunjukkan partisipasi aktif, gotong royong, dan kerendahan hati berbaur dengan warga (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Berpartisipasi langsung dalam gotong royong warga dan membangun kohesi sosial yang sehat.\n• C (Poin 4): Tetap berkontribusi positif namun kurang membangun interaksi sosial langsung.\n• D (Poin 2): Kurang etis karena hanya hadir saat acara selesai.\n• B & E (Poin 1): Antisosial atau menunjukkan sikap eksklusif/arogan."
+    },
+    {
+      "no": 21,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Netralitas & Sensitivitas Konflik Komunitas",
+      "soal": "Sebagai penyuluh lapangan pemerintah, Anda bertugas mendampingi dua kelompok tani di desa perbatasan yang sedang berselisih mengenai jadwal pembagian air irigasi. Masing-masing kelompok berasal dari dusun yang berbeda dan mulai membawa sentimen asal-usul dusun. Langkah yang Anda ambil adalah...",
+      "opsi": {
+        "A": "Mengundang pengurus kedua kelompok tani bersama perangkat desa dan petugas pengairan untuk menyusun jadwal giliran buka-tutup pintu air yang terukur dan adil berdasarkan luas lahan, tanpa memandang asal dusun",
+        "B": "Memberikan jatah air lebih banyak kepada kelompok tani yang paling sering mengundang Anda makan siang",
+        "C": "Menutup saluran irigasi untuk kedua kelompok sampai mereka berhenti berdebat sendiri",
+        "D": "Menyerahkan urusan tersebut sepenuhnya kepada aparat kepolisian karena bukan tugas penyuluh pertanian",
+        "E": "Menyusun jadwal pembagian air secara sepihak di kantor tanpa melibatkan perwakilan petani"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 3,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Menjadi penengah yang adil, objektif, dan meredam sentimen primordial masyarakat.",
+      "trik_cepat": "Redam konflik horizontal dengan musyawarah multipihak + parameter teknis yang objektif/adil (luas lahan & debit air) (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Imparsial, memfasilitasi dialog partisipatif, dan menggeser isu sentimen dusun ke indikator teknis yang adil.\n• D & E (Poin 3): Lepas tangan atau memutuskan sepihak tanpa partisipasi warga.\n• C (Poin 2): Merugikan produktivitas pertanian kedua kelompok.\n• B (Poin 1): Tidak adil dan berbau konflik kepentingan."
+    },
+    {
+      "no": 22,
+      "subtes": "TKP",
+      "topik": "Sosial Budaya - Menghadapi Hoaks Kesehatan vs Tradisi Masyarakat",
+      "soal": "Saat bertugas dalam program imunisasi anak di sebuah desa, beberapa orang tua menolak imunisasi karena beredar kabar dari mulut ke mulut bahwa imunisasi bertentangan dengan kebiasaan turun-temurun warga setempat. Pendekatan komunikasi sosial budaya yang paling efektif Anda lakukan adalah...",
+      "opsi": {
+        "A": "Menggandeng tokoh adat, pemuka agama setempat, dan kader posyandu desa untuk berdialog secara kekeluargaan menggunakan bahasa lokal yang santun disertai bukti manfaat kesehatan anak",
+        "B": "Mengancam akan mencabut seluruh bantuan sosial warga yang menolak imunisasi saat itu juga",
+        "C": "Menertawakan kepercayaan warga tersebut di depan umum sebagai pemikiran kuno yang tidak ilmiah",
+        "D": "Langsung meninggalkan desa tersebut dan menuliskan di laporan bahwa warga desa tidak kooperatif",
+        "E": "Membagikan brosur istilah medis berbahasa asing tanpa memberikan penjelasan lisan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Komunikasi persuasif berbasis budaya lokal melalui tokoh panutan masyarakat (opinion leader).",
+      "trik_cepat": "Menghadapi resistensi kultural tidak boleh merendahkan warga (C) atau mengancam (B). Libatkan tokoh agama/adat setempat dengan pendekatan bahasa yang membumi (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menggunakan pendekatan sosiokultural yang empatik dengan merangkul tokoh panutan lokal sehingga pesan kesehatan diterima tanpa gesekan.\n• E (Poin 3): Memberi informasi namun tidak sesuai dengan tingkat keterbacaan masyarakat sasaran.\n• B & D (Poin 2): Pendekatan koersif atau menyerah begitu saja.\n• C (Poin 1): Merendahkan martabat masyarakat dan memicu penolakan keras."
+    },
+    {
+      "no": 23,
+      "subtes": "TKP",
+      "topik": "TIK - Adaptasi Sistem Pemerintahan Berbasis Elektronik (SPBE)",
+      "soal": "Instansi Anda mulai bulan ini mewajibkan penggunaan aplikasi manajemen kinerja dan persuratan elektronik baru (SPBE) yang menggantikan tanda tangan manual. Sebagian rekan kerja senior mengeluh karena belum terbiasa dengan tampilan menu aplikasi tersebut. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Mempelajari panduan sistem baru tersebut dengan cepat, langsung menggunakannya secara tertib, dan berinisiatif mendampingi rekan-rekan senior melakukan simulasi langkah demi langkah",
+        "B": "Menggunakan sistem baru untuk pekerjaan pribadi saja dan membiarkan rekan senior tetap memakai surat kertas manual",
+        "C": "Ikut mengeluhkan kerumitan aplikasi baru tersebut di grup percakapan kantor agar kebijakan ditunda",
+        "D": "Meminta staf admin IT mengerjakan seluruh surat milik Anda dan rekan senior supaya tidak salah klik",
+        "E": "Menunggu sampai diadakan pelatihan tatap muka resmi bulan depan baru mulai mencoba membuka aplikasinya"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 4,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Adaptabilitas terhadap transformasi digital (SPBE) sekaligus menjadi penggerak literasi digital di unit kerja.",
+      "trik_cepat": "Rumus TKP TIK: Cepat belajar mandiri + Langsung terapkan + Bantu rekan kerja yang kesulitan beradaptasi (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Adaptif terhadap teknologi baru sekaligus proaktif mempercepat adopsi digital satu unit kerja.\n• B (Poin 4): Sudah patuh menerapkan sendiri, namun kurang peduli pada kendala transisi tim.\n• E (Poin 3): Pasif menunggu pelatihan formal.\n• D (Poin 2): Membebankan pekerjaan ke bagian IT.\n• C (Poin 1): Resisten terhadap perubahan dan menyebarkan pesimisme."
+    },
+    {
+      "no": 24,
+      "subtes": "TKP",
+      "topik": "TIK - Keamanan Siber & Pencegahan Phishing",
+      "soal": "Anda menerima surat elektronik (email) yang tampak seperti berasal dari bagian kepegawaian pusat dengan subjek 'Pembaruan Data Tunjangan Segera', berisi tautan ke situs web beralamat asing yang meminta Anda memasukkan NIP dan kata sandi akun SSO kantor. Tindakan Anda yang paling tepat adalah...",
+      "opsi": {
+        "A": "Tidak mengklik tautan tersebut, memeriksa keaslian alamat pengirim, melaporkan email mencurigakan itu ke tim keamanan siber/IT kantor (CSIRT), dan mengingatkan rekan satu ruangan agar waspada",
+        "B": "Langsung mengisi NIP dan kata sandi karena khawatir pencairan tunjangan bulan ini tertunda",
+        "C": "Mengabaikan dan menghapus email tersebut dari kotak masuk tanpa memberi tahu siapa pun di kantor",
+        "D": "Meneruskan (forward) email beserta tautannya ke grup WhatsApp kantor dan meminta teman-teman mencoba membukanya lebih dulu",
+        "E": "Membalas email tersebut dengan menanyakan apakah pengirim benar-benar staf kepegawaian pusat"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 4,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Kewaspadaan terhadap serangan rekayasa sosial (phishing) dan tanggung jawab kolektif keamanan siber.",
+      "trik_cepat": "Ciri phishing: minta password/kredensial lewat link mencurigakan. Tindakan poin 5: Jangan klik + Lapor ke tim IT/CSIRT + Peringatkan rekan agar tidak ada yang jadi korban (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Memiliki kesadaran keamanan siber tinggi, melapor ke kanal resmi (CSIRT/IT), dan mencegah insiden kebocoran di tingkat unit.\n• C (Poin 4): Aman bagi diri sendiri, namun belum melindungi organisasi/rekan lain dari serangan serupa.\n• E (Poin 2): Berinteraksi dengan pelaku phishing.\n• B & D (Poin 1): Membocorkan kredensial negara atau menyebarkan tautan berbahaya ke rekan kerja."
+    },
+    {
+      "no": 25,
+      "subtes": "TKP",
+      "topik": "TIK - Otomatisasi & Efisiensi Kerja dengan Teknologi",
+      "soal": "Setiap akhir bulan, subbagian Anda menghabiskan waktu tiga hari penuh hanya untuk menyalin dan merekapitulasi ratusan baris data laporan dari lima belas kantor cabang secara manual satu per satu ke dalam tabel induk, sehingga sering terjadi salah ketik. Langkah inovatif berbasis TIK yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Merancang templat spreadsheet terstandar di penyimpanan awan (cloud) lengkap dengan rumus rekapitulasi otomatis dan validasi input untuk diusulkan kepada atasan, sehingga waktu rekap terpangkas menjadi hitungan menit",
+        "B": "Tetap merekap secara manual seperti biasa karena cara tersebut sudah dilakukan sejak sepuluh tahun lalu",
+        "C": "Meminta tambahan lima pegawai kontrak baru khusus untuk membantu mengetik ulang angka laporan setiap akhir bulan",
+        "D": "Mengurangi jumlah data yang direkap secara sepihak agar pekerjaan selesai dalam satu hari",
+        "E": "Mengeluhkan beban kerja manual tersebut setiap rapat tanpa pernah mengajukan usulan perbaikan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 3,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Memanfaatkan teknologi informasi untuk memangkas proses kerja manual yang berulang dan rawan human error.",
+      "trik_cepat": "Inti TIK di birokrasi adalah efisiensi, akurasi, dan otomatisasi proses kerja berulang (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Inovatif, meningkatkan efisiensi waktu kerja dan akurasi data secara drastis melalui pemanfaatan fitur teknologi yang tepat guna.\n• B (Poin 3): Patuh bekerja namun terpaku pada cara lama yang tidak efisien.\n• C (Poin 2): Pemborosan anggaran SDM untuk pekerjaan yang bisa diotomatisasi.\n• D & E (Poin 1): Merusak integritas data atau bersikap pasif-negatif."
+    },
+    {
+      "no": 26,
+      "subtes": "TKP",
+      "topik": "TIK - Etika Penggunaan Kecerdasan Buatan (Generative AI) & Pelindungan Data",
+      "soal": "Untuk mempercepat penyusunan draf ringkasan laporan evaluasi tahunan, Anda ingin memanfaatkan perangkat kecerdasan buatan (Generative AI). Namun, di dalam lampiran laporan tersebut terdapat tabel berisi NIK, nomor telepon, dan data medis ratusan warga penerima bantuan. Tindakan paling tepat dan bertanggung jawab adalah...",
+      "opsi": {
+        "A": "Melakukan anonimisasi/penghapusan seluruh data identitas pribadi (NIK, nama, kontak) terlebih dahulu dan hanya mengolah tren statistik agregatnya sesuai kebijakan keamanan data instansi, lalu memverifikasi ulang akurasi hasilnya",
+        "B": "Mengunggah seluruh file dokumen asli lengkap dengan NIK dan nomor telepon warga ke platform AI publik gratis agar prosesnya instan",
+        "C": "Menolak menggunakan bantuan teknologi apa pun termasuk perangkat pengolah angka di komputer karena takut teknologi",
+        "D": "Menyalin hasil teks dari AI mentah-mentah ke dalam surat keputusan resmi tanpa membaca atau memeriksa ulang kebenarannya",
+        "E": "Meminta pihak luar yang bukan pegawai kantor untuk mengolah data rahasia tersebut di akun pribadi mereka"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Pemanfaatan teknologi AI secara cerdas dengan tetap mematuhi UU Pelindungan Data Pribadi (UU PDP) dan verifikasi manusia.",
+      "trik_cepat": "Aturan emas AI bagi ASN: (1) Jangan pernah unggah data pribadi/rahasia negara (PII) ke AI publik (anonimkan dulu!), (2) Selalu lakukan human verification atas output AI (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Memadukan produktivitas teknologi modern dengan kepatuhan ketat terhadap UU Pelindungan Data Pribadi (UU No. 27 Tahun 2022) dan kontrol kualitas.\n• C (Poin 2): Menghindari teknologi secara ekstrem sehingga kehilangan potensi efisiensi.\n• D (Poin 2): Lalai melakukan verifikasi akurasi (risiko halusinasi data).\n• B & E (Poin 1): Membocorkan data pribadi warga negara ke pihak eksternal/publik."
+    },
+    {
+      "no": 27,
+      "subtes": "TKP",
+      "topik": "TIK - Mitigasi Kehilangan Data & Pencadangan (Backup)",
+      "soal": "Anda sedang menyusun dokumen perencanaan anggaran strategis yang tenggat waktunya dua hari lagi. Agar pekerjaan penting tersebut aman dari risiko kerusakan perangkat keras komputer atau gangguan listrik mendadak, kebiasaan kerja berbasis TIK yang Anda terapkan adalah...",
+      "opsi": {
+        "A": "Mengaktifkan fitur penyimpanan otomatis (auto-save) pada penyimpanan awan resmi instansi (cloud drive terenkripsi) sekaligus mencadangkan versi berkala secara teratur",
+        "B": "Menyimpan file hanya di satu folder desktop komputer kantor tanpa pernah membuat salinan cadangan",
+        "C": "Mengunggah dokumen anggaran rahasia tersebut ke akun media sosial publik agar bisa diunduh dari mana saja",
+        "D": "Mencetak draf dokumen ke kertas setiap sepuluh menit sekali sebagai satu-satunya cadangan",
+        "E": "Menyimpan file di flashdisk pribadi yang sering dipinjamkan ke warnet dan komputer umum"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Manajemen risiko data kerja melalui pencadangan (backup) terenkripsi yang aman.",
+      "trik_cepat": "Gunakan cloud resmi instansi + fitur auto-save/versioning agar aman dari kerusakan hardware maupun kebocoran data (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menjamin ketersediaan data (availability) sekaligus kerahasiaan data (confidentiality) secara efisien.\n• B & D (Poin 2): Rawan hilang total saat perangkat rusak atau boros kertas secara tidak efektif.\n• C & E (Poin 1): Sangat berisiko membocorkan dokumen negara dan menularkan malware."
+    },
+    {
+      "no": 28,
+      "subtes": "TKP",
+      "topik": "TIK - Solusi Rapat Daring saat Gangguan Teknis",
+      "soal": "Anda ditugaskan menjadi moderator sekaligus operator tayangan materi dalam rapat koordinasi nasional secara daring. Lima menit sebelum pimpinan memulai paparan, koneksi internet utama di ruang rapat gedung tiba-tiba terputus. Langkah paling sigap yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Segera mengalihkan koneksi perangkat ke jaringan cadangan (tethering seluler/jalur internet kedua) serta mengirimkan file salinan presentasi kepada rekan co-host di lokasi lain sebagai cadangan penayang materi",
+        "B": "Membatalkan rapat koordinasi nasional tersebut secara sepihak dan menutup ruang pertemuan daring",
+        "C": "Marah-marah kepada teknisi jaringan gedung sambil membiarkan ratusan peserta rapat daring menunggu tanpa kabar",
+        "D": "Menunggu koneksi internet gedung pulih sendiri tanpa melakukan upaya pengalihan jaringan apa pun",
+        "E": "Meminta pimpinan membacakan materi dari ingatan saja tanpa menampilkan data grafik yang dibutuhkan peserta"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Kesigapan teknis (troubleshooting & redundansi) dalam penyelenggaraan agenda virtual.",
+      "trik_cepat": "Siapkan rencana cadangan teknis (koneksi backup + kirim file ke co-host) agar rapat tetap berjalan mulus (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Tanggap darurat teknis, memanfaatkan redundansi koneksi dan kolaborasi co-host sehingga agenda berjalan tepat waktu.\n• E (Poin 3): Rapat tetap jalan namun kualitas penyampaian informasi berkurang.\n• D (Poin 2): Pasif menunggu.\n• B & C (Poin 1): Reaktif, emosional, dan menggagalkan agenda nasional."
+    },
+    {
+      "no": 29,
+      "subtes": "TKP",
+      "topik": "TIK - Etika Bermedia Sosial bagi ASN",
+      "soal": "Sebagai seorang ASN yang aktif membuat konten edukasi di media sosial pribadi di luar jam kerja, suatu hari Anda mengetahui adanya rencana kebijakan baru di kantor yang masih berupa draf rahasia dan belum disahkan pimpinan. Banyak warganet di kolom komentar menanyakan bocoran kebijakan tersebut. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menjaga kerahasiaan informasi internal negara dengan tidak membocorkan draf tersebut di media sosial, serta mengarahkan warganet untuk memantau pengumuman resmi pada kanal instansi setelah kebijakan disahkan",
+        "B": "Membocorkan isi draf kebijakan tersebut secara eksklusif di akun pribadi Anda demi mendapatkan jumlah tayangan (views) dan pengikut yang banyak",
+        "C": "Mengunggah foto halaman sampul draf rahasia tersebut sebagai teka-teki pemicu rasa penasaran pengikut",
+        "D": "Memberikan bocoran isi draf hanya melalui pesan langsung (DM) kepada pengikut yang berjanji tidak menyebarkannya",
+        "E": "Membuat konten spekulasi yang mengkritik draf internal kantor sebelum kebijakan tersebut selesai dibahas"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Etika digital ASN dalam memisahkan konten edukasi publik dengan informasi rahasia jabatan.",
+      "trik_cepat": "ASN wajib menjaga rahasia jabatan/dokumen yang belum dipublikasikan resmi: tolak godaan viralitas (B/C/D) dan rujuk publik ke kanal resmi (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Mematuhi kode etik ASN dan UU Keterbukaan Informasi Publik (menjaga informasi yang dikecualikan/masih draf) sekaligus tetap mengedukasi warganet secara santun.\n• C (Poin 2): Tetap tidak etis dan memicu spekulasi liar.\n• B, D, E (Poin 1): Pelanggaran disiplin berat membocorkan dokumen negara yang belum sah."
+    },
+    {
+      "no": 30,
+      "subtes": "TKP",
+      "topik": "TIK - Kolaborasi Dokumen Digital Real-Time",
+      "soal": "Tim Anda yang tersebar di tiga kota sedang menyusun satu naskah kajian kebijakan yang sama. Sebelumnya, setiap anggota mengirimkan file dokumen lewat lampiran email masing-masing sehingga muncul belasan versi file (seperti `Revisi_Final_Banget_v4.docx`) yang membuat paragraf terbaru sering tertimpa versi lama. Solusi TIK yang Anda terapkan adalah...",
+      "opsi": {
+        "A": "Memindahkan draf ke platform dokumen kolaboratif daring (cloud workspace) dengan fitur pelacakan perubahan (track changes/suggesting) dan riwayat versi terpusat sehingga seluruh tim mengedit pada satu tautan yang sama",
+        "B": "Meminta seluruh anggota tim mengirimkan revisi melalui pesan suara WhatsApp untuk Anda ketik ulang sendiri",
+        "C": "Melarang anggota di kota lain memberikan masukan agar file di komputer Anda tidak berubah-ubah",
+        "D": "Mencetak dokumen tersebut lalu mengirimkannya secara bergiliran antarkota melalui jasa ekspedisi",
+        "E": "Tetap menggunakan cara kirim lampiran email namun memarahi anggota yang salah memberi nama file"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Mengatasi masalah duplikasi versi dokumen dengan kolaborasi cloud real-time (single source of truth).",
+      "trik_cepat": "Masalah banyak versi file diselesaikan dengan kolaborasi satu dokumen terpusat di cloud + fitur suggesting/version history (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Memanfaatkan teknologi kolaborasi cloud secara efektif untuk menciptakan satu sumber data tunggal (single source of truth) yang rapi dan terdokumentasi.\n• B (Poin 3): Mencegah duplikasi file namun membebani satu orang secara tidak efisien.\n• E (Poin 2): Tidak menyelesaikan akar masalah teknis.\n• C & D (Poin 1): Menghambat kolaborasi atau membuang waktu dan biaya."
+    },
+    {
+      "no": 31,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Manajemen Prioritas di Bawah Tekanan",
+      "soal": "Pada pukul 14.00, Anda sedang menyelesaikan analisis laporan keuangan yang wajib diserahkan kepada Direktur pukul 16.00 hari ini. Tiba-tiba, Kepala Subbagian meminta Anda membuatkan paparan singkat untuk rapat besok pagi pukul 09.00, sementara di saat bersamaan seorang staf baru bertanya mengenai cara mengisi formulir cuti. Urutan tindakan paling profesional yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Menuntaskan analisis laporan keuangan untuk Direktur (tenggat 16.00) sebagai prioritas utama, mengarahkan staf baru ke panduan/bagian SDM dalam 1 menit, lalu langsung menyusun paparan untuk rapat besok pagi setelah laporan Direktur terkirim",
+        "B": "Meninggalkan laporan Direktur untuk mengerjakan paparan Kepala Subbagian terlebih dahulu karena beliau atasan langsung di ruangan",
+        "C": "Menghabiskan waktu satu jam penuh untuk mengajari staf baru mengisi formulir cuti agar terlihat ramah",
+        "D": "Menolak tugas dari Kepala Subbagian dengan nada kesal karena merasa sedang sangat sibuk",
+        "E": "Panik dan mengerjakan ketiga hal tersebut secara bersamaan tanpa ada satu pun yang selesai dengan benar"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Menyusun skala prioritas kerja berdasarkan matriks Urgensi vs Kepentingan (Eisenhower Matrix).",
+      "trik_cepat": "Urutkan dari yang paling MENDESAK & PENTING (Deadline 16.00 hari ini) -> Delegasikan/arahkan cepat hal administratif (1 menit) -> Kerjakan tugas deadline besok pagi (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Mengelola prioritas secara terukur berdasarkan tenggat waktu dan dampak strategis, tetap komunikatif kepada atasan dan rekan tanpa mengorbankan target kritis pukul 16.00.\n• B (Poin 2): Salah menentukan prioritas waktu sehingga laporan sore hari terancam gagal.\n• C, D, E (Poin 1): Manajemen waktu buruk, emosional, atau tidak fokus."
+    },
+    {
+      "no": 32,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Objektivitas & Pemisahan Masalah Pribadi",
+      "soal": "Anda ditugaskan melakukan penilaian kinerja triwulanan terhadap tiga staf di tim Anda. Salah satu staf tersebut kemarin baru saja berselisih paham secara pribadi dengan Anda mengenai urusan iuran komite sekolah anak, namun di kantor ia memiliki capaian kinerja tertinggi dan selalu melampaui target. Sikap Anda saat memberikan nilai kinerja adalah...",
+      "opsi": {
+        "A": "Memberikan penilaian kinerja secara murni, objektif, dan adil sesuai indikator capaian nyata di kantor tanpa mencampuradukkan urusan pribadi di luar kedinasan",
+        "B": "Mengurangi nilai kinerjanya sedikit sebagai pelajaran agar ia lebih menghormati Anda di luar kantor",
+        "C": "Menunda penyerahan nilai kinerja khusus staf tersebut sampai ia meminta maaf terlebih dahulu terkait urusan sekolah anak",
+        "D": "Memberikan nilai rata-rata yang sama persis kepada ketiga staf agar tidak perlu memeriksa data capaian mereka",
+        "E": "Meminta staf tersebut pindah ke divisi lain meskipun kinerjanya sangat dibutuhkan oleh tim Anda"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Memisahkan urusan personal dengan penilaian kinerja profesional (objektivitas).",
+      "trik_cepat": "Profesionalisme = pisahkan 100% sentimen pribadi dari penilaian kerja berbasis data/indikator objektif (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Sangat profesional, menjunjung objektivitas penilaian berbasis kinerja nyata (sistem merit).\n• D & E (Poin 2): Tidak adil bagi pegawai berprestasi atau merugikan performa tim.\n• B & C (Poin 1): Menyalahgunakan wewenang jabatan untuk balas dendam masalah pribadi."
+    },
+    {
+      "no": 33,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Sikap Menghadapi Kritik & Evaluasi Kinerja",
+      "soal": "Dalam rapat evaluasi draf naskah akademik yang Anda susun selama dua minggu, pimpinan dan tim pakar memberikan cukup banyak catatan koreksi terkait ketajaman data di bab analisis. Respons profesional yang Anda tunjukkan adalah...",
+      "opsi": {
+        "A": "Menerima seluruh masukan secara terbuka, mencatat poin-poin perbaikan secara sistematis, dan segera memperkaya data analisis agar naskah akademik menjadi jauh lebih berkualitas",
+        "B": "Membela diri secara emosional bahwa waktu dua minggu terlalu singkat sehingga wajar jika data kurang tajam",
+        "C": "Merasa patah semangat dan meminta pimpinan menunjuk orang lain saja untuk melanjutkan revisi naskah tersebut",
+        "D": "Menerima masukan di dalam rapat namun saat kembali ke meja kerja hanya mengubah sampulnya saja tanpa memperbaiki isi bab analisis",
+        "E": "Menyalahkan staf pengumpul data di depan forum rapat agar Anda tidak terlihat kurang teliti"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Berpikir bertumbuh (growth mindset) dan kematangan profesional saat menerima kritik konstruktif.",
+      "trik_cepat": "Kritik atas hasil kerja bukan serangan pribadi: terima dengan lapang dada, catat poin evaluasi, dan segera perbaiki kualitas kerja (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menunjukkan kedewasaan profesional, orientasi pada kualitas hasil kerja, dan kemauan terus belajar.\n• B (Poin 2): Defensif dan mencari pembenaran.\n• C, D, E (Poin 1): Mudah menyerah, manipulatif, atau lempar tanggung jawab ke bawahan."
+    },
+    {
+      "no": 34,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Komitmen Tugas vs Kepentingan Pribadi Non-Darurat",
+      "soal": "Anda sudah membeli tiket nonton pertandingan olahraga bersama teman-teman untuk hari Sabtu sore. Namun pada Jumat siang, pimpinan menugaskan Anda mewakili unit kerja dalam rapat koordinasi darurat lintas kementerian pada Sabtu sore tersebut karena terjadi perubahan jadwal nasional mendadak, dan hanya Anda yang memegang data teknis program tersebut. Keputusan Anda adalah...",
+      "opsi": {
+        "A": "Mengutamakan pelaksanaan tugas kedinasan dengan menghadiri rapat koordinasi darurat tersebut secara optimal, serta memberi pengertian kepada teman-teman mengenai tugas mendadak ini",
+        "B": "Mengaku sedang sakit mendadak pada Sabtu pagi agar tetap bisa pergi menonton pertandingan olahraga",
+        "C": "Hadir di rapat koordinasi hanya lima belas menit pertama lalu pergi meninggalkan rapat tanpa menyerahkan penjelasan data",
+        "D": "Menyerahkan file data mentah kepada petugas kebersihan kantor untuk mewakili Anda di rapat lintas kementerian",
+        "E": "Mematikan telepon genggam sejak Jumat sore agar pimpinan tidak bisa mengirimkan surat tugas resmi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Mendahulukan tugas negara yang bersifat krusial/mendesak di atas agenda hiburan pribadi.",
+      "trik_cepat": "Jika berbenturan antara 'tugas kedinasan darurat yang krusial' vs 'agenda hiburan/rekreasi pribadi', ASN profesional selalu memprioritaskan tugas kedinasan (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menunjukkan dedikasi, tanggung jawab jabatan, dan komitmen profesional yang tinggi pada tugas strategis organisasi.\n• C (Poin 2): Hadir formalitas namun menelantarkan substansi tugas.\n• B, D, E (Poin 1): Berbohong, tidak bertanggung jawab, dan menghindar dari kewajiban dinas."
+    },
+    {
+      "no": 35,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Pengembangan Kompetensi Berkelanjutan",
+      "soal": "Kementerian tempat Anda bekerja baru saja memperluas fungsi direktorat Anda untuk menangani regulasi perdagangan karbon yang merupakan topik baru dan belum pernah Anda pelajari saat kuliah dulu. Sikap Anda menghadapi perubahan ruang lingkup tugas tersebut adalah...",
+      "opsi": {
+        "A": "Secara proaktif mempelajari regulasi terkait, mengikuti webinar/kursus daring lembaga pelatihan resmi, serta berdiskusi dengan pakar di kantor agar segera menguasai bidang baru tersebut",
+        "B": "Meminta dipindahkan ke bagian arsip surat-menyurat biasa karena enggan mempelajari materi teknis yang baru",
+        "C": "Menunggu sampai kantor mengirimkan Anda ke pelatihan luar negeri baru bersedia membaca dokumen regulasinya",
+        "D": "Menyerahkan seluruh tugas terkait perdagangan karbon kepada rekan kerja lain yang kebetulan lulusan teknik lingkungan",
+        "E": "Menyalin bulat-bulat artikel dari blog tidak resmi di internet untuk dijadikan bahan kebijakan kantor"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 3,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Inisiatif belajar mandiri (continuous learning) saat menghadapi tuntutan kompetensi baru di jabatan.",
+      "trik_cepat": "ASN profesional tidak menolak tantangan baru: segera belajar mandiri (regulasi, pelatihan daring, diskusi pakar) untuk meningkatkan kompetensi (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Memiliki semangat belajar berkelanjutan (agile learner) dan proaktif menutup gap kompetensi.\n• D (Poin 3): Mengandalkan rekan lain tanpa meningkatkan kapasitas diri.\n• C (Poin 2): Pasif dan menuntut syarat berlebihan untuk belajar.\n• B & E (Poin 1): Menghindari perkembangan tugas atau bekerja secara serampangan."
+    },
+    {
+      "no": 36,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Ketelitian & Kepatuhan SOP di Bawah Tekanan",
+      "soal": "Sebagai verifikator pencairan dana bantuan pendidikan, Anda diminta oleh salah satu koordinator lapangan untuk segera meloloskan 50 berkas penerima dalam waktu 10 menit tanpa memeriksa kelengkapan lampiran satu per satu karena acara simbolis penyerahan akan segera dimulai. Sikap profesional Anda adalah...",
+      "opsi": {
+        "A": "Tetap menjalankan prosedur verifikasi sesuai SOP secara cepat dan cermat (dibantu rekan verifikator lain jika perlu) serta menegaskan bahwa hanya berkas yang valid yang dapat dicairkan demi akuntabilitas hukum",
+        "B": "Langsung menandatangani persetujuan seluruh 50 berkas tanpa dibuka sama sekali agar acara simbolis berjalan meriah",
+        "C": "Menolak memeriksa satu pun berkas hari itu dan meninggalkan ruangan karena merasa ditekan",
+        "D": "Meloloskan semua berkas terlebih dahulu dengan syarat koordinator lapangan berjanji secara lisan akan melengkapi syaratnya bulan depan",
+        "E": "Memilih 5 berkas secara acak untuk diperiksa dan menganggap 45 berkas lainnya sudah pasti benar"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Mempertahankan standar akuntabilitas dan kepatuhan SOP meskipun didesak untuk mengambil jalan pintas.",
+      "trik_cepat": "Jangan pernah mengorbankan SOP verifikasi keuangan negara demi acara seremonial: tetap verifikasi cepat & akurat sesuai aturan (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Tegas menjaga akuntabilitas keuangan negara dan SOP, namun tetap solutif mempercepat proses dengan pengerahan tim verifikator.\n• C & E (Poin 2): Menghentikan layanan total atau memeriksa secara serampangan.\n• B & D (Poin 1): Meloloskan pencairan dana tanpa verifikasi sah yang berpotensi menjadi temuan kerugian negara."
+    },
+    {
+      "no": 37,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Produktivitas Saat Bekerja Jarak Jauh (WFA/WFH)",
+      "soal": "Instansi Anda menerapkan kebijakan kerja fleksibel (1 hari Work From Anywhere / WFH dalam seminggu) bagi pegawai yang tugasnya berbasis dokumen digital. Ketika menjalani jadwal kerja dari rumah, sikap yang mencerminkan profesionalisme tinggi adalah...",
+      "opsi": {
+        "A": "Tetap siaga pada jam kerja resmi, merespons koordinasi tim dengan cepat, serta menyelesaikan seluruh target output harian tepat waktu sesuai rencana kerja",
+        "B": "Menganggap jadwal WFH sebagai hari libur tambahan untuk bepergian seharian tanpa membuka laptop kantor",
+        "C": "Hanya melakukan presensi pagi dan sore di aplikasi lalu tidur sepanjang jam kerja berlangsung",
+        "D": "Mengerjakan tugas kantor seadanya di tengah malam setelah seharian mengurus pekerjaan sampingan",
+        "E": "Meminta rekan kerja yang sedang masuk di kantor (WFO) untuk mengerjakan seluruh tugas harian Anda"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Menjaga kedisiplinan, responsivitas komunikasi, dan capaian kinerja saat bekerja tanpa pengawasan tatap muka langsung.",
+      "trik_cepat": "Profesionalisme saat WFH/WFA = tetap responsif di jam kerja + tuntaskan target output harian dengan kualitas setara WFO (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menjaga integritas dan produktivitas kerja secara mandiri meskipun bekerja dari jarak jauh.\n• D (Poin 2): Mengabaikan jam koordinasi kerja resmi.\n• B, C, E (Poin 1): Menyalahgunakan kebijakan fleksibilitas kerja dan melanggar disiplin ASN."
+    },
+    {
+      "no": 38,
+      "subtes": "TKP",
+      "topik": "Profesionalisme - Keberanian Mengakui Kesalahan & Solusi Mitigasi",
+      "soal": "Dalam penyusunan draf paparan kebijakan yang akan dipresentasikan pimpinan satu jam lagi, Anda baru menyadari bahwa Anda keliru memasukkan tabel data triwulan I padahal seharusnya data triwulan III. Langkah profesional yang segera Anda ambil adalah...",
+      "opsi": {
+        "A": "Segera memperbarui tabel pada salinan presentasi dengan data triwulan III yang valid, lalu melapor secara jujur kepada pimpinan sebelum rapat dimulai sambil menyerahkan file yang sudah diperbaiki",
+        "B": "Diam saja dan berharap pimpinan maupun peserta rapat tidak memperhatikan judul periode pada tabel tersebut",
+        "C": "Mengubah judul tabel menjadi 'Triwulan III' tanpa mengubah angka-angka di dalamnya agar terlihat sesuai",
+        "D": "Menyalahkan staf magang yang kemarin membantu memformat warna tabel di hadapan pimpinan",
+        "E": "Menghapus halaman tabel tersebut secara diam-diam sehingga pimpinan kehilangan data pendukung saat presentasi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 2,
+        "C": 1,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Kombinasi integritas dan profesionalisme: akui kekeliruan sejak dini sambil langsung membawa solusi perbaikan.",
+      "trik_cepat": "Saat sadar ada kesalahan teknis sebelum rapat: (1) Langsung siapkan file perbaikannya, (2) Lapor jujur ke pimpinan sebelum presentasi dimulai (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Jujur, sigap memperbaiki kesalahan sebelum berdampak pada keputusan rapat, dan bertanggung jawab penuh.\n• B & E (Poin 2): Pasif menyembunyikan masalah atau menghilangkan data penting tanpa izin.\n• C & D (Poin 1): Memanipulasi data (bohong publik) atau mengambinghitamkan orang lain."
+    },
+    {
+      "no": 39,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Penanganan Konten Ekstremisme di Grup Kantor",
+      "soal": "Di dalam grup percakapan lintas pegawai di kantor Anda, seorang rekan kerja mengunggah tautan artikel dan video dari situs tidak resmi yang memprovokasi kebencian terhadap kelompok agama tertentu serta menyerukan penggantian ideologi Pancasila karena dianggap buatan manusia. Sikap Anda yang paling tepat adalah...",
+      "opsi": {
+        "A": "Menegur secara persuasif melalui pesan pribadi bahwa konten tersebut bertentangan dengan kode etik dan sumpah setia ASN pada Pancasila, meminta unggahan dihapus, serta melaporkan kepada atasan/tim pembinaan kepegawaian jika yang bersangkutan tetap menyebarkannya",
+        "B": "Ikut membagikan ulang video tersebut ke grup keluarga di rumah karena merasa isinya sedang ramai dibicarakan",
+        "C": "Langsung memaki rekan tersebut dengan kata-kata kasar di dalam grup kantor hingga memicu pertengkaran terbuka",
+        "D": "Mendiamkan saja unggahan tersebut karena merasa urusan keyakinan ideologi adalah hak bebas masing-masing pegawai",
+        "E": "Keluar dari grup percakapan kantor secara diam-diam agar tidak perlu membaca pesan-pesan di grup lagi"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 3
+      },
+      "kunci": "A",
+      "inti_soal": "Prosedur ASN dalam merespons indikasi penyebaran paham radikal/anti-Pancasila oleh rekan kerja.",
+      "trik_cepat": "Rumus TKP Anti Radikalisme di kantor: Ingatkan secara santun/persuasif + Minta hentikan penyebaran + Eskalasi ke atasan/kanal resmi pembinaan ASN jika berlanjut (A = 5). Jangan diam/permisif (D) dan jangan main hakim sendiri dengan kasar (C).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Tegas membela ideologi Pancasila dan kode etik ASN melalui langkah bertahap yang terukur (persuasif lalu struktural/prosedural).\n• E (Poin 3): Menghindari paparan konten namun membiarkan ruang kantor disusupi paham radikal.\n• C & D (Poin 2): Reaktif secara tidak beradab atau permisif membiarkan pelanggaran sumpah ASN.\n• B (Poin 1): Turut menyebarkan paham radikal."
+    },
+    {
+      "no": 40,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Seleksi Narasumber Kegiatan Instansi",
+      "soal": "Anda ditunjuk sebagai ketua panitia acara pembinaan rohani dan mental pegawai di kantor. Salah satu anggota panitia mengusulkan nama seorang penceramah populer di media sosial, namun setelah Anda telusuri rekam jejak digitalnya, penceramah tersebut beberapa kali kedapatan melontarkan ceramah yang mengafirkan kelompok lain dan menolak hormat pada bendera Merah Putih. Keputusan Anda adalah...",
+      "opsi": {
+        "A": "Menolak usulan nama tersebut dengan memaparkan bukti rekam jejak digitalnya kepada panitia dan pimpinan, lalu menggantinya dengan narasumber kompeten yang moderat serta berwawasan kebangsaan",
+        "B": "Tetap mengundang penceramah tersebut karena jumlah pengikutnya banyak sehingga acara kantor akan ramai dihadiri pegawai",
+        "C": "Mengundang penceramah tersebut secara diam-diam tanpa memberi tahu pimpinan kantor",
+        "D": "Membatalkan seluruh program pembinaan mental pegawai sepanjang tahun agar tidak repot memilih narasumber",
+        "E": "Menyerahkan keputusan sepenuhnya kepada anggota panitia tersebut tanpa melakukan verifikasi lebih lanjut"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Pencegahan masuknya paham intoleran dan anti-NKRI melalui penyaringan (screening) narasumber di lingkungan instansi pemerintah.",
+      "trik_cepat": "Wajib lakukan screening rekam jejak kebangsaan: tolak narasumber yang intoleran/anti-simbol negara, koordinasikan ke pimpinan, dan pilih tokoh yang moderat/sejuk (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menerapkan pencegahan dini (early warning) terhadap infiltrasi paham radikal di instansi pemerintah secara objektif dan solutif.\n• D & E (Poin 2): Mengorbankan kegiatan positif atau lalai melakukan pengawasan.\n• B & C (Poin 1): Memberi panggung bagi penyebaran intoleransi dan sikap anti-NKRI di gedung negara."
+    },
+    {
+      "no": 41,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Empati & Pendekatan Humanis pada Eks-Simpatisan",
+      "soal": "Pemerintah daerah bekerja sama dengan BNPT menjalankan program deradikalisasi dan reintegrasi sosial bagi seorang warga di desa binaan Anda yang baru selesai menjalani masa pembinaan dan telah berikrar setia kembali kepada NKRI. Sebagian warga desa masih mencurigai dan berencana mengucilkan keluarga warga tersebut dari seluruh kegiatan ekonomi desa. Sebagai aparatur pembina masyarakat di wilayah tersebut, langkah Anda adalah...",
+      "opsi": {
+        "A": "Berkoordinasi dengan aparat desa, babinsa, bhabinkamtibmas, dan tokoh masyarakat untuk memberikan edukasi warga agar tidak mengucilkan keluarganya, sembari melibatkan yang bersangkutan dalam kegiatan pemberdayaan ekonomi dengan pendampingan terukur",
+        "B": "Ikut mendukung pengusiran keluarga tersebut dari desa agar Anda tidak perlu repot melakukan pemantauan",
+        "C": "Membiarkan warga desa melakukan tindakan main hakim sendiri terhadap rumah keluarga tersebut",
+        "D": "Menyuruh warga binaan tersebut hidup menyendiri di pinggir hutan tanpa boleh berinteraksi dengan siapa pun",
+        "E": "Memberikan seluruh dana desa kepada warga binaan tersebut tanpa pengawasan"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Mendukung keberhasilan program deradikalisasi dan reintegrasi sosial agar eks-binaan tidak kembali ke jaringan lama akibat pengucilan sosial.",
+      "trik_cepat": "Pengucilan ekstrem justru mendorong eks-binaan kembali ke jaringan radikal. Solusi tepat: Rangkul secara humanis + Edukasi warga bersama aparat kewilayahan + Tetap lakukan pendampingan terukur (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Mendukung program reintegrasi sosial negara secara kolaboratif, humanis, dan tetap waspada terukur.\n• D & E (Poin 2): Mengisolasi secara tidak manusiawi atau bertindak gegabah tanpa pengawasan.\n• B & C (Poin 1): Melanggar HAM dan menggagalkan program deradikalisasi pemerintah."
+    },
+    {
+      "no": 42,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Kewaspadaan Keamanan Lingkungan (Deteksi Dini)",
+      "soal": "Sebagai pengurus lingkungan RT di tempat tinggal Anda, Anda memperhatikan adanya sekelompok penghuni kontrakan baru yang sangat tertutup, tidak pernah menyerahkan identitas kependudukan, sering mengadakan pertemuan tengah malam dengan peserta dari luar daerah, dan menolak berinteraksi dengan warga sekitar. Tindakan paling bijaksana dan sesuai hukum adalah...",
+      "opsi": {
+        "A": "Melakukan pendekatan pendataan kependudukan secara sopan bersama pengurus RT/RW, dan apabila ditemukan indikasi mencurigakan atau penolakan prosedur, segera berkoordinasi secara tertutup dengan Bhabinkamtibmas/Babinsa setempat",
+        "B": "Mengajak puluhan pemuda kampung mendobrak pintu kontrakan tersebut secara paksa pada malam hari",
+        "C": "Mengabaikan hal tersebut sama sekali karena merasa urusan penghuni kontrakan bukan tanggung jawab pengurus lingkungan",
+        "D": "Menyebarkan foto rumah kontrakan tersebut di media sosial dengan tuduhan bahwa mereka pasti jaringan teroris sebelum ada bukti",
+        "E": "Meminta pemilik kontrakan menaikkan harga sewa dua kali lipat agar mereka pindah ke kelurahan lain"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 1,
+        "E": 2
+      },
+      "kunci": "A",
+      "inti_soal": "Deteksi dini (early detection) potensi gangguan keamanan di lingkungan masyarakat secara prosedural tanpa main hakim sendiri.",
+      "trik_cepat": "Jangan main hakim sendiri/geruduk massa (B = 1) dan jangan sebar fitnah tanpa bukti di medsos (D = 1). Gunakan mekanisme ketertiban administrasi RT/RW dan koordinasi aparat resmi Bhabinkamtibmas/Babinsa (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Menjalankan fungsi deteksi dini masyarakat secara tertib administrasi, santun, dan menyerahkan penanganan lanjutan kepada aparat berwenang.\n• C & E (Poin 2): Apatis terhadap keamanan lingkungan atau sekadar memindahkan potensi masalah.\n• B & D (Poin 1): Tindakan anarkis/main hakim sendiri atau pencemaran nama baik tanpa bukti hukum."
+    },
+    {
+      "no": 43,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Pencegahan Intoleransi pada Fasilitas Publik",
+      "soal": "Anda bertugas di dinas pendidikan daerah dan menerima laporan bahwa di salah satu sekolah negeri terdapat oknum pembina ekstrakurikuler yang mengajarkan siswa untuk tidak mau berteman dengan siswa yang berbeda agama serta melarang siswa mengikuti upacara bendera hari Senin. Langkah tegas dan tepat yang Anda lakukan adalah...",
+      "opsi": {
+        "A": "Segera menurunkan tim pengawas bersama kepala sekolah untuk memverifikasi laporan, menghentikan aktivitas pembina yang menyimpang tersebut, serta menyelenggarakan penguatan moderasi beragama dan wawasan kebangsaan bagi para siswa",
+        "B": "Membiarkan kegiatan ekstrakurikuler tersebut tetap berjalan karena khawatir mendapat protes dari oknum pembina",
+        "C": "Menutup sekolah negeri tersebut secara permanen dan memulangkan seluruh siswa ke rumah",
+        "D": "Menunggu sampai kasus tersebut viral di televisi nasional baru mulai memanggil kepala sekolah",
+        "E": "Memindahkan siswa yang berbeda agama ke sekolah swasta agar tidak terjadi gesekan di sekolah tersebut"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Melindungi ruang pendidikan publik dari doktrin intoleransi dan anti-kebangsaan.",
+      "trik_cepat": "Verifikasi cepat + Tindak tegas oknum pembina yang menyimpang + Pulihkan pemahaman siswa dengan edukasi moderasi beragama & cinta tanah air (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Responsif, tegas menghentikan penyebaran doktrin intoleran di sekolah, dan melakukan pemulihan edukatif bagi siswa.\n• D (Poin 2): Lamban dan reaktif menunggu viral.\n• B, C, E (Poin 1): Permisif terhadap radikalisme, merugikan hak belajar siswa, atau melakukan diskriminasi terhadap korban."
+    },
+    {
+      "no": 44,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Verifikasi Donasi & Pencegahan Pendanaan Terorisme",
+      "soal": "Menjelang hari besar keagamaan, seorang kenalan baru mengajak Anda dan rekan-rekan kantor menyumbangkan dana dalam jumlah besar melalui rekening pribadi sebuah yayasan yang belum terdaftar resmi, dengan dalih untuk membantu perjuangan kelompok tertentu di luar negeri. Ketika ditanya rincian laporan dan izin resminya, ia menjawab secara tertutup dan mendesak agar transfer dilakukan hari ini juga. Sikap Anda adalah...",
+      "opsi": {
+        "A": "Menolak menyumbang melalui jalur yang tidak transparan tersebut, mengecek legalitas lembaga di kementerian terkait, dan mengajak rekan-rekan menyalurkan donasi kemanusiaan hanya melalui lembaga filantropi resmi yang terverifikasi dan diaudit",
+        "B": "Langsung mentransfer uang dan mengajak seluruh pegawai kantor ikut menyumbang tanpa memeriksa legalitas yayasan",
+        "C": "Memberikan uang kas operasional kantor kepada kenalan tersebut agar jumlah sumbangan terlihat besar",
+        "D": "Menyumbang sedikit saja agar kenalan tersebut tidak tersinggung meskipun Anda curiga",
+        "E": "Meminjamkan nomor rekening pribadi Anda untuk menampung dana penggalangan ilegal tersebut"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 1,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Kewaspadaan terhadap modus penggalangan dana ilegal yang berpotensi terkait pendanaan ekstremisme/terorisme (TPPT).",
+      "trik_cepat": "Ciri penggalangan dana mencurigakan: pakai rekening pribadi, tidak berizin resmi, tertutup, dan mendesak. Solusi: Tolak tegas + Edukasi rekan agar berdonasi lewat lembaga resmi teraudit (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Cermat mencegah potensi Tindak Pidana Pendanaan Terorisme (TPPT) sekaligus mengarahkan niat baik donasi ke lembaga resmi yang akuntabel.\n• D (Poin 2): Tetap mengambil risiko menyumbang ke saluran mencurigakan.\n• B, C, E (Poin 1): Sangat ceroboh dan berpotensi melanggar hukum pendanaan ilegal."
+    },
+    {
+      "no": 45,
+      "subtes": "TKP",
+      "topik": "Anti Radikalisme - Ketahanan Keluarga & Literasi Digital Remaja",
+      "soal": "Anda mendapati adik kandung Anda yang masih duduk di bangku SMA mulai sering mengurung diri, membagikan unggahan dari grup telegram tertutup yang membenarkan aksi kekerasan atas nama ideologi, dan menyebut aparat negara sebagai musuh. Sebagai kakak sekaligus ASN, langkah penanganan yang paling tepat adalah...",
+      "opsi": {
+        "A": "Mengajak adik berdiskusi dari hati ke hati tanpa menghakimi untuk memahami kegelisahannya, meluruskan pemahamannya bersama tokoh agama/konselor yang moderat dan kompeten, serta mendampinginya keluar dari grup ekstrem tersebut",
+        "B": "Mengusir adik dari rumah saat itu juga agar nama baik dan karier Anda sebagai ASN tidak tercoreng",
+        "C": "Membiarkan saja karena menganggap hal tersebut hanya fase pencarian jati diri remaja biasa yang akan hilang sendiri",
+        "D": "Merampas ponselnya dengan kasar dan memukulnya di depan anggota keluarga tanpa memberikan penjelasan dialogis",
+        "E": "Ikut bergabung dan mendukung argumen kekerasan di grup tersebut demi menyenangkan hati adik"
+      },
+      "skor_opsi": {
+        "A": 5,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "kunci": "A",
+      "inti_soal": "Peran keluarga dalam kontra-radikalisasi dini pada remaja yang terpapar propaganda ekstrem di internet.",
+      "trik_cepat": "Menghadapi anggota keluarga yang mulai terpapar di medsos: Gunakan komunikasi empatik + Libatkan tokoh agama/konselor moderat untuk meluruskan narasi + Putus akses dari jaringan grup ekstrem (A = 5).",
+      "pembahasan": "Rincian Skor:\n• A (Poin 5): Mengambil langkah penyelamatan dini berbasis keluarga (family resilience) secara dialogis, melibatkan rujukan ahli moderat, dan memutus rantai paparan grup ekstrem.\n• C & D (Poin 2): Abai terhadap bahaya radikalisasi atau menggunakan kekerasan fisik yang justru membuat remaja makin membangkang.\n• B & E (Poin 1): Menelantarkan anggota keluarga ke tangan jaringan ekstrem atau ikut terjerumus."
+    }
+  ]
+}
